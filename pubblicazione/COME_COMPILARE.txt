@@ -1,0 +1,22 @@
+SORGENTI DEL PROGRAMMA DI INSTALLAZIONE
+======================================================================
+
+Questa cartella contiene il codice completo di DiscoElysium_Traduzione_ITA.exe,
+per chi vuole controllare che cosa fa o compilarlo da se'.
+
+  UnityLib.cs    lettura e scrittura dei file Unity (bundle e .assets)
+  Loc.cs         formato dei testi (I2 Localization) e delle etichette delle skill
+  PatchCore.cs   installazione, copia di sicurezza e ripristino
+  Patcher.cs     finestra del programma e ricerca della cartella del gioco
+
+Il programma non contiene dati nascosti: testi e immagini stanno nella cartella "dati",
+in file leggibili (i .tsv si aprono con il Blocco note).
+Non si collega a Internet e scrive soltanto nella cartella del gioco.
+
+COMPILAZIONE
+Non serve installare nulla: basta il compilatore C# incluso in Windows.
+Apri il Prompt dei comandi in questa cartella ed esegui, su una sola riga:
+
+%WINDIR%\Microsoft.NET\Framework64\v4.0.30319\csc.exe /nologo /optimize+ /target:winexe /out:DiscoElysium_Traduzione_ITA.exe /win32manifest:app.manifest /win32icon:icona.ico /r:System.Windows.Forms.dll /r:System.Drawing.dll UnityLib.cs Loc.cs PatchCore.cs Patcher.cs
+
+L'exe ottenuto va messo accanto alla cartella "dati".

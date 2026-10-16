@@ -1,0 +1,150 @@
+General	ANNOTATION_ENDURANCE_HEALED	+{0} Resistenza recuperata
+General	ANNOTATION_LEVEL_UP	Nuovo livello!
+General	ANNOTATION_QUICKTRAVEL_ENABLED	Viaggio rapido sbloccato
+General	ANNOTATION_VOLITION_REGAINED	+{0} Volontà recuperata
+General	Abilities/ABILITY_ADJUST_TITLE	Imposta attributi
+General	Abilities/ABILIY_DESC_FYS	La tua muscolatura: quanto sei forte.
+General	Abilities/ABILIY_DESC_INT	Pura potenza cerebrale: quanto sei intelligente.
+General	Abilities/ABILIY_DESC_MOT	I tuoi sensi: quanto sei agile.
+General	Abilities/ABILIY_DESC_PSY	La tua sensibilità: quanto sei emotivamente intelligente.
+General	Archetypes/ARCHETYPE_DESC_DETECTIVE	Svelto nei movimenti e nel pensiero, con sensi acuti. Un personaggio equilibrato e completo, ma che non eccelle in nulla.
+General	Archetypes/ARCHETYPE_DESC_PHYSICAL	Estremamente fisico. Interagisce con il mondo attraverso il corpo. Porta a termine le cose, ma è stupido come un sasso.
+General	Archetypes/ARCHETYPE_DESC_SENSITIVE	Molto psicologico. Una personalità magnetica, ma instabile. (Potrebbe iniziare a perdere la testa.)
+General	Archetypes/ARCHETYPE_DESC_THINKER	Estremamente intelligente. Pessimo con le persone. Conosce fatti interessanti, ha idee originali.
+General	Archetypes/ARCHETYPE_NAME_PHYSICAL	Fisico
+General	BASE_ABILITY_LABEL	Attributo base
+General	Buttons/JOURNAL_MAP_LABEL_TEXT	DISTRETTO DI MARTINAISE nel QUARTIERE DI JAMROCK della REGIONE AMMINISTRATIVA SPECIALE DI REVACHOL
+General	Buttons/SETTINGS_BUTTON_RESET_SETTINGS_TEXT	Ripristina impostazioni
+General	Buttons/SETTINGS_BUTTON_RESET_TUTORIAL_TEXT	Ripristina tutorial
+General	CHARSHEET_CREATION_ABILITIES_TITLE	Distribuzione degli attributi
+General	CHARSHEET_ROLLED_THIS_EXPLANATION	Questo l'ho tirato io.
+General	CHARSHEET_TOOLTIP_REVERT_ABILITIES_TITLE	Azzera gli attributi
+General	Difficulties/DIFFICULTY_NO_NAME	Numero obiettivo
+General	EFFECT_FIND_BETTER_ITEMS	Trovi bottini migliori nei contenitori chiusi a chiave
+General	EFFECT_MAX_LEARNING_CAP_ALL_RAISED	Tutti i limiti di apprendimento di {0} aumentano di {1}
+General	EFFECT_MAX_LEARNING_CAP_ALL_SET	Tutti i limiti di apprendimento di {0} impostati a {1}
+General	EFFECT_MODIFY_CAMERA_MAX_ZOOM_LIMIT	+{0}% distanza di zoom indietro
+General	EFFECT_MOUTH_SLOT	Ti inserisce permanentemente in bocca del magico tabacco da masticare
+General	EFFECT_PASSIVES_SUCCEED	Supera tutti i controlli passivi di {0}
+General	EFFECT_PASSIVE_TARGET_MODIFIER	{0} difficoltà a tutti i controlli passivi di {1}
+General	F1_SCREEN_SKILL_CHECKS_FIRST_BULLET	I Controlli Bianchi si possono ritentare\nEsplora le opzioni o sali di livello per riprovare
+General	F1_SCREEN_SKILL_CHECKS_SECOND_BULLET	I Controlli Rossi sono definitivi
+General	F1_SCREEN_SKILL_CHECKS_TITLE	CONTROLLI DI ABILITÀ
+General	F1_SCREEN_TOOLS_SECOND_BULLET	Gli strumenti dipendono dal contesto: equipaggiali prima dell'uso
+General	HUD_CHARSHEET_ABBREVIATION	PER
+General	INVENTORY_EQUIPMENT_HELD R	Mano D
+General	INVENTORY_EQUIPMENT_HELD_L	Mano S
+General	INVENTORY_TOOLTIP_INTRODUCTION_DESCRIPTION	Per equipaggiare gli oggetti, trascinali nello slot corrispondente.\n\nPuoi interagire con i consumabili e con alcuni oggetti selezionandoli e cliccando sul pulsante INTERAGISCI o CONSUMA.\n\nGli slot Mano servono per consumare alcol e/o droghe durante i dialoghi.
+General	TOOLTIP_INVENTORY_DESCRIPTION	Per equipaggiare gli oggetti, trascinali nello slot corrispondente.\n\nPuoi interagire con i consumabili e con alcuni oggetti selezionandoli e cliccando sul pulsante INTERAGISCI o CONSUMA.\n\nGli slot Mano servono per consumare alcol e/o droghe durante i dialoghi.
+General	INVENTORY_TOOLTIP_PAWN_ALL	Impegna>
+General	INVENTORY_TOOLTIP_PAWN_FOR	Impegna per
+General	JOURNALS_ACTIVE_TAB	Attivi
+General	JOURNALS_DONE_TAB	Completati
+General	JOURNAL_MAP_INCOMPLETE_DESCRIPTION	Procurati una copia della mappa della città
+General	JOURNAL_OFFICER_PROFILE_MISSING_TITLE	PROFILO AGENTE\nINCOMPLETO
+General	JOURNAL_OFFICER_PROFILE_TITLE	Profilo dell'agente
+General	JOURNAL_OFFICER_PROFILE_WATERMARK	Individua le filigrane\nalogene
+General	JOURNAL_TUTORIAL_TEXT	Questi sono i Controlli Bianchi trovati.\nQuelli su sfondo bianco si possono tentare subito!
+General	KIM_BYE_BARK	"Ciao."
+General	KIM_GOODMORNING_BARK	"Buongiorno."
+General	KIM_GOODNIGHT_BARK	"Ci vediamo domattina."
+General	KIM_NEVERMIND_BARK	"Lascia stare."
+General	MAIN_MENU_LOAD	Carica partita
+General	MAIN_MENU_NEW_GAME	Nuova partita
+General	MAIN_MENU_QUIT_TO_MENU	Menu principale
+General	MAIN_MENU_SAVE	Salva partita
+General	Messages/CHARSHEET_FINALIZE_POINTS	Confermare la distribuzione dei Punti Abilità?
+General	Messages/CONFIRMATION_DELETE_ALL_SAVE	Sei assolutamente e definitivamente sicuro di volerti separare da {0} salvataggi?
+General	Messages/CONFIRMATION_DELETE_SAVE	Sei assolutamente e definitivamente sicuro di volerti separare dal salvataggio intitolato {0}?
+General	Messages/CONFIRMATION_LOAD	Vuoi davvero caricare il salvataggio intitolato {0}?
+General	Messages/CONFIRMATION_OVERWRITE_SAVE	Vuoi davvero riciclare i bit e sostituire il contenuto del salvataggio intitolato {0}?
+General	Messages/CONFIRMATION_RESET_SETTINGS	Vuoi ripristinare le impostazioni?
+General	Messages/ERROR_NAME_EXISTS_SAVE	Esiste già un salvataggio con quel nome!
+General	Messages/ERROR_REPORT	Si è verificato un errore\n\nVuoi inviarci una segnalazione, così possiamo trovare il modo di risolvere il problema?
+General	Messages/ERROR_SETTINGS_FILE_CORRUPTED	Il file delle impostazioni è danneggiato e non può essere letto: ne verrà generato uno nuovo.
+General	Messages/NOTIFICATION_EXP_SUFFIX	XP
+General	Messages/NOTIFICATION_HEALTH_HEALED	Salute recuperata
+General	Messages/NOTIFICATION_HEAL_YOURSELF	Curati subito!
+General	Messages/NOTIFICATION_ITEM_GAINED	Oggetto ottenuto
+General	Messages/NOTIFICATION_ITEM_HEALING	Oggetto curativo ottenuto
+General	Messages/NOTIFICATION_ITEM_MORALE	Oggetto curativo ottenuto
+General	Messages/NOTIFICATION_MORALE_HEALED	Morale recuperato
+General	NET_WORTH	Patrimonio netto
+General	NEWSPAPER_DEFAULT_OPENER	La Milizia Cittadina di Revachol ha perso un altro agente nella sua incessante battaglia contro l'illegalità a Martinaise. A quanto risulta, l'agente era impegnato in un'indagine sul macabro linciaggio di uno sconosciuto dietro l'ostello e tavola calda Whirling-in-Rags.
+General	NEWSPAPER_DEFAULT_TITLE	Agente caduto nel distretto di Martinaise
+General	OFFICER_PROFILE_DORK	Nerd dei Motori
+General	OFFICER_PROFILE_SORRY	Poliziotto Dispiaciuto
+General	Thoughts/torque_dork/DisplayName	Nerd dei Motori
+General	QUICKTRAVEL_TRAVEL_HERE	Vai qui
+General	QUICKTRAVEL_YOU_ARE_HERE	Sei qui
+General	SETTINGS_OPTION_YES	Sì
+General	SETTINGS_CAPTURE_MOUSE	Vincola mouse
+General	SETTINGS_CONTROLS_BACK_CLOSE	Indietro / Chiudi menu
+General	SETTINGS_CONTROLS_CHARSHEET	Scheda personaggio
+General	SETTINGS_CONTROLS_CONTEXT	In base al contesto
+General	SETTINGS_CONTROLS_DIALOGUE_NAVIGATION	Navigazione dialoghi / menu
+General	SETTINGS_CONTROLS_HIGHLIGHT	Evidenzia
+General	SETTINGS_CONTROLS_HIGHLIGHT_HELP	Evidenzia / Tieni premuto per la guida
+General	SETTINGS_CONTROLS_LEFT_ITEM	Oggetto della mano sinistra
+General	SETTINGS_CONTROLS_OPEN	Apri
+General	SETTINGS_CONTROLS_TARGETING_SELECTION	Mira / Selezione
+General	SETTINGS_CONTROLS_TOGGLE_CATEGORY	Cambia categoria del menu
+General	SETTINGS_CONTROLS_X_TO_SELECT	Usa {0} per selezionare
+General	SETTINGS_CONTROLS_ZOOM_IN	Zoom avanti
+General	SETTINGS_CONTROLS_ZOOM_IN_MENU	ZOOM AVANTI / NAVIGAZIONE MENU
+General	SETTINGS_CONTROLS_ZOOM_OUT	Zoom indietro
+General	SETTINGS_CONTROLS_ZOOM_OUT_MENU	ZOOM INDIETRO / NAVIGAZIONE MENU
+General	SETTINGS_CONTROLS_ZOOM_RESET	Ripristina zoom
+General	SETTINGS_DETECTIVE_MODE_DESCRIPTION	Con la Modalità Detective attiva, gli oggetti e i personaggi con cui si può interagire vengono evidenziati automaticamente con un bordo luminoso quando il personaggio si avvicina.
+General	SETTINGS_DIALOGUE_MENU_SIZE_DESCRIPTION	Regola la dimensione del testo dei menu
+General	SETTINGS_DIALOGUE_TEXT_SIZE_DESCRIPTION	Regola la dimensione degli elementi di gioco.
+General	SETTINGS_DISPLAY_MODE	Modalità schermo
+General	SETTINGS_GAME_TIP	Suggerimento
+General	SETTINGS_HELP_HOLD_TO_REMAP	TIENI PREMUTO PER RIASSEGNARE
+General	SETTINGS_HELP_MENU_TAP_RESET	DOPPIO TOCCO PER RIPRISTINARE
+General	SETTINGS_HELP_OPEN_BUBBLE	APRI BOLLA DI PENSIERO
+General	SETTINGS_HELP_READ_DESCRIPTION	LEGGI LA DESCRIZIONE
+General	SETTINGS_HELP_SKILL_CHECKS_DESCRIPTION_2	I CONTROLLI ROSSI SONO DEFINITIVI
+General	SETTINGS_HELP_SKILL_POINTS_DESCRIPTION_2	I CONTROLLI BIANCHI SI POSSONO RITENTARE
+General	SETTINGS_HELP_SKILL_POINTS_TITLE	PUNTI ABILITÀ
+General	SETTINGS_HELP_TARGETING_INTERACTABLES	MIRA SUGLI OGGETTI INTERATTIVI
+General	SETTINGS_HELP_TOOLS_DESCRIPTION_2	GLI STRUMENTI DIPENDONO DAL CONTESTO: EQUIPAGGIALI PRIMA DELL'USO
+General	SETTINGS_REMAP	Riassegna
+General	SETTINGS_REMAP_CONTROLLS	Riassegna i comandi
+General	SETTINGS_RESET	Ripristina
+General	SETTINGS_SIZE_DESCRIPTION_SWITCH_SPECIFIC	\nImpostazione per la modalità di gioco corrente ({0})
+General	SETTINGS_TOGGLE	Attiva/Disattiva
+General	SETTINGS_TUTORIAL_AGENT	Agente Tutorial
+General	SETTINGS_TWITCH_INTEGRATION_DESCRIPTION	Con l'integrazione Twitch, gli streamer possono creare sondaggi per permettere agli spettatori di influenzare il gioco. Gli spettatori possono votare le opzioni di dialogo preferite e assegnare bonus e penalità temporanei agli attributi principali dello streamer. Possono inoltre consultare in qualsiasi momento la Scheda personaggio e il Diario dello streamer.
+General	SETTINGS_VIBRATION_DESCRIPTION	Senti le cose tra le mani, come se fossi lì, come se fosse tutto reale.
+General	SETTINGS_VOICEOVER	Doppiaggio
+General	SETTINGS_VOICEOVER_MODE	Modalità doppiaggio
+General	SETTINGS_VOICEOVER_VOLUME	Volume doppiaggio
+General	SETTINGS_VOICEOVER_TOOLTIP	Completa - tutti i dialoghi doppiati\nPsicologica - tutto tranne la narrazione\nClassica - solo le battute introduttive
+General	SWITCH_HANDHELD	Portatile
+General	Skills/SKILL_NAME_NONE	Nessuna
+General	TASK_FILLED	Compilato
+General	TASK_FORFEITED	Abbandonato
+General	THC_SPLASH_SCREEN_TITLE	Pensiero completato
+General	THC_TOOLTIP_BREAKTHROUGH_IMMINENT	Svolta imminente!
+General	TOOLTIP_DESCRIPTION_INITIALIZATION_NO_SLOT	Sblocca un nuovo slot per ricercare il pensiero
+General	TOOLTIP_EXPLAIN_PASSIVE	A volte le abilità interpretano il mondo in base alle tue capacità.
+General	TOOLTIP_EXPLAIN_RED	I Controlli Rossi si possono tentare una sola volta e non si possono ripetere.
+General	TOOLTIP_EXPLAIN_WHITE	I Controlli Bianchi si possono ritentare quando tu o le tue probabilità migliorate.
+General	TOOLTIP_FORCE_FAILURE	Fallimento inevitabile
+General	TOOLTIP_FORCE_SUCCESS	Successo inevitabile
+General	TOOLTIP_HEAL_MORALE_ONE_DESC	+1 Morale
+General	TOOLTIP_LOCKED_EXPLANATION	Aumenta il livello dell'abilità o trova dei bonus per riprovare.
+General	TOOLTIP_TITLE_FORGET_REQ	Requisito per dimenticare
+General	TOOLTIP_TUTO_CHECK_RED	Questo è un Controllo Rosso.\nNon si può ritentare.
+General	TOOLTIP_YOU_HAVE	Hai
+General	Tips/TIP_10	Scegli le opzioni di dialogo che iniziano con "aspetta" o "un momento" per ottenere ulteriori informazioni prima che la conversazione prosegua.
+General	Tips/TIP_12	I punti abilità possono anche sbloccare nuovi slot del Gabinetto del Pensiero, o far dimenticare i vecchi Pensieri!
+General	Tips/TIP_16	Il lavoro di polizia è duro. Prenditi delle pause: parla con gli sconosciuti, esplora!
+General	Tips/TIP_17	Puoi dormire dopo le 21.00. Dormire ripristina tutta la Salute e il Morale.
+General	Tips/TIP_2	Devi far passare il tempo? Compra un libro. Leggendo il tempo passa in fretta.
+General	Tips/TIP_8	A corto di soldi? Equipaggia un sacchetto di plastica, raccogli le bottiglie e vendile al Frittte!
+General	VISCAL_FENCE_CRASH	Schianto
+General	VISCAL_FENCE_REVERSE	Retromarcia
+General	VISCAL_FENCE_START	Partenza
+General	VISCAL_FENCE_TURN	Svolta

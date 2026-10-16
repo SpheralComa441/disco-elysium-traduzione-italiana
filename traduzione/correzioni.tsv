@@ -1,0 +1,719 @@
+General	0x010000580002068B/Name	Civile
+General	Actors/0x010000580002068B/Name	Civile
+General	Actors/2s1_ecylh9phmmlw/Name	Cornelius Gurdi e le Capre di Montagna
+General	Actors/l_g3lf0sent68y1i/Name	Gabbiano
+General	Actors/s3d41lujkckucung/Name	Body leopardato
+General	Buttons/INVENTORY_BUTTON_INTERACT_READ_TEXT	LEGGI ¶
+General	Conversation/0x010000040000DB45/Title	PLAZA ORB / cartello stradale "fuck the police"
+General	Conversation/0x010000040000DB4C/Title	PLAZA ORB / cartello stradale "Pigs go home"
+General	Conversation/0x0100002B000013BB/Description	[Aimée.] Un dialogo con una donna che ha un lavoro. E un marito. E dei figli.
+General	Conversation/0x0100004C000112F0/Description	*Perché nessuno ha sentito lo sparo?*\nIn piazza, una volta che "convincere i ragazzi Hardie a dirti dov'è Ruby = fatto", Klaasje non è stata arrestata e anche Skillset Compromised è fatto.
+General	Conversation/1owioef_a1f7_r3z/Description	'Il Principio Mullen II: Protocolli Mullen'
+General	Conversation/2fscvv4gv00t36c1/Description	'Pazzi per Mullen'
+General	Conversation/36x7mfhisch4rywj/Description	'L'essenziale di Mullen'
+General	Conversation/3fjmevd3vzw9pd6h/Description	A quanto pare tutti vogliono un pezzo di Mullen.
+General	Conversation/42pl69hyqhsp57ug/Description	'Mullen e io'
+General	Conversation/4ljzgleuajya6778/Description	Più sono grossi, meno gli piaccio.
+General	Conversation/665d3ehpu9els82p/Description	Vicoli: visto uno, visti tutti.
+General	Conversation/6d2wd74z2uoqgyzs/Description	'Prendete Mullen'
+General	Conversation/6iqenb1kdv7mbncb/Description	Domande difficili: le uniche che valga la pena fare.
+General	Conversation/6kvjqj7c991_9bax/Description	'Dottrina: Mullen'
+General	Conversation/6yc7a_9akjpfbint/Description	Più buio è il pozzo, più sporco è il segreto.
+General	Conversation/7s_3jp99z5jc1snv/Description	'Firmato: Mullen'
+General	Conversation/7x32n2qyu34lc_pg/Description	'Made in Mullen'
+General	Conversation/81xu3f8m32g0zznt/Description	'Dev'essere Mullen'
+General	Conversation/8aa61rgetc_6mhm7/Description	'Plasmare Mullen'
+General	Conversation/95bs_mroj6c8j54_/Description	Si direbbe che Dio se ne sia andato senza prima saldare il conto.
+General	Conversation/_tmmrhn0fyuu915p/Description	Il posto perfetto per inscenare la propria morte.
+General	Conversation/c8nw3o44xcifq7sb/Description	Indovina di chi sono le azioni appena schizzate alle stelle.
+General	Conversation/cr7gydsmhi83dqpk/Description	'Il Principio Mullen'
+General	Conversation/d2za_xkbn500pc0l/Description	Pupe e barche: una combinazione pericolosa.
+General	Conversation/dbeqonynymkbzqy3/Description	Se pesti una merda, un po' ti resta per forza attaccata alla scarpa.
+General	Conversation/e6hfoi72yjhb3add/Description	Fine della corsa, Mullen. Questa è la tua fermata.
+General	Conversation/f4un7d7th9lbdh7h/Description	'Mullen Mullen'
+General	Conversation/glpdopudar81ctwu/Description	Mullen non aveva bisogno di quella merda. Fu la merda a venirlo a cercare.
+General	Conversation/ir5yseww5d_l0jqt/Description	Un altro giorno, un altro caso, pensò Mullen guardando l'acquazzone.
+General	Conversation/jzrqyb9_wsb2gvzt/Description	'Fallo alla Mullen'
+General	Conversation/ml5rqlkn7q2ut_jo/Description	'Richard Mullen: La verità basterà'
+General	Conversation/msvoc9p2om0fbq1j/Description	Le strade: o le capisci, o sei morto.
+General	Conversation/mxhcaqfsq1oprtfd/Description	Il crimine e il peccato, esseri umani che vivono come topi.
+General	Conversation/ncf3m52vxqrgczyv/Description	Queste torbide profondità sembrano invitanti per tutte le ragioni sbagliate.
+General	Conversation/nifs9w87mw1lbn72/Description	Qualcuno ha trovato l'amore. Povero bastardo.
+General	Conversation/nxfx0bz64tnk0023/Description	'Dick Mullen e i Mullenmen'
+General	Conversation/o05fserbpyxd1txp/Description	Sta' tranquillo, morto. *Andremo* in fondo a questa storia.
+General	Conversation/o99haovb48zzquel/Description	'Più che Mullen'
+General	Conversation/oex1xvkb3meq9e1g/Description	Un fiume di merda. Metafora perfetta della vita nei quartieri malfamati.
+General	Conversation/os3yrtfldlaoc9c6/Description	Di merda come le vite di chi ci abita.
+General	Conversation/ov8pa82yo2rd7rk0/Description	Questo canale deve aver visto passare a galla un cadavere o due.
+General	Conversation/qxdv0ok20ker8i1b/Description	Spie non si nasce, si diventa.
+General	Conversation/saml4e4f61x6fdn5/Description	'Un pizzico di Mullen'
+General	Conversation/sklx_vq500o2jdjt/Description	'Mullen smascherato'
+General	Conversation/t7adn9n_ncxkfhn2/Description	Il messaggio è chiaro... questo è l'unico avvertimento che riceverai.
+General	Conversation/ty6w7yinx7bp592x/Description	'Plasmare Mullen'
+General	Conversation/u7mwj8_pluk9c6ao/Description	Un uomo potrebbe sistemarsi qui, mettere su famiglia. Non Mullen. Un altro uomo.
+General	Conversation/ufv1gqzah7pshmrn/Description	È ora di fare le domande che nessuno vuole sentirsi fare.
+General	Conversation/xavdtiggxxcxifj4/Description	'Mullenami questo'
+General	Conversation/xvkfl0rigq7or04o/Description	Una vita violenta, finita violentemente.
+General	Conversation/yebcgvhqut8t5yd4/Description	Gli uomini vengono arrestati, i cani vengono abbattuti.
+General	Conversation/zv3l2lyufngfp6rw/Description	*Wild* Pines? pensò Mullen. Questo è da vedere.
+General	INTRO_FURIES_QUOTE	“Le furie sono di casa nello specchio; è il loro indirizzo. Anche l'acqua più limpida, se abbastanza profonda, può annegare.” - R. S. Thomas
+General	Items/badge/DisplayName	Distintivo MCR "LTN-2JFR DU BOIS"
+General	Items/boombox/DisplayName	Lettore di nastri "Harmon Wowshi W02"
+General	Items/drug_smokes_astra/DisplayName	Sigarette "Astra"
+General	Items/figurine_set_revolutionary/DisplayName	Set di figurine "Rivoluzionario"
+General	Items/game_wirral/Description	Un gioco da tavolo *fantastique populaire* dell'alto Pasternal, illustrato con vedute bucoliche e popolato da creature umanoidi dall'aspetto bizzarro. È il modulo di espansioni mega-ambientazione della 3ª edizione e non può essere giocato senza il gioco base.
+General	Items/game_wirral/DisplayName	Gioco da tavolo "Wirrâl"
+General	Items/gloves_faln/DisplayName	Guanti FALN serie "Ultra"
+General	Items/jacket_fucktheworld/DisplayName	Giacca di pelle "Fuck the World"
+General	Items/kvalsund_multitool/Description	Questo è un piede di porco avanzato -- un piede di porco +2, se vuoi -- costruito da Kvalsund, a Vaasa. Il numero di gadget nascosti nel telaio del multiutensile giallo e grigio lascerebbe di stucco qualsiasi tecnico.
+General	Items/leopard_print_body_suit/Description	Questo indumento leopardato è stato portato a riva dal mare, incastrato tra rocce e ghiaccio. Quando lo avvicini al viso emana un odore di umido. Ha un'aria pericolosamente selvaggia, come se convenisse pensarci due volte prima di avvicinarsi…
+General	Items/leopard_print_body_suit/DisplayName	Body leopardato
+General	Items/lieutenants_notebook/Description	Il taccuino del tenente Kitsuragi, un Mnemotechnique A6: un classico. Non puoi fare a meno di chiederti perché tu non ne abbia uno.
+General	Items/shoes_donks/+1 Physical Instrument	PASSO PESANTE
+General	KIM_REMOVING_PISSJACKET_BARK	"Basta così, ho chiuso."
+General	LEGAL_TEXT_CONSOLES	Disco Elysium © 2019-2026 Pubblicato da Zaum Studio Limited.\nDISCO ELYSIUM è un marchio registrato di Zaum Studio OU.\nTutti i diritti riservati.
+General	LEGAL_TEXT_PC	Disco Elysium © 2019-2026 Pubblicato da Zaum Studio OU.\nDISCO ELYSIUM è un marchio registrato di Zaum Studio OU.\nTutti i diritti riservati.
+General	MENU_CONSOLES_AUTOSAVE	SALVATAGGIO AUTOMATICO
+General	Newspapers/GIVING_UP/Description	Un altro agente di polizia si è dimesso dalla MCR in seguito a un esaurimento nervoso. Ora vive sotto un ponte, beve e di tanto in tanto lancia escrementi ai passanti gridando: "Non ho mai amato quella donna!"\n\nInterpellati per un commento, gli ex colleghi hanno respinto la teoria secondo cui il suo crollo psicologico sarebbe stato innescato dall'abbandono da parte della moglie. "È perché i Furrows hanno perso quella partita", ha detto il capitano Ptolemy Pryce, un tempo suo superiore. "È perché non è riuscito a farsi dare una pistola grossa dall'ufficio acquisti e, comunque, il lavoro di polizia dopo un po' ti logora sul serio", ha commentato l'Agente-Satellite Jean Vicquemare, partner dell'ex poliziotto squilibrato. Il sergente Mack Torson, un altro ex collega, non ha avanzato alcuna teoria, limitandosi a dire: "Qualunque cosa gli sia successa, non c'entravano gli uccelli. È stato f****o, tutto qui."
+General	Newspapers/HARIES_ARREST/Description	Triste notizia dal distretto di Martinaise, dove il corpo di un agente di polizia è stato trovato a galleggiare in un canale. Si ritiene che l'agente stesse seguendo un'indagine per omicidio ma sia rimasto coinvolto nello sciopero dei portuali, per poi essere ucciso a colpi d'arma da fuoco in circostanze poco chiare.\n\n"Una simile, inutile perdita di vite umane è davvero tragica", ha commentato il leader dell'Unione locale Evrart Claire, aggiungendo che, sebbene l'evento sia 'davvero orribile', incidenti simili si ripeteranno se ai vigilanti di destra sarà permesso di scorrazzare senza controllo, cercando di 'intrufolarsi' in quartieri ben organizzati.
+General	RANK_APPEND_CHARACHTER_CREATION_LABEL	grado
+General	SETTINGS_CONTROLS_ZOOM_IN_OUT	Zoom avanti / Zoom indietro
+General	SETTINGS_LANGUAGE_SWITCH_TOOLTIP	PREMI "{0}" O "{1}" PER CAMBIARE LINGUA AL VOLO DURANTE IL GIOCO
+General	Thoughts/motorway_south/Description	Ai margini della mappa la terraferma comincia a disintegrarsi in pura trigonometria. L'oceano si scioglie, diventando un groviglio di seni e coseni, la catena montuosa si trasforma in un azimut dagli angoli acuti. La sua verde ombra pluviometrica tremola, come musica che si trasforma in forma d'onda. E poi svanisce. Questa è la fine, un libro di testo della tua infanzia ricordato a metà: il portico che crolla sul bordo dell'isola. Una transizione dalla realtà al pallore. Un singolo vettore schizza fuori, come un razzo. È l'Autostrada del Sud, che si stacca dal pallore conosciuto! *Verso dove*? Dove va?
+General	Thoughts/terrier/Description	I casi di persone scomparse ti toccano davvero nel profondo. È dura vedere la gente preoccuparsi per i propri cari: i piccoli movimenti nervosi, le occhiaie scure per le notti insonni. E anche se non c'è nessuna persona cara ad aspettare, a te piace avere tutto in ordine, e ti dà davvero fastidio quando mancano all'appello delle persone intere.
+General	Thoughts/the_waste_land_of_reality/DisplayName	Desolata Terra della Realtà
+General	Thoughts/the_waste_land_of_reality/Research/-2 Physical Instrument	Insonnia
+General	Thoughts/torque_dork/DisplayName	Fanatico della Coppia Motrice
+General	Thoughts/trant_heidelstam/Description	È mercoledì sera e sta succedendo qualcosa di tremendamente eccitante. La gente si è radunata sotto il tetto ondeggiante di un edificio-trofeo dalla forma bizzarra, sorseggia vino e scambia opinioni. I ventinovenni gemelli prodigio Guy e Keith Joost sono le stelle dello spettacolo, con i loro bomber e le sneaker bianche: i curatori capo di questa mostra d'arte. È l'evento più wompty-dom-di-dommoso dell'anno e tutta la gente che conta ha confermato la presenza. Dove sei tu, se non sei lì?
+General	SETTINGS_DYSLEXIC_FONT	Font per dislessia
+General	SETTINGS_DYSLEXIC_FONT_DESCRIPTION	Facilita la lettura alle persone con dislessia.\nNon disponibile in cinese.
+General	MAIN_MENU_COLLAGEMODE	Collage
+Dialogues	tooltip2/0x0100005A0000BCEE	Dado standard di Wirrâl.
+Dialogues	Dialogue Text/0x010000810000198A	Più a fondo...
+Dialogues	Dialogue Text/0x0100008F0000212C	Ehm... io?
+Dialogues	Dialogue Text/0x0100008F00002EC3	*Marche* -- Acceso. *Arrêt* -- Spento.
+Dialogues	Dialogue Text/0x01000004000038E4	"Sforno rime dal giorno in cui sono nato."
+Dialogues	tooltip4/0x0100000B00001233	Dado standard anti-Wirrâl.
+Dialogues	Dialogue Text/0x0100005A000089D8	"Poliziotto Duro!"
+Dialogues	Dialogue Text/0x0100008100004089	"Cazzo, sì!"
+Dialogues	tooltip1/0x010000890000472B	Dado standard di Wirrâl.
+Dialogues	Dialogue Text/0x0100007B000032FE	"Hobo chic."
+Dialogues	tooltip4/0x0100004D000036B3	Dado standard di Wirrâl.
+Dialogues	Dialogue Text/0x0100000700012B80	"FANCULO LA POLIZIA DEL CAZZO!!!!"
+Dialogues	Dialogue Text/0x01000006000009EB	"Cuno -- Zitto."
+Dialogues	Dialogue Text/0x0100000600001A95	"Ma va'."
+Dialogues	Dialogue Text/0x01000006000026C5	"C'era da aspettarselo."
+Dialogues	Dialogue Text/0x0100008900001581	"Revanscista?"
+Dialogues	Dialogue Text/0x0100007800010CE3	"Che sfiga."
+Dialogues	tooltip3/0x010000450000069E	Multiutensile Kvalsund.
+Dialogues	Dialogue Text/0x0100004500003F90	"Cazzo-di-un-cazzo..."
+Dialogues	Dialogue Text/0x0100008200005E1C	"Che sfiga!"
+Dialogues	tooltip7/0x0100000F000099F3	Dado standard di Wirrâl.
+Dialogues	Dialogue Text/0x010000580001F5CD	Sindacato delle Corse Clandestine?
+Dialogues	Dialogue Text/0x010000580001F5D3	"Sindacato delle Corse Clandestine?"
+Dialogues	Dialogue Text/0x0100004B0000135B	"Qui DJ Mesh, chiudo."
+Dialogues	tooltip2/0x010000580001EC5F	Dado standard anti-Wirrâl.
+Dialogues	tooltip4/0x010000040000296B	Dado icosaedrico rosso.
+Dialogues	tooltip4/0x0100005A00009E34	Dado icosaedrico rosso.
+Dialogues	tooltip5/0x0100002E0000015D	Dado icosaedrico rosso.
+Dialogues	tooltip4/0x0100005100004575	Dado standard anti-Wirrâl.
+Dialogues	tooltip8/0x0100005800002DD6	Dado icosaedrico rosso.
+Dialogues	tooltip9/0x0100009200002B75	Dado standard di Wirrâl.
+Dialogues	tooltip4/0x01000045000122D1	Dado standard anti-Wirrâl.
+General	Actors/i2638p11kdb5l22a/Name	Nuotatore dei ghiacci
+Dialogues	Dialogue Text/0x0100000700006221	"Volevi che gli riferissimo tutte queste informazioni..." interrompe il tenente.
+Dialogues	tooltip3/0x0100002B00085D2A	Fantasma della radio.
+Dialogues	tooltip3/0x0100007B00001F30	Tenace.
+Dialogues	Dialogue Text/0x010000410000032D	"Non lo farò."
+Dialogues	Dialogue Text/0x0100004100000333	"Lo farò."
+Dialogues	Dialogue Text/0x010000410000033B	Non dire nulla.
+Dialogues	Dialogue Text/0x0100004100000342	I suoi occhi ti sorridono con gentilezza.
+Dialogues	Dialogue Text/0x0100004100000348	"Ehi, e se non funziona..." prende un berretto dal retro del suo camion, "avrai sempre un berretto di merda da camionista a ricordarti di quella volta che hai detto a Tommy di essere inseguito da una figura oscura."
+Dialogues	Dialogue Text/0x010000410000034F	"Beh, allora..." prende un berretto dal retro del suo camion, "almeno avrai sempre un berretto di merda da camionista a ricordarti di quella volta che hai detto a Tommy di essere inseguito da una figura oscura."
+Dialogues	Dialogue Text/0x0100004100000357	Prendilo. È un bel berretto da macho. Ti ripara gli occhi dal sole.
+Dialogues	Dialogue Text/0x010000410000035D	Non ne sono così sicuro... si intonerà al resto del tuo stile?
+Dialogues	Dialogue Text/0x0100004100000367	"Grazie, Tommy." (Tienilo.)
+Dialogues	Dialogue Text/0x010000410000036D	"No, non posso accettarlo." (Restituiscilo.)
+Dialogues	Dialogue Text/0x0100004100000375	"Sì, capisco." Si toglie il berretto e lo guarda. "Che stupidaggine. E che cliché da parte mia... un camionneur col berretto. Mi sa che dovrò continuare a portarlo io."
+Dialogues	Dialogue Text/0x010000410000037C	"Non fa niente. Tanto a me non serve. Non è che ci sia molto sole da cui ripararsi gli occhi prima dell'estate."
+Dialogues	Alternate1/0x010000580001BD3E	Sarebbe un pericolo per la salute pubblica, tra le altre cose. Quanto a smettere... per favore, rimandiamo a quando avremo finito l'indagine.
+Dialogues	Dialogue Text/0x010000060001D4DC	ORG: Occidente-Revachol-Graad.
+Dialogues	Dialogue Text/0x010000060001D4E4	ORG: Occidente-Revachol-Graad.
+Dialogues	Dialogue Text/0x0100005A0000F060	"Harrier Du Bois, sono io."
+Dialogues	Alternate1/0x0100005A0000F060	"Tenente doppio-yefreitor Harrier Du Bois."
+Dialogues	Alternate1/0x0100006B000032D7	"Siamo poliziotti. Siamo attaccabrighe. Clic, clic. Bam, bam!" (Puntale contro un dito a mo' di pistola.)
+Dialogues	Alternate3/0x0100006B000032D7	"Sono un poliziotto, *attaccabrighe*. Clic, clic. Bam, bam!" (Puntale contro un dito a mo' di pistola.)
+Dialogues	Dialogue Text/0x010000060001C861	Ti stai preparando per un'avventura. Tirati su il morale con qualche bestemmia geniale... l'ultima!
+Dialogues	Dialogue Text/0x0100004C0000CD4E	(Indica Titus.) "Tu. Sei tu a dare gli ordini."
+Dialogues	tooltip8/0x0100008200012E05	OPERA ELABORATA.
+Dialogues	Dialogue Text/0x0100002F0000DD03	"Hai i 20 réal?"
+Dialogues	Alternate1/0x01000045000120AA	"È una delle prime cose che ricordo di aver fatto a Elysium."
+Dialogues	Dialogue Text/0x01000082000047D3	Cuno... Primordiale. Violento.
+Dialogues	Dialogue Text/0x0100000F00009DC3	"Aspetta, tu giochi a 'Wirrâl'?"
+Dialogues	Alternate2/0x0100000F000119A6	(Sfodera le dita a pistola.) "È il tuo giorno fortunato! Voglio acquistare arte originale fatta dalla *crème de la crème*."
+Dialogues	Alternate1/0x010000580001D90C	(Sfodera le dita a pistola e spara al cielo.) È il tuo giorno fortunato! Sono in cerca di un po' di *arte* originale creata dalla crème de la crème.
+Dialogues	Alternate1/0x010000580001E1ED	"*Relax*. Vi vedo correre di qua e di là come dei pazzi; avanti e indietro, avanti e indietro... Bisogna vivere un po', godersi il sole." Rivolge il naso gonfio verso la luna; ha le guance arrossate dal vento tagliente.
+Dialogues	Dialogue Text/0x0100002D00004E7C	titoli di coda
+Dialogues	Dialogue Text/0x0100002D0000970B	"Che diavolo ti è successo?" ti chiede il tenente chinandosi, scrutando il tuo volto pietrificato.
+Dialogues	Dialogue Text/eeogbhk7jr5e384z	"Forza di volontà incarnata."
+Dialogues	Dialogue Text/53kmhe2mrjpkyg54	"Il gioco vale la candela."
+Dialogues	Dialogue Text/pp7n_n2l3zopl85f	"Fatti controllare i livelli di testosterone."
+Dialogues	Dialogue Text/89jrlaalpzu5fh4t	"Sono immortale."
+Dialogues	Dialogue Text/dhvffsdsrkwp010_	"In questo momento stai diventando più forte o più debole?"
+Dialogues	Dialogue Text/2r58j35_p5iqcumr	"Tutti i miei pasti me li caccio con l'arpione."
+Dialogues	Dialogue Text/g3jersi93dul98vr	"Forza inarrestabile."
+Dialogues	Dialogue Text/5_z2zn9ulj9qqltd	"Più calda di quanto cazzo pensi, nonno."
+Dialogues	Dialogue Text/n8q56yig92_u4kzv	"Ma tu mediti, almeno?"
+Dialogues	Dialogue Text/x5tqu4klygxtw0f4	"Divento solo più forte."
+Dialogues	Dialogue Text/cbd3jpbb8im8faux	"Anche morire è un'arte."
+Dialogues	Dialogue Text/9dlzavtqpmxsq804	"Non mi sento più il lingam, cazzo."
+Dialogues	Dialogue Text/fft_l0l50s6tb3k7	"Con la TRT conviene iniziare presto."
+Dialogues	Dialogue Text/atg_uz9a2ely1d7f	"Io sono quello che *non* ha bisogno dell'ambulanza."
+Dialogues	Dialogue Text/3al0n2h2zonopuqs	"Smetti di preoccuparti e comincia a vivere."
+Dialogues	Dialogue Text/pgv75uxbv_nrsk4p	"L'orologio va in una sola direzione."
+Dialogues	Dialogue Text/_70c1wb1zyqg_m25	C'è un altro modo di giocarsela: *controllo del frame*. Ribalta la situazione. Falli giocare secondo le *tue regole*.
+Dialogues	Dialogue Text/_v2h8db1x7j3xjy8	"Dannazione, detective. Dammi la giacca del piscio."
+Dialogues	Dialogue Text/mx45ygfo0nl56wxx	Hai la sensazione di aver fallito lo shit-test più grande di tutti...
+Dialogues	Dialogue Text/5gqc_if6kklz853b	"Il 'fattore figaggine' magari mi arriverà più tardi." Il tenente tasta i risvolti marroni borchiati. "Per ora mi sembra uno scherzo andato troppo oltre."
+Dialogues	Dialogue Text/_j5r4j92_7uncu9g	Ora egli è divenuto il *Pissf****t*. Niente può più fermarti.
+Dialogues	Dialogue Text/kb1cbphs1nvwcb11	Ma il tenente non ti sottoporrà a nessuno shit-test. Hai diverse opzioni valide.
+Dialogues	Dialogue Text/tigjcv05zmlbiawq	"Avevi detto che avresti indossato 'Pissf****t', ma ti sei reso conto di essere più da 'Fuck-the-World'. E va benissimo così..."
+Dialogues	Dialogue Text/yj45ur__0gkfh76p	Aspetta... 'Controllo del frame'? Un controllo del frame tipo 'voglio-scopare-con-te'?
+Dialogues	Dialogue Text/1gxz3bzo90nq18e2	"Strano, nella mia testa era *molto* più figo."
+Dialogues	Dialogue Text/bexg7cnl4d001fw9	Con un'espressione di totale incredulità, il tenente si infila la giacca...
+Dialogues	Dialogue Text/r8pf61umvultyl7o	Uno shit-test è una prova a cui le dönne sottopongono gli uomini per vedere quanto è solido il loro frame, quanto sono sicuri di sé. Se la fallisci, ti mollano per un altro maschio alfa più dominante. È nella loro natura.
+Dialogues	Dialogue Text/tfexnpsqus068c2c	Bene. Fase uno completata. Ora lascia che il tenente si rifaccia gli occhi con il frutto dell'albero della figaggine.
+Dialogues	Dialogue Text/0do45t41a0ej2_o0	"No-no, Kim. Ci siamo *appena* calati nella parte. Dobbiamo reggerla per un po'."
+Dialogues	Dialogue Text/0r36jgcg2plkbp5u	'Cos'era quello, non è così che si usano le paroooole, dillo di nuovo', risatina-risatina. Classico shit-test. Era la tua occasione per *rivendicarlo* e basta.
+Dialogues	Dialogue Text/1mszucv5wvonjpda	"Mhm. Questa è una di quelle volte in cui continuerai a parlare qualunque cosa io dica, vero?"
+Dialogues	Dialogue Text/avpyp_0mav4v7qkm	"Intendi più di quanto già non lo sia?" Si guarda intorno. "Sarà meglio risolvere questo caso *in fretta*, agente. Non sono a mio agio al 100%."
+Dialogues	Dialogue Text/qgrekchzdpl7v7q_	Non ne ha bisogno, la tua merda è compatta come un diamante.
+Dialogues	Dialogue Text/r8vq2mi4y5xcy6z7	Passa un lungo momento mentre il tenente pondera le parole.
+Dialogues	Dialogue Text/sxv3w6u0ulzkwuvg	"Sì, stai proprio mettendo in mostra quello... slogan aggressivo."
+Dialogues	Dialogue Text/1_aw2dtcu3m4p07k	Se non riesci nemmeno a indossarla all'aperto, sotto gli occhi di tutti, allora sì, è ora di abbandonare il rock and roll.
+Dialogues	Dialogue Text/57l8_15vqduhawam	Sbadiglia e stiracchiati come una pantera vestita di pelle.
+Dialogues	Dialogue Text/eblef399ceiah_hp	"Non è quello che stavo dicendo, detective."
+Dialogues	Dialogue Text/s46ar5z9hvqwvnk6	"Le probabilità sono *molto alte*, agente. Sono situazioni come questa a farmi temere di finire a fare il poliziotto-cretino con 'Pissf****t' sulla schiena..."
+Dialogues	Dialogue Text/d58udvbfo2t46p0d	"Le probabilità sono *piuttosto* alte", risponde il tenente massaggiandosi la fronte. "E non cambia nulla il fatto che indossiamo giacche di pelle con scritto 'Fuck the World' e 'Pissf****t' sulla schiena..."
+Dialogues	Dialogue Text/2r5orlkkc0oe0fym	"Oh, *ho* capito... Senti, posso mettermela io la giacca 'Pissfa***t', se il problema è quello."
+Dialogues	Dialogue Text/9drm9q539wtgw1zy	"Mettiamo in chiaro una cosa. Alla prima occasione, questa roba me la tolgo. E finisce lì: niente ripensamenti, niente 'conversazioni successive', fine. Hai capito?"
+Dialogues	Dialogue Text/xz05_57zdd70f_kp	"Non sarà la MCR a risolvere questo caso, Kim. Saremo io e te. Insieme." (Porgigli la giacca.)
+Dialogues	Dialogue Text/kzoazazfvmmt2wd5	"Vorrei che potessi vederti in questo momento, Kim." (Asciugati un occhio.)
+Dialogues	Dialogue Text/i2_z1whnnogs1r5_	"Va bene, Fuck", il tenente si gira verso di te. "È ora di risolvere un omicidio, per quanto possa sembrare controintuitivo con queste giacche. Andiamo."
+Dialogues	Dialogue Text/jhjqffc0zceaz5gn	Non posso credere di essere salito a bordo del treno del piscio.
+Dialogues	Dialogue Text/qnuf4sx4uk9rwsgc	"Kim, io e te, questo duo dinamico: io con la giacca 'Fuck the World' e tu con quel vecchio bomber... Visivamente non ha più alcun senso."
+Dialogues	Dialogue Text/tjz3_tbi42aj3m4n	"Tenente, sarò sincero per un momento: hai un aspetto di merda."
+Dialogues	Dialogue Text/wcpzoy0yetsizmav	"So esattamente cosa stai cercando di fare, detective, e *non* funzionerà."
+Dialogues	Dialogue Text/8ng8b6zorpwr5j0w	Sospira. "Temo che la MCR ci farà il culo per questo."
+Dialogues	Dialogue Text/oczns153kkq2z5j7	Naturalmente, se stare all'aperto con l'aria di un leone del rock ti fa 'sentire sciocco', allora lascia perdere tutto.
+Dialogues	Dialogue Text/q0hiiau6ca8899oj	'Sottile' come la cacofonia estetica che voi due state producendo in questo momento? Guarda che roba. I campi visivi non hanno alcun senso. In questo momento siete come un paio di calzini bianchi nei sandali marroni. È disgustoso.
+Dialogues	Dialogue Text/s_am_8ylx5p09l4e	"Piss e Fuck sul caso, all-in, a far saltare il banco!"
+Dialogues	Dialogue Text/6_densvq7j62u4bx	"È..." il tenente scuote lentamente la testa, "un brutto vedere. Non dà esattamente l'idea di gente che ha la testa a posto."
+Dialogues	Dialogue Text/cxllvkwy0ryzexnv	È stata un'esecuzione scadente, non una mancanza di tecnica, a fregarti. Avresti ancora potuto salvare la situazione, se non avessi fallito il suo shit-test.
+Dialogues	Dialogue Text/kfrkiuvih9rcdoai	"Il problema è..." dice il tenente, lanciando un'occhiata a risvolti, maniche e borchie, "che *fa* davvero figo avere addosso tutte e due queste giacche adesso."
+Dialogues	Dialogue Text/pqeae_31zw8rldn7	Aspetta, quale 'shit-test'?
+Dialogues	Dialogue Text/rp_9o_56nwnnb5se	"Detective... di cosa stai parlando?"
+Dialogues	Dialogue Text/v12tukx0x02tbwkj	"Sono d'accordo. Per fortuna abbiamo lavoro in abbondanza per tenerci occupati. Torniamo a darci da fare."
+Dialogues	Dialogue Text/0_ra43otq_w8pwq_	Mi sento sciocco. La gente guarda. Me la tolgo. (Scarta il pensiero.)
+Dialogues	Dialogue Text/_1mhhwg41z_4onp3	"Va tutto bene, Kim. Tieni, prendi questa. Adesso il Pissf****t sono *io*."
+Dialogues	Dialogue Text/ik0rpoexw_ex7ymh	"È quello che temo", borbotta. Più a se stesso che a chiunque altro. "Sarà meglio risolvere questa storia in fretta."
+Dialogues	Dialogue Text/ox8vuacurlw8k9i1	Tira dritto! Non lasciare che ti rallenti.
+Dialogues	Dialogue Text/qw4kkct_ihxlgz80	Dice sul serio. Nel momento in cui ti togli la giacca, se la toglie anche lui. Il che significa che probabilmente dovrai continuare a fottere il mondo fino alla fine dei giorni.
+Dialogues	Dialogue Text/y8l7oosnmp47e2_6	Si guarda intorno nervoso, si è pentito di aver messo la giacca, vuole togliersela.
+Dialogues	Dialogue Text/6nh2lc3rrx760lc4	"Nessuno mi ha mai chiesto di riporre in lui più fiducia di quanta me ne stai chiedendo tu, in questo momento. Se mi seghi il ramo su cui sono seduto mentre ho 'Pissf****t' scritto sulla schiena..."
+Dialogues	Dialogue Text/bda_rgp9f81v1llb	"Bene, è stato divertente. Ma non proprio", aggiunge, rinfilandosi il suo solito bomber. "Abbiamo perso abbastanza tempo. Torniamo al lavoro."
+Dialogues	Dialogue Text/dnu13ay8m7eqqo9h	Non è così che si tengono i discorsi, milord: perché inimicarsi il tenente? Riprovate.
+Dialogues	Dialogue Text/ghtgy06vvn12nq7t	"Guardaci, Kim! È così che dovevamo essere."
+Dialogues	Dialogue Text/7tpo0leow4pd4sy3	Fai una piccola piroetta.
+Dialogues	Dialogue Text/83vawnk56rowwvdu	"Non è un problema. Ecco, la giacca Pissf****t me la metto *io*, subito..."
+Dialogues	Dialogue Text/as6cb_2fb9__t4js	"Dimmi, Kim: quante probabilità ci sono che dopo *tutto questo* non riescano a risolvere il caso indossando queste due giacche?"
+Dialogues	Dialogue Text/uln_tp4t4d9s8rdq	"Non posso credere che tu mi abbia convinto", borbotta. "Sarà meglio risolvere questa storia in fretta."
+Dialogues	Dialogue Text/yq6k2ax7mx1b7hk9	"Non sono d'accordo", dice con un piccolo cenno del capo. "Anzi, se facessimo un sondaggio adesso, un piccolo sondaggio su 'chi ha un aspetto di merda', sono abbastanza sicuro che ne usciresti vincitore tu."
+Dialogues	Dialogue Text/1oouicpxsbuf3h1u	È stata una mattinata difficile, non rivanghiamola.
+Dialogues	Dialogue Text/1mhdecnl63xltyr9	"Lascia perdere, era un'idea stupida." (Rinuncia.)
+Dialogues	Dialogue Text/978znoiexix7gysm	Devi lavorartelo con calma. Con finezza. Caricalo un po', non puntare subito al colpo di grazia.
+Dialogues	Dialogue Text/t0e6khb39plvnz3f	"Immagina due poliziotti che si conoscono solo da pochi giorni, eppure la loro devozione, il loro legame, è tale da indossare *queste* due giacche: 'Fuck the World' e 'Pissf****t'..."
+Dialogues	Dialogue Text/ubvc3xia_6nxxp93	"Molto rock and roll, ma è davvero il momento?"
+Dialogues	Dialogue Text/14i4ca4gyoq9cu2k	Bene, scegli quello che vuoi. Hai diverse opzioni solide.
+Dialogues	Dialogue Text/ost86mecx83v5ojc	"*Non* te ne pentirai, tenente!"
+Dialogues	Dialogue Text/ac2jsi89tv7_6dm9	Agente nel sacco! Agente nel sacco!
+Dialogues	Dialogue Text/qwd0fmr40k0zygl1	"Per tua fortuna, ho *ancora* con me questa fichissima giacca 'Pissf****t'... Buffa la vita, a volte..."
+Dialogues	Dialogue Text/ygnsa_x3ia096sls	Scuoti i risvolti della giacca e guarda il tenente con aria di sfida.
+Dialogues	Dialogue Text/2pj3b9dcbtha_ae9	"Non voglio nemmeno sapere cosa sia successo qui..."
+Dialogues	Dialogue Text/p2fbi65ntfizmgn7	Psst, c'è qualcosa di *selvaggio* acquattato tra le rocce...
+Dialogues	Dialogue Text/r83x3h9lyag52z3b	Là, vicino all'acqua!
+Dialogues	Dialogue Text/elnr9iyq_tjm5tsz	Qualcosa di primordiale, qualcosa di proibito.
+Dialogues	Dialogue Text/8edck62p3xf2wrd1	Capito. [Vattene.]
+Dialogues	Dialogue Text/dhoss08rusxpwffl	Intrigante...
+Dialogues	Dialogue Text/yzft61dhv2g2ygpr	Dov'è?
+Dialogues	Dialogue Text/q5c4q_f904ts3nd3	Qualcosa di *selvaggio*?
+Dialogues	Dialogue Text/x3opl7jh0ordc61w	Indietreggia... molto lentamente...
+Dialogues	Dialogue Text/bz4g08vx0r3_uua_	Ma non *vuoi* sentirti diverso? Può essere un *segreto* che conosci solo tu.
+Dialogues	Dialogue Text/7o7sh8udyrepkq6d	Non vale il rischio. [Scarta oggetto.]
+Dialogues	Dialogue Text/9w4q1zq_n4f9rx44	Sì, *questo* è il tipo di animale che voglio essere.
+Dialogues	Dialogue Text/kifelowmsbi66p6l	Cosa dovrei... *farci*?! (Continua.)
+Dialogues	Dialogue Text/tisbbcvm164diw5k	Le tue dita scorrono lungo i pettorali, gli addominali, i fianchi: è impossibile capire dove finisci tu e dove comincia il leopardo.
+Dialogues	Dialogue Text/ts3dame1abdlt2os	Senti il tessuto tra le dita.
+Dialogues	Dialogue Text/f2iw472vffsk6itu	[Strappatelo di dosso!]
+Dialogues	Dialogue Text/w_rfh1mniuk9hsmu	Ripeto: una volta indossato il leopardo, non te lo toglierai *mai* più.
+Dialogues	Dialogue Text/1qacn0a70vt6q5nm	È *molto* aderente. Potresti strapparlo se te lo togli adesso.
+Dialogues	Dialogue Text/3g3x90en0xg068an	Il sale marino secco ti sfrega contro la carne tenera.
+Dialogues	Dialogue Text/xrf9_q7nz8jl9qor	È una tutina leopardata da uomo taglia L, a maniche corte. Ci sono rimasti attaccati dei pezzetti di alga. Parla all'animale che è in te.
+Dialogues	Dialogue Text/jpc939tn28m0x541	Toglietemi di dosso questa roba!
+Dialogues	Dialogue Text/ulfu28nucxuz2api	Non senti i peli delle braccia e della nuca che si rizzano? Hai il battito alle stelle, le pupille grandi come biglie. Questo è un *pericolo irreversibile*!
+Dialogues	Dialogue Text/ze5e0gjjkqtbx8a2	Provalo, ma solo per un momento.
+Dialogues	Dialogue Text/004_xccvv2r7y57h	Adesso è lui a indossare te.
+Dialogues	Dialogue Text/bwmt20ry8aj9z8pc	Piano e con calma, ragazzo. Sai come gestirla.
+Dialogues	Dialogue Text/n6ppqk8yi16ehrmo	Sì, ma perché ha un *sapore* così dolce?
+Dialogues	Dialogue Text/ncur_k7ue2ayjja1	Sappi solo che una volta messo, il body non si toglie più. *Tu* cambierai, irrevocabilmente.
+Dialogues	Dialogue Text/2tkpqtvycijm88b7	L'irbis greidiano, o comune leopardo delle nevi, è originario dei monti Ohota, a Graad. Con un peso che arriva a 85 kg, è il superpredatore del suo ecosistema, anche se il bracconaggio diffuso e la distruzione dell'habitat ne hanno ridotto notevolmente l'areale negli ultimi 40 anni.
+Dialogues	Dialogue Text/bsath0r9j7s4xh5d	Nonostante il tempo passato in acqua, il tessuto è sorprendentemente setoso. Le macchie di leopardo sono leggermente in rilievo. L'etichetta dice che è composto per l'85% di poliammide e per il 15% di elastan.
+Dialogues	Dialogue Text/io4eqtwgl0m147g7	Mettilo via. [Vattene.]
+Dialogues	Dialogue Text/sz2xnzyhwxywpwvf	Ti sfili le mutande e scivoli dentro il body. È molto aderente. Non sei mai stato avvolto con tanta fermezza.
+Dialogues	Dialogue Text/2twhe6eyos71q194	Da dove è arrivato?
+Dialogues	Dialogue Text/fth3wluw8gdnnoft	[Tienilo addosso per sempre.]
+Dialogues	Dialogue Text/l0jom4d9uafdv408	Scappa, idiota!
+Dialogues	Dialogue Text/jz5aw96r_uexjthi	Adesso comanda qualcos'altro.
+Dialogues	Dialogue Text/xhhhg8_uxz1kq449	Aspetta, sono in pericolo?
+Dialogues	Dialogue Text/26dwbs8z3kfqtr48	Lì, lungo la cucitura interna della spalla, leggi le parole: No Truce (TM), made in Igaunija. Dev'essere la marca.
+Dialogues	Dialogue Text/p7c6m7h2vevllu5p	Ti liberi a strattoni dal body e scagli la massa appallottolata nell'angolo. Ora è un problema di qualcun altro.
+Dialogues	Dialogue Text/tdsfmcpg1otgt1d3	Resta solo una cosa da fare: vedere come ti sta.
+Dialogues	Dialogue Text/0_isdftzcs49045n	Appallottoli il body in una piccola palla e lo posi con discrezione nell'angolo. Ora è un problema di qualcun altro.
+Dialogues	Dialogue Text/7sfi_ve_epgftflb	Il vento soffia tra le rocce e le canne. I giorni passati nell'acqua salata hanno cancellato ogni indizio sulla sua provenienza.
+Dialogues	Dialogue Text/m7uvxc7h6abzkls9	Chi se ne frega, è comunque una tutina da scemi.
+Dialogues	Dialogue Text/qud1_iut8b74umf1	Mollalo subito! Quella cosa ti *mangerà*.
+Dialogues	Dialogue Text/5rupevygfmafwn5q	Infilarsi l'indumento è come entrare in un lago tiepido d'estate: un calore setoso ti avvolge.
+Dialogues	Dialogue Text/wyp9qegbrd5558e4	In realtà questo è un *body*, non una tutina. Le tutine hanno le gambe.
+Dialogues	Dialogue Text/1xt1p6ez72uo1o9l	"Cuno, sto spaccando: guardami giocare!"
+Dialogues	Dialogue Text/9n6dgu9d5v6jo4mi	"Eh?"
+Dialogues	Dialogue Text/fkss5haw5d_xfnzg	Grandi come Knut Schmelling e Jörgen Stirneman di Gottwald, la leggenda mesque del pinball Iara Flávia Jandiroba e il fenomeno nato a Zsiemsk, Ludek Smolka, sono tutti riusciti a chiudere una partita in meno di venti minuti.
+Dialogues	Dialogue Text/k14hlt8g4mw4uxwh	"Non hai semplicemente vinto. *Nessuno* che io conosca ha mai battuto le Capre di Gurdi. È un'impresa monumentale, detective."
+Dialogues	Dialogue Text/nacw_tkvypb65pez	Il ragazzino al tuo fianco sembra annoiato. Il gioco non gli dice niente.
+Dialogues	Dialogue Text/q617oa3zepp0265f	Fai partire il gioco, dita veloci! Quelle alette sono *pronte*.
+Dialogues	Dialogue Text/y9_d1ttznsokzzir	Il ragazzino non risponde. Strizza gli occhi, cercando disperatamente di penetrare la nebbia implacabile.
+Dialogues	Dialogue Text/0s55qe2ciow4prsg	Il ragazzino fa spallucce, chiaramente sollevato di potersene andare.
+Dialogues	Dialogue Text/34s980svpl7wcjm4	Non hai *semplicemente* vinto, leggenda assoluta che non sei altro: sei entrato in un club esclusivissimo di persone che hanno compiuto questa impresa monumentale.
+Dialogues	Dialogue Text/lkzvubkbq3m1tw50	Ti resta l'ultima capra e vai quasi solo a orecchio (gli occhi a questo punto sono inutili), ma quella capra ha qualcosa di speciale. Per cinque volte la strappi alle fauci della morte.
+Dialogues	Dialogue Text/8dtctx_2bzvlkayb	"Basta con il divertimento." [Vattene.]
+Dialogues	Dialogue Text/8izn_nq63b364_sr	Selezione naturale.
+Dialogues	Dialogue Text/_bwu0mwbo4j6_eks	Cornelius Gurdi era un alpinista, scrittore di viaggi ed eroe nazionale mesque, noto per le sue audaci spedizioni negli angoli più remoti del mondo e per le dichiarazioni pubbliche forse ancora più audaci. Non fece mai ritorno dalla sua ultima conquista: il Corpus Mundi.
+Dialogues	Dialogue Text/fi6pzsbsvtzqp4ob	Vai, vai, dita veloci!
+Dialogues	Dialogue Text/ti214cwg5n5kwuii	O la va o la spacca, dita veloci.
+Dialogues	Dialogue Text/wcf6a1u8j_7hkus_	Le aree attorno al piano di gioco rappresentano la scalata di Gurdi: i luoghi in cui si dice si sia accampato, che le capre possono scoprire. Portale in vetta!
+Dialogues	Dialogue Text/7y769rqt301wwpcb	Concentrati e mira al passaggio stretto.
+Dialogues	Dialogue Text/dav5a2zb9kw3nnky	"Sì. L'ho già visto. Ci ho anche giocato. Prima o poi commetterai un errore, e allora sarà tutto finito."
+Dialogues	Dialogue Text/eawx_tr42uvmvvzl	"Un po'."
+Dialogues	Dialogue Text/h51hthv4iue16mo0	"Aspetta, e allora che 'tipo di persona' era?"
+Dialogues	Dialogue Text/ugua3qirjwz56bnt	Sei in un sistema perfettamente equilibrato, in cui né tu né il pallore riuscite ad avere la meglio. Potrebbe andare avanti per sempre.
+Dialogues	Dialogue Text/voiv2jf23vxzc_ll	Manovrare una palla-capra in posizione per un colpo perfetto non è facile. Altre precipitano verso la morte, ma alla fine l'occasione si presenta. Una riesce a passare.
+Dialogues	Dialogue Text/dccj412e4rtssblt	Sopra il dipinto di un uomo baffuto che scala una montagna, una colonna di testo recita: 'Ispirato alla leggenda di Cornelius Gurdi che sfida la vetta più alta del mondo, il Corpus Mundi. Le leggende mesque narrano che quando la nazione sarà in pericolo, l'eroico Gurdi tornerà a salvare il suo popolo.'
+Dialogues	Dialogue Text/fqgyrquo6g789z8d	"LA PALLA GURDI È ACCESA!"
+Dialogues	Dialogue Text/hcxfxwldu4y9sofi	"Oh, fantastico." Il tenente sospira.
+Dialogues	Dialogue Text/lx5sjzc_zz8bz272	"Chi è il re del pinball, Kim?" (Porgi il pugno.)
+Dialogues	Dialogue Text/qrzoqxvbjwqa9geb	Colpisci i tasti più veloce che puoi, attacco massimo: non deve passare nemmeno un proiettile!
+Dialogues	Dialogue Text/s7g62mi_ond99pxq	È *di questo* che avrebbero dovuto fare un flipper.
+Dialogues	Dialogue Text/sqzcymc_hlo8g40d	Ispeziona il piano di gioco.
+Dialogues	Dialogue Text/7v4xhx7ofaj25an3	Il Corpus Mundi, il vulcano a scudo dormiente sull'isola Mundi, è effettivamente la vetta più alta del mondo conosciuto. Con i suoi 18,9 km di altezza raggiunge quasi la stratosfera.
+Dialogues	Dialogue Text/dapjastqqz6gf7bj	"È incredibile", mormora il tenente. Sembra un po' senza fiato.
+Dialogues	Dialogue Text/dp5k5onrhm3qxvn9	Il tuo gioco sta decisamente migliorando. Le allegre capre volano per tutto il piano e, anche se qualcuna precipita verso la morte, non te ne restano mai meno di tre.
+Dialogues	Dialogue Text/ijth9oiro2uclo78	"Il flipper?" Il tenente lancia un'occhiata alla macchina. "Le Capre di Gurdi. Un classico."
+Dialogues	Dialogue Text/muull9foa4tgoxax	La cima della montagna è nella parte alta del piano di gioco. Tutte le palline hanno una piccola icona a forma di capra e rappresentano le capre che corrono su e giù per la montagna.
+Dialogues	Dialogue Text/tar1d4eea4tctk4r	"È ora di andare avanti." [Vattene.]
+Dialogues	Dialogue Text/05yt1vu7ly_6xkfk	Un alpinista? Un nazionalista mesque? Un capraio? Gioca a quel dannato gioco e basta.
+Dialogues	Dialogue Text/0yp4187gzacexulp	Ho... vinto?
+Dialogues	Dialogue Text/121r6t14jtoqonhq	Si è ucciso per farti *dispetto*.
+Dialogues	Dialogue Text/4gcgag2srufb67ro	Con precisione da automa tieni in gioco l'ultima palla-capra, reagendo ai più piccoli stimoli, sospeso nello stato di flusso. La nebbia si sta diradando e all'improvviso il vecchio altoparlante gracchia:
+Dialogues	Dialogue Text/85c6x5ki4fs15x1_	No, mi tiro fuori. [Vattene.]
+Dialogues	Dialogue Text/guzn6zeqlmb0pqj6	“Quelli sono tempo-runner professionisti. Prendono compensi a quattro cifre *a* partita. Io intendevo esseri umani normali.”
+Dialogues	Dialogue Text/kux5we4m5pqusus5	Inserisci una moneta.
+Dialogues	Dialogue Text/siim6no5w9un0gl7	"Ma perché li costruiscono, se è impossibile vincere?!" [Arrenditi, vincere è troppo stressante.]
+Dialogues	Dialogue Text/56qxsza66epg9w5j	Il tema del gioco è esplorare la scalata di Gurdi dal punto di vista delle capre, e ascendere in cima alla montagna in un momento di difficoltà.
+Dialogues	Dialogue Text/5kgjuaqh5wlfiwhl	Resta sulla palla.
+Dialogues	tooltip1/5kgjuaqh5wlfiwhl	Collega 'nazionalista'.
+Dialogues	tooltip2/5kgjuaqh5wlfiwhl	Kimball: presente.
+Dialogues	tooltip3/5kgjuaqh5wlfiwhl	Te ne intendi di giochi con la palla.
+Dialogues	tooltip4/5kgjuaqh5wlfiwhl	Negato per i giochi con la palla.
+Dialogues	Dialogue Text/6iw8x03yeckhfqcz	"Kim, si può fare: sta' a vedere!"
+Dialogues	Dialogue Text/tfn1mjbn62hj8sep	Sembra *tanto*. Troppo per giocarci di nuovo.
+Dialogues	Dialogue Text/8xhywe9o7xdsqakr	Sul pannello dell'altoparlante si illuminano le parole 'ROTTURA DEL PALLORE' e la macchina comincia a riempirsi di una fitta nebbia lattiginosa... sta succedendo qualcosa.
+Dialogues	Dialogue Text/avznwdcgqf4r_zit	"Aspetta, ci hai giocato?"
+Dialogues	Dialogue Text/oa_o6k9maemj5k82	"Tecnicamente gli esseri umani *sono* in cima alla catena alimentare, quindi..."
+Dialogues	Dialogue Text/p3ioh5uancb2jrjg	Laggiù, nell'angolo?
+Dialogues	Dialogue Text/wf2l46hqj189iokx	Esatto. Pensale come palline.
+Dialogues	Dialogue Text/wvhgghgv3y3olf6s	"Questo *non* è bello."
+Dialogues	Dialogue Text/y91f4a7zqg3rlrpa	Ignora la macchina.
+Dialogues	Dialogue Text/yg4snm2pleccuh_6	E come, se non riesci nemmeno a vederla?
+Dialogues	Dialogue Text/0gpz7u3wqty3iz24	E Gurdi?
+Dialogues	Dialogue Text/24v57lgxgyjcjkta	L'ultima capra precipita nella nebbia con una gioia quasi suicida.
+Dialogues	Dialogue Text/3knk32dt4zwsm7vy	Oh, è più di un semplice classico: è un must. Tutti i giocatori di pinball seri hanno tentato una *tempo-run*.
+Dialogues	Dialogue Text/l7qf6tswppv1_25t	"Il pinball non fa per me." [Vattene.]
+Dialogues	Dialogue Text/nhmnoe0vw99nyovi	"Ma che cazzo?"
+Dialogues	Dialogue Text/ud9rr9vqpcervs9l	Il flipper?
+Dialogues	Dialogue Text/2tnsx3j1gltap_gu	"Mi dispiace per le capre. Se solo sapessero che tipo di persona era davvero il vecchio Cornelius..."
+Dialogues	Dialogue Text/aec2s2k7spaygg9n	"Congratulazioni, vostra altezza", risponde il tenente. Le sue nocche toccano le tue e sorride. "È stato davvero notevole."
+Dialogues	Dialogue Text/d0n_9z4lvbhg85nu	'CORNELIUS GURDI E LE CAPRE DI MONTAGNA', recita la scritta dorata in cima alla testata. Sotto c'è una piccola colonna di testo. La macchina funziona a monete.
+Dialogues	Dialogue Text/h98bwolv06wlq0md	"Sticazzi. A Cuno non frega un cazzo."
+Dialogues	Dialogue Text/jytzc0s4tba5x_wt	"Kim, vedi anche tu quello che vedo io?" (Indica la macchina.)
+Dialogues	Dialogue Text/ovfaq2iphjnma097	La concentrazione necessaria per prevedere quando una palla-capra è a portata di colpo è impressionante, ma *si può* fare. Concentrati!
+Dialogues	Dialogue Text/wq_tbj62wxjpyqb8	"Congratulazioni." Il tenente annuisce. "È qui che finisce il gioco. È un modo dozzinale per spillare altri soldi ai giocatori. Un finale stupido e nichilista."
+Dialogues	Dialogue Text/12zkog0jmdfrx75z	"Il tipo di persona che usa spesso la parola 'selvaggi' quando racconta i suoi viaggi. Un nazionalista mesque."
+Dialogues	Dialogue Text/fvd3rpv6uld7h1y7	"Cazzo, che tensione", borbotta il ragazzino, con gli occhi ancora sulla macchina senza vita. Si ricompone in fretta e aggiunge:
+Dialogues	Dialogue Text/kwrbm_mtrd45k6ru	"Cuno, hai visto? Ho fatto il punteggio record."
+Dialogues	Dialogue Text/spi1fwo5t6ufj27x	Un minuscolo martelletto frantuma qualcosa dentro la macchina. Qualcosa di vetro.
+Dialogues	Dialogue Text/z96p1yx3xnhsjsdx	La vita l'ha abbandonata, ed è improbabile che torni.
+Dialogues	Dialogue Text/_hp8gkw99c6b0f_h	"Guarda qua, Cuno." (Indica la macchina.)
+Dialogues	Dialogue Text/a_k92k8i57p77v_1	"Sono piuttosto bravo." (Continua a giocare.)
+Dialogues	Dialogue Text/i5qtfovfmp8fin1g	"Anche un accanito cacciatore", aggiunge il tenente. "Si faceva spesso fotografare nella sua sala da pranzo, circondato da trofei di caccia di ogni continente appesi alle pareti."
+Dialogues	Dialogue Text/nb45ga7zzw7b2kuk	"Credo di aver vinto, Kim."
+Dialogues	Dialogue Text/rbzlykno_42c63oe	Il ragazzino fa spallucce. Non gli importa.
+Dialogues	Alternate1/rbzlykno_42c63oe	"A Cuno non frega un cazzo", ripete. "Per Cuno quella roba non è niente."
+Dialogues	Dialogue Text/rivzj8e0kgl_leie	"La macchina ha bisogno di una bella revisione prima che qualcun altro possa anche solo riprovarci."
+Dialogues	Dialogue Text/stku9ppxnqvicadh	“Aspetta, e Smolka, Jandiroba, Stirneman e Schmelling?”
+Dialogues	Dialogue Text/zv71pwrjekkjj91_	"Certo." Annuisce. "Continuo a pensare che tu ti sia guadagnato il diritto di essere almeno un po' orgoglioso."
+Dialogues	Dialogue Text/1psn711d3tagmx4s	Avvicinati per leggere il testo.
+Dialogues	Dialogue Text/nv69cklpplvuqm89	Inserisci una moneta. (Continua.)
+Dialogues	Dialogue Text/nwvqd45i0a9l9trh	Solo la tensione nella sua postura tradisce il suo interesse.
+Dialogues	Dialogue Text/zi20rgakksdzfrnc	Non un flipper qualunque. Questo è l'apice del pinball. 'Cornelius Gurdi e le Capre di Montagna'. È acceso. Non vedi l'ora di metterci le mani sopra.
+Dialogues	Dialogue Text/59y0tru3s3nnf405	"Un alpinista razzista?"
+Dialogues	Dialogue Text/b2yd7su2ouova9vj	Capre fortunate. La nebbia sembra soffice e invitante.
+Dialogues	Dialogue Text/bxuicz07j4s9p5mb	Se è sceso dal treno dello speed, non c'è molto che gli 'dica qualcosa'. Almeno per qualche giorno.
+Dialogues	Dialogue Text/ihe26okq0za5q_sz	'PUNTEGGIO RECORD', annunciano gli altoparlanti, e l'intera macchina si illumina. Poi le alette si ritraggono, lasciando un varco perfetto perché la palla Gurdi raggiunga le capre dietro le quinte. 'Cornelius' svanisce e la macchina si spegne.
+Dialogues	Dialogue Text/1c9qwo_trknviash	L'ultima.
+Dialogues	Dialogue Text/31zif24an0acxabn	"Che cazzo gliene frega a Cuno?", chiede, lanciando un'occhiata alla macchina. "A Cuno non frega un cazzo."
+Dialogues	Dialogue Text/4xx150y_t6skm2dy	"È solo uno stupido gioco, tenente."
+Dialogues	Dialogue Text/81i4ffadpmtgjm72	"Diamo un'occhiata più da vicino." (Tira fuori la macchina.)
+Dialogues	Dialogue Text/ed_cprt92nhw8etk	Un pannello si apre in cima al piano di gioco e una nuova palla si lancia giù per il pendio. È più grande delle capre e nera opaca. 'CORNELIUS', dicono le lettere bianche che corrono lungo l'equatore.
+Dialogues	Dialogue Text/lj3gn_ys_zrek3_k	Una fiala?
+Dialogues	Dialogue Text/yii6p08007niyrtf	Nonostante le immagini colorate sul vetro della testata, in quel tizio c'è decisamente qualcosa di sinistro.
+Dialogues	Dialogue Text/ltllxiw2ddjnsqu_	Cos'è questa storia delle capre?
+Dialogues	Dialogue Text/nqx1ng0yt4e0suxm	C'è così tanta nebbia che non vedi quasi nulla. Un po' sta addirittura uscendo dalla macchina e, una dopo l'altra, le tue capre cominciano a scivolare, scomparendo nel nulla lattiginoso.
+Dialogues	Dialogue Text/snupznifnj98ga_b	"Mhmh, me lo stavo chiedendo anch'io."
+Dialogues	Dialogue Text/x71wxmx9o2fu21qo	La cultura mesque riserva un posto speciale alla capra di montagna, in particolare a quelle del Corpus Mundi: l'unica creatura abbastanza impavida e agile da scalare la montagna. Sono spesso associate a Gurdi.
+Dialogues	Dialogue Text/0rfu_r8l3e5_fwxp	Ancora una volta la macchina diventa un tutt'uno con la polvere e l'oscurità.
+Dialogues	Dialogue Text/8ry9k8snu3y1065a	"Sì." Il tenente rivolge un ultimo sguardo a 'CORNELIUS GURDI E LE CAPRE DI MONTAGNA'. "Bei tempi."
+Dialogues	Dialogue Text/gy8_dg31pk6ze4n0	Ci vuole un po' per prendere il ritmo, ma ben presto riesci a tenere in gioco tre palline con il muso di capra con relativa facilità.
+Dialogues	Dialogue Text/or0phdpcm2nsiqqe	Peccato che non ci fosse nessuno ad assistere al tuo trionfo. Dopotutto era un 'punteggio record'.
+Dialogues	Dialogue Text/uz5_wzxdkfuqjt_8	*Si può* navigare. Le palline lasciano 'perturbazioni' quasi impercettibili nella nebbia. Usale per calcolare dove colpiranno.
+Dialogues	Dialogue Text/wiyejqtwgs8rjdql	Il maiale ha un tempismo pazzesco. Roba da fibre a contrazione rapida, roba da intercettore. Stile istinto animale.
+Dialogues	Dialogue Text/6vg3tfx5s_8b6bix	"Ma sembra che tu ti stia divertendo?" Fa un cenno verso la macchina.
+Dialogues	Dialogue Text/7d464gjitbmw5cic	"Picchiava anche la moglie. E i figli. Anche i figli degli altri. A volte gli animali domestici. Un ometto pieno d'odio."
+Dialogues	Dialogue Text/azx8z2pvf3r9htx4	'Accesa': un'espressione quasi sinonimo della scena insulindiana del pinball. Di *qualunque* scena del pinball, in realtà.
+Dialogues	Dialogue Text/np44jejze13iuy0e	La macchina è morta e silenziosa. Ha bisogno di una seria manutenzione prima che qualcuno possa giocarci di nuovo.
+Dialogues	Dialogue Text/toodo01ypqwivk55	La sua discesa è così violenta che scaraventa subito l'ultima capra nell'abisso, per poi rimbalzare per tutto il piano come trasportata da un'inerzia demoniaca e ultraterrena.
+Dialogues	Dialogue Text/uk8mozo087pxw018	All'improvviso, in cima al piano, si apre scorrendo un passaggio speciale che porta alla vetta. È lì che devono andare le palline.
+Dialogues	Dialogue Text/0x0100005700021D35	"È deciso: tu *non* sei il filosofo più famoso dell'epoca moderna." Il tenente annuisce, voltandosi per esaminare la foto sull'altra parete.
+Dialogues	Dialogue Text/0x0100005700016284	"Grazie, ho tutto quello che mi serve." [Vattene.]
+Dialogues	Dialogue Text/0x0100005700023286	(Indica il letto.) "Prima di andare avanti, *devo* assolutamente chiedere informazioni su questo meraviglioso baldacchino."
+Dialogues	Dialogue Text/0x0100007000006E2E	"La profanazione dei cadaveri è moralmente ripugnante, ma cosa c'entra con lo spionaggio industriale?"
+Dialogues	Dialogue Text/0x0100007B000000D6	"Qui potrebbero essere in gioco *migliaia* di segreti aziendali. Rabbrividisco al pensiero dei danni che potrebbe causare ai mercati internazionali..."
+Dialogues	Dialogue Text/0x0100007500000290	All'improvviso l'uomo inizia a ringhiare. Tre parole riescono a uscirgli di bocca, insieme a un forte tanfo di alcol: 'Fottuti... kipt... f****i...'
+Dialogues	Dialogue Text/0x01000081000022EB	"DIVIETO DI PARCHEGGIO"
+Dialogues	Dialogue Text/0x010000060001DA4A	"Non vedo nessun libro..." Il tenente si tasta le tasche. "Quindi ha portato il libro in biblioteca, poi è tornato e ha pensato: ne prendo uno."
+Dialogues	Dialogue Text/0x0100007B00002710	"Casino", ripete, "casino, casino, hai fatto un casino, hai fatto un casino, Gareth!" Gli sputi volano ovunque mentre urla nel megafono: "AGGRESSIONE AGGRAVATA, UOMO A TERRA, SOSPETTO IN FUGA A PIEDI!"
+Dialogues	Dialogue Text/0x01000016000094FB	*COSA CI FAI QUI?* Un freddo terribile ti assale mentre pensi queste parole. Ti riecheggiano nel cranio, improvvisamente aliene.
+Dialogues	Dialogue Text/0x0100001600009534	*NON C'È NIENT'ALTRO.* Il pensiero ti fa tremare le ossa, come lo scheletro di un edificio abbandonato pronto a crollare.
+Dialogues	Dialogue Text/0x0100002F00012053	"Fantastico! Su una scala da uno a dieci, quanto ti sei sentito spinto a comprare dei libri dopo aver parlato con lei?"
+Dialogues	Alternate1/0x0100005A00000E14	No! È altrettanto stupido.
+Dialogues	Dialogue Text/0x010000780000B443	"Un incantesimo! Figuriamoci!" Sbuffa. "Questo posto non ha bisogno di incantesimi o di abracadabra voodoo, questo posto ha un'energia *meravigliosa*!" Vacilla sotto il tuo sguardo, la bocca serrata in un sorriso a labbra strette... poi qualcosa si spezza:
+Dialogues	Dialogue Text/0x0100009200000517	"Ma... prima di andare avanti... hai incontrato *l'Entità maligna?*" Socchiude gli occhi mentre ne sussurra il nome.
+Dialogues	Dialogue Text/0x0100009200002189	"Ma... prima di andare avanti, dimmi... hai incontrato *l'Entità maligna?*" Socchiude gli occhi mentre ne sussurra il nome.
+Dialogues	Dialogue Text/0x0100002F0000DAB0	"Oh, un appassionato di natura! Ottima scelta. *Sapevo* che era una buona idea tenerlo in negozio..."
+Dialogues	Dialogue Text/0x0100002F0000D7FD	Sfonda la porta e grida: "Mani in alto, subito!"
+Dialogues	Dialogue Text/0x0100000500000530	"Ho guardato dentro il nucleo, ma sul nastro del filamento c'era scritto solo "LOG (FEB-MAR)"."
+Dialogues	Dialogue Text/0x0100000500000CC3	"Il pilastro del silenzio! *Sta* parlando del silenzio... Sta suggerendo che è qualcosa di più di una semplice stranezza architettonica?"
+Dialogues	Dialogue Text/0x010000570001BDAE	"Ah, ma *c'è* e mi *protegge*!"
+Dialogues	Dialogue Text/0x010000570001D04F	"Lo so, lo so che è così, ma... potresti *per favore* abbassare il volume solo per questa volta? Solo per *questa* volta: il massimo *non* è l'unico modo, ok?"
+Dialogues	Dialogue Text/0x0100007500002C27	"*E cosa ci fa nel frigorifero?!*"
+Dialogues	Dialogue Text/0x0100007500002E0F	Miss So-Tutto-Io sta esitando.
+Dialogues	Dialogue Text/0x01000005000017BF	"Grazie." Ci pensa un momento, poi allunga la mano dietro il radiocomputer e ti porge quello che sembra un piede di porco sovradimensionato.
+Dialogues	Dialogue Text/0x01000072000002E0	"Mi piace. Rimette il timor di Dio in corpo ai f****i."
+Dialogues	Dialogue Text/0x010000720000052F	Sebbene sia spesso considerata il più grande essere umano mai vissuto, *c'era* qualcosa di inquietante in Dolores Dei, costantemente circondata dai suoi Therrier...
+Dialogues	Dialogue Text/0x0100007200000577	Lo sai già. Sebbene sia spesso considerata il più grande essere umano mai vissuto, *c'era* qualcosa di inquietante in Dolores Dei, costantemente circondata dai suoi Therrier...
+Dialogues	Dialogue Text/0x01000006000177D2	"Aspetta, cos'è un *bloc obscur?*"
+Dialogues	Dialogue Text/0x010000640000A4EA	"Eeeh... perché diavolo no?" Ridacchia allegramente. "Allora, come posso aiutarti oggi?"
+Dialogues	Dialogue Text/0x010000640000A79C	Forse potresti usare le mani in qualche modo? Con una specie di gesto di lancio? Come se gli stessi *rilanciando* addosso quella sceneggiata del signor Du Bois. È *lui* il signor Du Bois!
+Dialogues	Dialogue Text/0x0100004C000054D2	"Oh, salve, signor Harry!" L'ometto sembra felice di vederti. "È proprio gentile da parte tua aiutare il signor Evrart come stai facendo. È così terribilmente occupato quasi tutti i giorni che non mangia nemmeno il porridge di rape che la mia signora gli manda ogni giorno. Lo fa con tanto burro e salsiccia a fette, eh sì... È delizioso."
+Dialogues	Dialogue Text/0x010000640000A282	"Signor Harry! Accidenti, il vecchio Leo aveva proprio ragione su di te! L'ho capito che in fondo eri un uomo dell'Unione appena ti ho visto." Prende fiato rapidamente. "Appena mi sono girato e ti ho guardato, mi sono detto: 'Ecco, quello lì è un uomo dell'Unione. Fino al midollo.' E avevo ragione, eccome se avevo ragione."
+Dialogues	Dialogue Text/0x0100008200020090	Ridacchia. "Le cose prendono *sempre* una piega stramba quando io e te siamo nella stessa stanza, vero, Harry?"
+Dialogues	Dialogue Text/0x0100000700005829	"Harry, se *davvero* fornissi materie prime ai produttori di droga, avrei bisogno di un esercito di Ruby."
+Dialogues	Dialogue Text/0x0100000700005CD9	"Più ne mandano, peggio sarà per loro. Hanno fatto un *enorme* errore ad assumere quei tizi. I mercenari stranieri non piacciono a *nessuno*. La sinistra li odia, i fascisti li odiano, perfino i moralisti li trovano *di cattivo gusto*."
+Dialogues	Dialogue Text/0x010000060001CD11	"Anch'io. L'azienda pensa che trasportare queste sostanze chimiche in grandi quantità 'faccia una brutta impressione'", mima le virgolette con le dita, "'dia una cattiva immagine', 'possa essere illegale in alcuni paesi'. L'Unione dei Débardeurs, invece... noi puntiamo tutto sulla colonna dei grandi volumi."
+Dialogues	Alternate1/0x0100002F00013794	"Non hai visto le casse là fuori, Harry? Dentro c'è ogni sorta di roba divertente!" Si sistema gli occhiali mentre ride. "Voglio dire, diamine: in questa ci siete tu e il tenente, io e il mio simpatico orologio a forma di pesce spada!"
+Dialogues	Dialogue Text/0x01000007000009C9	"Non voglio che abbiano paura. Voglio che pensino: 'Wow, mi sento così al sicuro. Mi piace Evrart.' Voglio che abbiano paura solo le donnole."
+Dialogues	Dialogue Text/0x010000060000811C	"Assolutamente, Harry, assolutamente. Spara."
+Dialogues	Dialogue Text/0x010000570000BF28	"Hanno avuto quello che si meritavano: fare vestiti con le ali di coleottero è un'idea *terribile*!"
+Dialogues	Dialogue Text/0x0100006B0000AE4E	"M'kay." Ti porge una piccola capsula. "Non, tipo... esagerare, o roba del genere."
+Dialogues	Alternate1/0x0100002F0000605A	"Anche noi, crumiro!" urla Mañana di rimando.
+Dialogues	Dialogue Text/0x0100002F00008680	"In realtà non bevo. Ma il lavoro mi *ha* portato in qualche locale. Qual era?"
+Dialogues	Dialogue Text/0x0100001400000896	"Che cos'*è* esattamente un crumiro?"
+Dialogues	Dialogue Text/0x010000450001E382	"Cosa intendi dire con 'il mio corpo tradisce la mia degenerazione'?"
+Dialogues	Dialogue Text/0x010000450001EE5F	"Aspetta -- chi sono esattamente i Maun?"
+Dialogues	Dialogue Text/0x0100002F00009131	"Dal tuo punto di vista... sono un Misterioso Paio di Occhi, buu!!"
+Dialogues	Dialogue Text/0x0100002F00009313	Sai benissimo che lei non ha parlato del fatto che qualcuno dovrebbe scrivere un libro su di te. Sei stato *tu* a tirare fuori l'argomento.
+Dialogues	Dialogue Text/0x0100001400003474	(Guardalo dritto negli occhi:) "Merda, piscio, fighe, cazzi, f****i! Fanculo il mondo!"
+Dialogues	Dialogue Text/0x01000014000035DD	SEE THE SUNSHINE/ WE AIN'T STOPPING/ KEEP ON DANCING/ TILL THE WORLD ENDS!
+Dialogues	Dialogue Text/0x0100000B00000570	"Neanche per sogno." [Vattene.]
+Dialogues	Dialogue Text/0x0100006B000097E1	"Grazie." Lo indossa. Le sta un po' grande.
+Dialogues	Dialogue Text/0x0100006B000097E8	"Grazie." Lo indossa. Le sta un po' grande.
+Dialogues	Dialogue Text/0x0100006B000097EF	"Grazie." Lo indossa. Le sta un po' grande.
+Dialogues	Dialogue Text/0x0100006B000097F6	"Grazie." Lo indossa. Le sta un po' grande.
+Dialogues	Dialogue Text/0x0100006B000097FD	"Grazie." Lo indossa. Le sta un po' grande.
+Dialogues	Dialogue Text/0x0100002100000020	"Grazie." Lo indossa. Le sta un po' grande.
+Dialogues	Dialogue Text/0x0100008E0000010E	*Non umano*? Tipo un fantasma? Tu lo *sai* cosa intende?
+Dialogues	Dialogue Text/0x0100000B000028A3	"Sono il giustiziere del microfono, sono il controllore delle pupe, YEAGH!"
+Dialogues	Alternate2/0x0100000400003671	"YEAGH! IL CAPITALE È LA SALVEZZA!" (Non è minimamente deluso.)
+Dialogues	Alternate3/0x0100000400003671	"YEAGH! REVACHOL AI REVACHOLIANI!" (Non è minimamente deluso.)
+Dialogues	Dialogue Text/0x0100000B00000721	"Mi scuso per il linguaggio da scaricatore del mio amico Noid. *Io* mi rendo conto che non è così che si parla a un agente di polizia. Ha problemi con l'autorità."
+Dialogues	Alternate1/0x01000004000030C5	"Sembrano esattamente il tipo di persone che vorrebbe musica anodica ad alto volume nella propria chiesa!"
+Dialogues	Dialogue Text/0x0100005A0000BFE6	"Certo che è un problema: è un *uomo-granchio*!"
+Dialogues	Dialogue Text/0x0100005A00008A25	"Non mi spingerei *così* lontano..."
+Dialogues	Dialogue Text/0x0100005A00008C78	"*Io* non sto *facendo* niente. La musica ha deciso molto tempo fa: io sto solo *eseguendo*!"
+Dialogues	Dialogue Text/0x0100005A00008DDF	"Balla, scopascimmie!!"
+Dialogues	Dialogue Text/0x0100005A0000915C	"Non abbiamo bisogno di droghe per essere hard core!"
+Dialogues	Dialogue Text/0x0100005A00009355	"Ma va'..." Sembra stanco.
+Dialogues	Dialogue Text/0x0100005A0000D70B	"Rispettabile. In questo momento le sinusoidi le sento proprio."
+Dialogues	Dialogue Text/0x01000004000027AC	"Oppure, oppure... la butto lì: sei sicuro di non avere problemi *di donne*, con qualche tipa?"
+Dialogues	Dialogue Text/0x010000060000FD52	Zitto. Sta già succedendo...
+Dialogues	Dialogue Text/0x0100002F0000D540	"'I tuoi incantesimi nulla possono contro la purezza e la forza di volontà. I fratelli di Hjelmdall si ergono al di sopra dei vizi della carne, poiché essa è debole e corruttibile, ma la mia è forgiata nel sangue e nella lotta.' La regina Lydiaana si limita a ridere, un suono sensuale e lascivo, poi dice..."
+Dialogues	Dialogue Text/0x0100007000004436	È l'Uomo di Hjelmdall! Forgiato nella furia della battaglia, la morte gli fu padre e il sangue madre. Aveva appena quattordici inverni quando lasciò le sue gelide terre natie di Katla in cerca di gloria e onore. *Questo* è il suo personaggio.
+Dialogues	Dialogue Text/0x0100007000004790	Lo slogan recita: "Il detective Dick Mullen deve dimostrare la propria innocenza dopo l'omicidio di un vecchio amico... commesso da qualcuno identico a Dick Mullen!" Sembra riassumere bene la premessa.
+Dialogues	Dialogue Text/0x01000070000048BC	Il ragazzo non ha esattamente la corporatura virile di Dick Mullen, ma l'altezza è quella giusta e, mentre lo interrogava a casa sua, Mullen *ha* notato un certo soprabito che somiglia in modo sospetto al suo...
+Dialogues	Dialogue Text/0x0100008E00004EB3	"Ti rendi conto che il gioco si chiama *Sovranità* e non *Paradiso dei Lavoratori*, vero?"
+Dialogues	Dialogue Text/0x0100006B0000298E	"Va bene, va bene. Sono tutti necessari. Dividiamoci il panino, se per te è così importante." Il tenente spezza il panino in due e mangia in fretta la sua metà.
+Dialogues	Alternate1/0x0100004500001717	Dopo un po' non ce la fa più. "Scusami, devo proprio chiedertelo di nuovo: *come* hai potuto lasciare che venisse buttato via?"
+Dialogues	Dialogue Text/0x0100004500002D99	"Furie. Sì. Beh." È evidente che non gli piace. "Non lo so. Devo essere sincero: non sto vivendo il *conflitto interiore* a cui allude. E poi..." Aggrotta la fronte.
+Dialogues	Dialogue Text/0x0100002B0006BA5D	"Lo farei volentieri, agente, ma non ho contanti a portata di mano, sai?" Fa l'occhiolino. "Ma magari, se *prima* compri qualcosa, *poi* avrò dei soldi che potrai estorcermi. Ti sembra giusto?"
+Dialogues	Dialogue Text/0x010000060000B912	"I percorsi che fai sono *insoliti*, vero?"
+Dialogues	Dialogue Text/0x0100005A00005745	"Ah, amico, io e i narcotici ci conosciamo da un pezzo." Intreccia le mani dietro la testa e si appoggia all'indietro. "Ho passato dei bei momenti a surfare sulle onde psichiche della mia coscienza, sai?"
+Dialogues	Dialogue Text/0x0100007000001A3E	"Forte. Ho sempre voluto un amico nella malavita."
+Dialogues	Dialogue Text/0x01000092000033E0	"Ottimo, allora il caso è chiuso." [Vattene.]
+Dialogues	Dialogue Text/0x01000058000096BA	"Non ho intenzione di sedermi, alzarmi o saltare per aria per qualche pezzo grosso dell'Unione solo perché!.."
+Dialogues	Dialogue Text/0x0100005800009A51	"Ho la sensazione che Joyce sappia quanto sia davvero pericolosa la situazione. *Dobbiamo* convincerla a parlare con noi." Stringe le labbra.
+Dialogues	Dialogue Text/0x0100005800009A59	"Ho la sensazione che sappia quanto sia davvero pericolosa la situazione. *Dobbiamo* convincerla a parlare con noi." Si acciglia.
+Dialogues	Dialogue Text/0x0100005800009A99	"Ho la sensazione che Joyce sappia quanto sia davvero pericolosa la situazione. *Dobbiamo* convincerla a parlare con noi." Stringe le labbra.
+Dialogues	Dialogue Text/0x0100005800009AB2	"Abbiamo scoperto alcune cose interessanti strada facendo. *Dobbiamo* convincere Joyce a parlare con noi. Ho la sensazione che sappia quanto sia davvero pericolosa la situazione. Ma dobbiamo anche stare attenti a ciò che condividiamo con lei."
+Dialogues	Dialogue Text/0x0100005800009AC0	"In effetti." Fa una pausa. "*Dobbiamo* convincere Messier a parlare con noi. Ho la sensazione che sappia quanto sia davvero pericolosa la situazione. Ma dobbiamo anche stare attenti a ciò che condividiamo con lei."
+Dialogues	Dialogue Text/0x0100005800009B71	"Va bene, ma... e perdonami, è da stamattina che questa cosa mi tormenta: come hai fatto ad andare in giro tutto il giorno *senza scarpe*?"
+Dialogues	Dialogue Text/0x0100009200000B5F	"Il mondo è freddo e solitario. Questo gli terrebbe compagnia. *Finiamolo*."
+Dialogues	Alternate1/0x010000310000AB65	(Metti alla prova la storia di Klaasje.) "Sei stata tu a chiamare la polizia?"
+Dialogues	Dialogue Text/0x010000060001901A	"Vecchio mio, lo stronzetto è *ancora* lì?! Che diavolo vuole adesso?"
+Dialogues	Dialogue Text/0x0100008E00000AA1	"La prima riga rappresenta i tuoi anni di servizio. *Diciotto* anni? Ok, niente male davvero. Cosa facevi prima di arruolarti come volontario?"
+Dialogues	Dialogue Text/0x0100007100000B2F	"*Hai visto le mie equazioni*?" Sbuffa. "Hai ficcato il naso nel mio camion, vero? Me lo aspettavo. *Sono* un po' sorpresa che tu abbia capito cosa stavi guardando..."
+Dialogues	Dialogue Text/0x0100000600015546	"Amico, è proprio per *allontanarmi* da tutta quella merda assassina che ho lasciato la Madre per l'Unione."
+Dialogues	Dialogue Text/0x0100000600014ED2	Non funzionerà senza il tenente. E se *trovassi* davvero un modo per entrare e fosse una *trappola*? Kitsuragi deve essere qui a coprirti.
+Dialogues	Dialogue Text/0x01000081000024DA	"Lo sapevo che il tempo si sarebbe schiarito una volta arrivati qui... altrimenti sarebbe stata una passeggiata meno piacevole, no?"
+Dialogues	Dialogue Text/0x01000081000025D3	Annuisce. "Immagino che non *saremmo* nemmeno qui se quella cosa non fosse dalla nostra parte..."
+Dialogues	Dialogue Text/0x010000450001966E	Ho detto di finire quel dannato pensiero. [Vattene.]
+Dialogues	Dialogue Text/0x010000820001F202	Qualunque cosa sia nascosta qui, è nascosta bene. La concentrazione non basta: solo un contabile esperto, con una formazione in logistica, riuscirebbe a capirci *davvero* qualcosa. Però *c'è* un bigliettino scritto a mano, attaccato al lato del cassetto.
+Dialogues	Alternate1/0x0100005400000075	"Aspetta... per *quanto* ho venduto la pistola?"
+Dialogues	Dialogue Text/0x0100003700000143	"Quello che voglio davvero sapere è... questo dispositivo potrebbe tornarmi utile nel mio lavoro di poliziotto?"
+Dialogues	Dialogue Text/0x0100004500006EFD	"Agente, non voglio essere scortese, ma è sicuro che il suo recente episodio medico non sia stato un *ictus*?"
+Dialogues	Dialogue Text/0x010000450000629E	"Come stavano andando le trattative prima del linciaggio?" (Procedi.)
+Dialogues	Dialogue Text/0x0100004500009089	"Scusami, non ti ho sentito." La sua voce è gentile, un po' rauca per il vento. "Hai detto *soldi*?"
+Dialogues	Dialogue Text/0x0100007000002FB9	"Allora cosa c'è scritto lì?" Indica la targa sul lato del molo. "C'è scritto *attracco riservato ai residenti di Rue de Saint-Ghislaine 33A*?"
+Dialogues	Dialogue Text/0x0100007800004E8D	"E la tua opinione, detective? Se posso chiedere. Sono una persona curiosa e loquace, vedi", spiega. "Diresti che l'Unione dei Débardeurs è..."
+Dialogues	Dialogue Text/0x0100000700012039	"Me l'hanno detto Piss e Fuck."
+Dialogues	Dialogue Text/0x010000450000B269	"... poi per quella delle mie figlie. Avevamo l'obbligo di difendere la nostra sovranità. Avremmo dovuto *radere al suolo* l'intera isola piuttosto che lasciarla a loro."
+Dialogues	Dialogue Text/0x0100000600012F89	"Sì, tenente. Permettimi di concludere così: *chi* siete, per me, è la polizia. L'unica autorità legittima di applicazione della legge a Revachol."
+Dialogues	Dialogue Text/0x010000450000D9AA	È chiaro che il villaggio le è già diventato caro... stranamente caro. Perché *è* venuta qui?
+Dialogues	Dialogue Text/0x010000450000E261	*Noi*? Di solito evita questo termine quando parla dei suoi datori di lavoro.
+Dialogues	Dialogue Text/0x01000089000015F7	La rovina è giunta. Gli archi spezzati tradiscono la storia un tempo grandiosa di questo edificio. Torreggiava sul porto, finché *quello* non è successo.
+Dialogues	Dialogue Text/0x0100000900001C9B	"Cos'è questa storia del crimine?!"
+Dialogues	Dialogue Text/0x0100004500000ACB	"Grinta. Un totale disprezzo per la propria incolumità. Devi saper incassare il dolore. Questo Mullen ha l'aria di uno che corre dalla mamma. Non ha le palle."
+Dialogues	Dialogue Text/0x010000060000919D	"Dimmi, bambina... *tu* non è che per caso conosci un buon frigorifero?"
+Dialogues	Dialogue Text/0x010000060001830D	Più tardi, quando ne avrai l'occasione, dovresti affrontare questi problemi... *ubriacandoti*. Così imparano!
+Dialogues	Dialogue Text/0x0100002B00004AE1	"Scusa, un *cattivo marito?*" Raddrizza la schiena. "Cosa vorresti dire?"
+Dialogues	Dialogue Text/0x01000057000227FF	"Solo un'altra domanda: cosa intendevi quando hai detto che sono un cacatua?"
+Dialogues	Dialogue Text/0x0100002100000FAF	"Mhmh." Torna al suo libro.
+Dialogues	Dialogue Text/0x010000060001C9D2	Ok. Allora va chiesto: cosa ci *fai* qui? Perché stai seguendo questa pista? È un *presentimento*?
+Dialogues	Dialogue Text/0x010000310000076F	"Allora per cosa le *hai* prese, le medaglie?"
+Dialogues	Dialogue Text/0x01000064000042B1	"Non ti vergogni", dice l'uomo al suo compagno, "a lamentarti della schiena ogni volta che tiri fuori il metro?"
+Dialogues	Dialogue Text/0x0100000700009D3F	"René, volevo chiederti: per cosa le *hai* ricevute davvero, queste medaglie?"
+Dialogues	Dialogue Text/0x010000070000E3A9	Quella donna che non sapeva scegliere tra lui e Gaston, Jeanne-Marie: dev'essere *lei* il motivo per cui René è così amareggiato. Rinfaccia la sua indecisione a tutte le donne.
+Dialogues	Dialogue Text/0x0100003100004DC7	"Quello *sarebbe* stato di certo un miglioramento."
+Dialogues	Dialogue Text/0x010000060001F930	Già... perché *sei* venuto qui? È improbabile che sappiano qualcosa dell'omicidio.
+Dialogues	Dialogue Text/0x010000450001B5F2	*Potresti* comprare delle sigarette, accenderne una e buttarla lì dentro... Sai, giusto per vedere cosa succede. Per vedere se è infiammabile. È meglio così. Più sicuro.
+Dialogues	Dialogue Text/0x0100002B0003DF36	"Su questo cartello stradale c'è scritto 'fanculo la polizia'." (Indicalo.)
+Dialogues	Dialogue Text/0x0100008200009B32	No! *Non* tenere al corrente di niente questo civile qualunque.
+Dialogues	Dialogue Text/0x0100008200009D5A	"Forse non dovresti. Voglio dire... tu fai il tuo lavoro, ma quel ragazzino non si può aiutare. E di certo non aiuterà *te*." Scuote la testa.
+Dialogues	Dialogue Text/0x0100005900006A2D	(Rivolgiti al giovane dai capelli scuri.) "Perché sulla tua giacca c'è scritto 'FUCK THE WORLD'?"
+Dialogues	Dialogue Text/0x0100005900009292	"Il concetto di vestirsi mi *è* familiare, ma indossare giacche come queste non è appropriato per un agente della MCR. A meno che non sia *profondamente* sotto copertura", aggiunge.
+Dialogues	Dialogue Text/0x0100006A000002D5	"Il che non significa che gli SKULLS siano puttane e f****i. Al contrario..."
+Dialogues	Dialogue Text/0x0100006A000002F1	"Posso dirti chi non siamo, poliziotto. *Non* siamo spie, f****i o SKULLS."
+Dialogues	Dialogue Text/0x0100004500019064	*Cosa succederà adesso?* Moriranno tutti, cosa credi che succederà?
+Dialogues	Dialogue Text/0x0100007800011A04	Qui ti sto tenendo insieme a malapena... siamo *al limite*. Se gli parli, sarà lui a far vacillare *te*, non il contrario.
+Dialogues	Dialogue Text/0x0100007800013941	No. È stato *lui*. È *lui* il motore infernale, non lo vedi? Non si ferma mai. Non fa che peggiorare.
+Dialogues	Dialogue Text/0x0100007200008003	C'è scritto: 'Triangong 4.46. Comune di Hsin-Yao. Per Safre... e per tutta l'umanità.'
+Dialogues	Dialogue Text/0x0100007200008564	"Sad FM, eh? Ho sempre odiato quella stazione. Lagne flemmatiche e controrivoluzionarie... La tristezza è una malattia mentale, un'arma della borghesia."
+Dialogues	Dialogue Text/0x0100007200009B8B	"E allora cosa *hai* fatto?"
+Dialogues	Dialogue Text/0x0100007200009C38	"È la stessa cosa... *quello* non l'hai visto. Non davvero... non nudo. È impossibile non avere paura."
+Dialogues	Dialogue Text/0x0100007200009C47	"Tu *quello* non l'hai visto. Il volto di chi servi... nudo. È impossibile non avere paura."
+Dialogues	Dialogue Text/0x0100007200009D8D	"Aerostati. Lo Sbarco era cominciato. Uscii arrampicandomi... all'inferno. C'erano navi ovunque, in alto. Sibilavano, vorticavano, e ne sciamavano fuori uomini. La catena era sommersa, così dovetti tornare a nuoto. Anche la fortezza era mezza sommersa, in frantumi."
+Dialogues	Dialogue Text/0x0100007800007C5D	*Come?*
+Dialogues	Dialogue Text/0x010000060000F22C	Nel canneto, dove si nascondeva il fasmide, scorgi un piccolo lampo di bianco: bianco *porcellana*.
+Dialogues	Alternate1/0x0100007800003D8D	"Perché quella notte li *stavi* guardando?"
+Dialogues	Dialogue Text/0x01000004000142AD	"I lividi sul suo corpo... per caso li hai visti attraverso un *buco nel muro?*"
+Dialogues	Alternate1/0x01000078000062BE	... e poi svanisce. Coperto dalla voce del tenente: "Forse *c'è* posto per tre sulla barca..."
+Dialogues	Dialogue Text/0x01000078000081F2	"Cuno, *tu* riesci a vederlo?!"
+Dialogues	Alternate1/0x0100008900002E41	...e poi svanisce. Coperto dalla voce del ragazzino: "Forse *c'è* posto per tre sulla barca..."
+Dialogues	Dialogue Text/0x010000450001D679	"Tioumoutiri. Come quelli che abbiamo trovato a Land's End, ricordi?"
+Dialogues	Alternate1/0x0100008900000E3A	"Sì, la console laggiù. Ricordi?" Indica a sud-est. "Pulsanti e stronzate varie. Sì. Sì. Apriamo 'sto coso enorme, sembra il piano migliore."
+Dialogues	Dialogue Text/0x010000450001CF78	Gira: 'Emergenza -- Apri!'
+Dialogues	Dialogue Text/0x0100000400014B23	"Lo sei?" Ti scruta socchiudendo gli occhi... ti scruta nell'anima. "*Lo sei?*"
+Dialogues	Dialogue Text/0x010000450001C6EC	"Milizia dei Cittadini Insulindiani. È il nome ufficiale dell'esercito dei comunardi. L'Esercito Bianco e Nero della Rivoluzione."
+Dialogues	Dialogue Text/0x0100000700006F67	"OH MIO DIO, È MIA, SONO FINITO IN MARE CON LA MIA MACCHINA????!?!?!?!?!!!??!!!!" (Procedi.)
+Dialogues	Dialogue Text/0x0100004500020A23	Buuh, *il sistema è marcio*. *L'establishment mi tiene giù...* Questo non è l'atteggiamento da "cazzo-sì" a cui sei abituato, che roba è? Perché sei così povero?
+Dialogues	Dialogue Text/0x010000060000FBE5	Sì, mio *ordinario* signore. Qualcuno ha visto spuntare ogni sorta di idea folle e ha pensato: 'Prendo quella *noiosa*. La normale, grazie. La marrone.'
+Dialogues	Dialogue Text/0x010000060000FB08	Cazzo... dovrebbero essere *loro* a scusarsi!
+Dialogues	Dialogue Text/0x0100005A00013936	No, no, no! Vedi, stai mettendo i bisogni degli *altri* al di sopra dei *tuoi*. *Tu* non ricevi nulla in cambio, nemmeno una lode. Ti tocca sempre il lato peggiore, quello *nobile*...
+Dialogues	Dialogue Text/0x0100000600019994	*Sarebbe* la cosa onorevole da fare. Gliela farebbe proprio vedere. Anche a lei.
+Dialogues	Dialogue Text/0x0100005A0000FED4	"Ehi, Abs!" grida all'ubriacone che borbotta accanto a lui. "EHI, ABS!"
+Dialogues	Alternate4/0x0100005A0001119E	"*Può* benissimo essere così, ma guardandoti posso dire con grande sicurezza che ne ho più bisogno io."
+Dialogues	Dialogue Text/0x0100006A00003054	"È bello sentire che hai tutto sotto controllo. A proposito di 'una volta'... lo sapevi che *una volta* ero un vero pezzo grosso?" Giocherella pensieroso con la sua giacca Lickra(TM) macchiata di merda.
+Dialogues	Dialogue Text/0x0100007B000015F5	"Ora, come puoi immaginare, sniffare così tanta cocaina non può fare bene a un normale essere umano, giusto?"
+Dialogues	Dialogue Text/0x0100005A0000F924	"Non la troverai mai, lo sai." Il suo tono è privo di malizia. "Conosce la costa come il palmo della sua mano. *Tu* sei appena arrivato."
+Dialogues	Dialogue Text/0x010000060001C822	"Non ce l'hai messo tu, vero? È stata *lei*."
+Dialogues	Dialogue Text/0x010000780001A346	"No." Non accetta l'ordine. "Cuno va *all in*."
+Dialogues	Dialogue Text/0x0100000600000A03	"Prima di tutto, yo: quelli erano tutti f****i. I tizi con l'armatura? F****i. Quelli dell'Unione? F****i. Quindi sì..." Fissa Vicquemare negli occhi. "Succhia il cazzo a Cuno. Tu non mi *conosci*."
+Dialogues	Dialogue Text/0x0100000600000A2D	"Yo, Cuno ha l'impressione che tu non stessi davvero *ascoltando* Cuno." Si trapana la tempia sinistra con l'indice. "Sentivi... ma non ascoltavi. Quel f****o schifoso e i ragazzi con l'armatura sono venuti a Martinaise per fare un casino."
+Dialogues	Dialogue Text/0x0100000600000BDB	"Perché cazzo non ve la state facendo sotto? Cosa c'è che non va?!" Guarda torvo gli agenti immobili e in silenzio sotto la pioggia. L'acqua viene giù forte, lavando il cemento...
+Dialogues	Dialogue Text/0x0100000600000BE1	"Perché cazzo non ve la state facendo sotto? Cosa c'è che non va?!" Guarda torvo gli agenti immobili e in silenzio sotto la neve che cade. Loro ricambiano lo sguardo, apparentemente spiazzati.
+Dialogues	Dialogue Text/0x010000060000161D	"Gelosia? Quanti anni avrà... ottanta? *Novanta*? Non avevi detto che si nasconde dai tempi della Rivoluzione?"
+Dialogues	Dialogue Text/0x0100000600001D25	"Sì, la vediamo la giacca. 'Ehi, gente: lavoro sotto copertura in una *banda fetish estrema*. Non me ne frega niente di niente e di nessuno.' Ne abbiamo già parlato."
+Dialogues	Dialogue Text/0x0100000600005E3F	"Grazie, tenente. Sei gentile. *È* una stazione a corto di personale e il distretto *è* troppo grande, ed è per questo che dobbiamo..." Inclina la testa verso nord...
+Dialogues	Dialogue Text/0x010000060001F7EE	"Torson?"\n"Sì."\n"McLaine?"\n"Sì."\n"Heidelstam?"\n"No."\n"Vicquemare?"\n"Sì."\n"Du Bois?"\n"Certo."
+Dialogues	Dialogue Text/0x010000890000179F	"'Spiare' ha una connotazione così negativa. Ho però seguito i vostri progressi lungo la costa, e ho deciso che da qui avrei potuto assistervi meglio..."
+Dialogues	Dialogue Text/0x010000060001C61A	Bene. È il momento della politica. *Reagiamo*.
+Dialogues	Dialogue Text/0x010000070000FFAE	"Già, *io* quella roba non la cerco più. E non vado matta nemmeno per quelli della classe media." Sospira. "Mi farebbe comodo un po' di *nobiltà terriera*, ma a quanto pare non la fanno più."
+Dialogues	Dialogue Text/0x010000060001C5AA	*Lei* però non ha paura. Questo la rende meno pericolosa?
+Dialogues	Dialogue Text/0x0100005A0001020A	"*Tutto*!" grida con gioia.
+Dialogues	Dialogue Text/0x0100002100000A03	Sì. Speriamo che nessuno ti abbia visto con addosso quella giacca vergognosamente fascista.
+Dialogues	Dialogue Text/0x0100005800002E26	"Mi hai beccato. Ma tu cosa ci *fai* qui?"
+Dialogues	Dialogue Text/0x0100007100000DE1	"No, vedi, ho saltato *sopra* il canale con la mia carrozza a motore, *sfondando* l'insegna del Burro Samarano, che è caduta *dentro* il canale, bloccando le paratoie. Ho usato il banco dei pegni come rampa di lancio."
+Dialogues	Dialogue Text/0x01000071000011B6	"No, vedi, ho saltato *sopra* il canale con la mia carrozza a motore, *sfondando* l'insegna del Burro Samarano, che è caduta *dentro* il canale, bloccando le paratoie, mentre io atterravo dall'altra parte. Ho usato il banco dei pegni come rampa di lancio."
+Dialogues	Dialogue Text/0x01000012000004CF	"*Funzioneranno*, te lo assicuro. L'ipotesi predatoria, cioè usare le locuste come esca, spiega il fallimento dei precedenti tentativi di altre squadre, che usavano piante. Ci abbiamo riflettuto."
+Dialogues	Alternate1/0x010000580000B9CA	Ridacchia. "Nessuna diavoleria, solo la migliore torta farcita di Revachol. È il minimo che io possa fare per un agente... e per di più un uomo dell'Unione!"
+Dialogues	Alternate1/0x010000580000B9D0	Fa un largo sorriso. "Buon appetito. È il minimo che io possa fare per un agente... e per di più un uomo dell'Unione!"
+Dialogues	Alternate1/0x010000580000B9D6	"I protettori di Revachol devono gustare la migliore torta farcita di Revachol. È il meglio che io possa fare per un agente... e per di più un uomo dell'Unione!" Fa un largo sorriso.
+Dialogues	Dialogue Text/0x0100000600017B8E	È il momento delle domande *serie*. Quest'uomo non è un innocente. Nessuno lo è.
+Dialogues	Dialogue Text/0x0100000600017C4B	È il momento delle domande *serie*. Quest'uomo non è un innocente. Nessuno lo è.
+Dialogues	Dialogue Text/0x01000081000055AB	"Dei resti umani *sono* stati trovati nel folto della foresta, fatti a pezzi e poi calpestati nel sottobosco da grossi zoccoli. Traine *tu* le conclusioni che vuoi."
+Dialogues	Dialogue Text/0x0100000600018CF5	Più importante di una *spedizione* scomparsa? Non saprei... le spedizioni spesso portano a qualcosa di interessante.
+Dialogues	Dialogue Text/0x0100006B00000F5F	"La smetta di *smanacciarlo*, agente!" grida il direttore della tavola calda da dietro il bancone. "Sono responsabile di questi tangheri e della loro *roba*. Perfino di Sleepy, lì..."
+Dialogues	Dialogue Text/0x0100000400000282	Questo ventilatore ha due interruttori a catenella: uno termina con un minuscolo ventilatore, l'altro con una lampadina. Una cravatta davvero orripilante si è in qualche modo attaccata a una delle pale.
+Dialogues	Dialogue Text/0x0100000400000F82	Non era forse lo stesso *élan* che fonda imperi e rade al suolo città, virile, incurante delle *piccole cose*?
+Dialogues	Alternate1/0x0100000B00003083	"Ma non dovrei avere un distintivo o qualcosa del genere?" (Controllati le mutande.)
+Dialogues	Alternate1/0x01000002000010B5	"Aspetta, non dovrei avere un distintivo o qualcosa del genere?" (Controllati le mutande.)
+Dialogues	Dialogue Text/0x0100000400008D33	"Aspetta, quindi questo è uno *sciopero* o un tentato *golpe*?"
+Dialogues	Alternate1/0x0100000400008EDB	"Sento di doverlo ripetere: non ricordo *niente*. C'entra il fatto che ho bevuto parecchio."
+Dialogues	Dialogue Text/0x0100006B00004E12	"Che diavolo doveva essere *quello*, in nome dell'inferno?!" Il tenente digrigna i denti.
+Dialogues	Dialogue Text/0x010000940000009A	"Ho passato gli ultimi 20 secondi a decidere quale delle due parti *ridurre in mangime per maiali*... perché?"
+Dialogues	Dialogue Text/0x010000060001299F	Sta facendo fatica a elaborarlo. Perfino a *crederci*.
+Dialogues	Dialogue Text/0x0100004C00018C3A	'No, non lo sei. Sei fragile e hai i nervi a pezzi. Una vecchia tristezza ti opprime.' Si rifiuta di cedere.
+Dialogues	Dialogue Text/0x010000820000E492	"'Fammi vedere la fica! Perché non mi fai vedere la fica?' Poi si becca una bottigliata di vino in testa... e non cade nemmeno!" Scuote la testa incredulo.
+Dialogues	Dialogue Text/0x010000820000E63F	"No." Segue un momento di silenzio. "Non avrete nessun nome. È una questione di Martinaise e non ne discuto con voi pagliacci."
+Dialogues	Alternate1/0x010000780000B857	"Perfetto. Proprio perfetto, cazzo. Qualche idea in merito, uomini di legge?" Titus si strofina il mento con il palmo, come se cercasse di levigarlo.
+Dialogues	Dialogue Text/0x010000820001848F	"La prossima volta che la vedi, dille che Titus ha detto VAFFANCULO!" Scaraventa a terra la lattina di birra.
+Dialogues	Dialogue Text/0x0100008200018499	"Perché non facciamo QUARANTA, eh?" grida l'uomo da dietro il bancone. "Perché non facciamo CENTO birre, non fate abbastanza casino!"
+Dialogues	Dialogue Text/0x010000820001AA96	*Femminuccia?* Che diavolo sta succedendo qui? Non suona per niente affidabile.
+Dialogues	Dialogue Text/0x010000820001AAED	"*Ancora* violini! Non posso credere a questa stronzata. Cosa sta cercando di fare questo *mimo*, vuole *provocarmi*?"
+Dialogues	Dialogue Text/0x010000820001033C	*È* possibile vivere con una ferita del genere. Ti viene da toccarti la nuca, chiedendoti se ce ne sia uno lì dentro, vero?
+Dialogues	Dialogue Text/0x010000820001983D	"Sì, il movimento operaio è *tutto* qui. Pulito e organizzato. E a gestirlo sono i ragazzi Hardie."
+Dialogues	Dialogue Text/0x0100008200019843	"In teoria, naturalmente. Stiamo solo parlando di politica. La mia risposta alla tua accusa sulla droga è: *Come ti permetti? Vai a farti fottere!*"
+Dialogues	Dialogue Text/0x010000820001C9AE	"Ok, ma..." L'uomo si guarda intorno. "Come ha fatto a salire? In questo edificio non c'è spazio per una scala. *Né* per un ascensore, se è per questo."
+Dialogues	Dialogue Text/0x010000820001CC81	*È* un cappotto molto comodo, per essere così vecchio...
+Dialogues	Dialogue Text/0x010000820001DB37	*Chi* è che sta guardando? Sono tutti qui.
+Dialogues	Dialogue Text/0x010000640000C4E1	"È una leggenda metropolitana", dice piano il tenente. "Parla di un agente così sotto copertura da non ricordare più chi è. Come ho detto, solo una leggenda metropolitana. *Tu* non sei il Figlio di Lung."
+Dialogues	Dialogue Text/0x010000640000D9C0	"Ok, questa persona a cui hanno sparato e che poi hanno fatto sembrare impiccata... *potrebbe* essere stata uccisa dalle stesse persone che l'hanno impiccata."
+Dialogues	Dialogue Text/0x010000040000708A	"'Rifiuto di prestare aiuto a un agente di pubblica sicurezza.' Mi stai impedendo di condurre un'indagine per omicidio con le tue insulse richieste di denaro."
+Dialogues	Dialogue Text/0x010000580000637D	"Senza offesa. Non è davvero niente di personale. È solo che *devo* tutelare gli interessi di questo locale."
+Dialogues	Dialogue Text/0x0100000600009296	"Tenente... anche tu?" Non riesce a crederci. "Me lo chiedi anche *tu*?! No. La risposta è no. Non trasformerò questo posto in una specie di circo *macabro*."
+Dialogues	Dialogue Text/0x010000060000DC98	"Sai, *stavo* per non menzionare la pagliacciata che hai fatto là fuori, con il lancio di bombe incendiarie e via dicendo, ma visto che ti senti in diritto di avere delle cose belle, ecco la verità: hai fatto schifo. È stato da incoscienti."
+Dialogues	Dialogue Text/0x010000060000DF9D	"Cosa?" Ti guarda strizzando gli occhi, preoccupato. "Che cosa significa... *giostra dei cazzi*?"
+Dialogues	Dialogue Text/0x01000081000021D5	Ogni cellula del tuo corpo geme in agonia, chiedendo: "Che cosa ti abbiamo mai fatto?"
+Dialogues	Dialogue Text/0x010000060001BD23	Sì. *È* piuttosto probabile che riemergeremo sul Piano M. Preparati all'impatto psicocinetico. (O al tetto.)
+Dialogues	Dialogue Text/0x0100000400013E69	"'Oh, sì'", dichiara. "'La vita si fa dura... ma noi andiamo avanti.'"
+Dialogues	Dialogue Text/0x010000060000DC21	"Isolotto? Tipo un'isola per storpi?" Ci pensa. "Mi sa che hai fatto centro. Il colpo potrebbe essere partito da lì..."
+Dialogues	Dialogue Text/0x0100004500012317	"A rannicchiarmi. Ero rannicchiata dalla paura al piano di sotto con Sylvie."
+Dialogues	Dialogue Text/0x0100004500012616	Potrò *mai più* fidarmi di qualcuno di loro?
+Dialogues	Dialogue Text/0x0100004500012FFD	"Tormentone. Stavo per dire tormentone... e a quanto pare non hai nemmeno sentito le parti migliori. Le battute di Lely diventavano molto, ma molto più spinte di così."
+Dialogues	Dialogue Text/0x0100004500013208	"Se avessi la robustezza fisica e il sostegno sociale, sarei *a* Co Hoi, *io* starei spaccando tutto in stile *Soldato dell'Apocalisse*..."
+Dialogues	Dialogue Text/0x0100004500015ADF	"E lui dice..." Abbassa la voce, in modo comico. "'Quello era *troppo* hard core. Non chiedermelo.' Allora lei fa: 'Ok. Ma questo cos'è, tesoro?' E lui: 'Ho visto brutta roba laggiù, ho ammazzato qualche perizoma.'"
+Dialogues	Dialogue Text/0x0100000400015845	"E lui dice..." Abbassa la voce, in modo comico. "'Quello era *troppo* hard core. Non chiedermelo.' Allora lei fa: 'Ok. Ma questo cos'è, tesoro?' E lui: 'Ho visto brutta roba laggiù, ho ammazzato qualche perizoma.'"
+Dialogues	Dialogue Text/0x0100004500016391	"Allora perché ci *hai* fatto perdere tempo?"
+Dialogues	Dialogue Text/0x0100004500016398	"Allora perché mi *hai* fatto perdere tempo? Se sapevi che l'avrei scoperto."
+Dialogues	Dialogue Text/0x010000450001759E	Sta pensando: *abbiamo* finito qui?
+Dialogues	Dialogue Text/0x01000045000175A5	Sta pensando: *abbiamo* finito qui, o...?
+Dialogues	Alternate3/0x010000450001774C	"E se ti dicessi che sei in arresto, Miss Oranje Disco Dancer?"
+Dialogues	Dialogue Text/0x010000820001B87C	"Se sapevi che alla fine l'avremmo scoperto, perché ci *hai* fatto perdere tempo?"
+Dialogues	Dialogue Text/0x010000820001B894	"Allora perché mi *hai* fatto perdere tempo?"
+Dialogues	Alternate3/0x010000060001BF20	(Ora che Kim è qui) "E se ti dicessi che sei in arresto, Miss Oranje Disco Dancer?"
+Dialogues	Dialogue Text/0x0100004500019BBB	"Presto. Ma è *presto* da quasi mezzo secolo ormai, quindi non farci troppo affidamento."
+Dialogues	Dialogue Text/0x0100004500001053	Davvero? Forse sì. *Potrebbe* essere stata la tua mano a buttarlo via. In ogni caso la sensazione è quella: come se l'avessi *ficcato* da qualche parte. Non in questa spazzatura, però. Come sia finito qui, non ne hai idea.
+Dialogues	Dialogue Text/0x0100004500001269	"Dimmi, il tuo culo tosto *scorge* altro lì dentro o abbiamo finito?" Il tenente sbircia nella spazzatura.
+Dialogues	Dialogue Text/0x010000580001C5C3	"*Potremmo* chiedere una chiave al direttore del Whirling-in-Rags. Probabilmente ne ha una. E ha anche delle *informazioni*."
+Dialogues	Dialogue Text/0x0100000600008D29	Scrivi: Sì. Non visivo. Confermato da un testimone (vedi rapporto).
+Dialogues	Dialogue Text/0x0100000600008D44	Quando li *avrò*?
+Dialogues	Dialogue Text/0x010000040000ECE2	"F****i che parlano di stronzate."
+Dialogues	Dialogue Text/0x0100000400011221	"Agente, perché *abbiamo* una pistola sola?" chiede, caricando con cura la sua pistolette.
+Dialogues	Dialogue Text/0x0100000400011367	"In realtà era da f****i. Cuno l'ha detto solo perché gli facevi pena, maiale. Non è colpa tua se non sai sparare: sono le tue mani da maiale."
+Dialogues	Dialogue Text/0x0100000400011406	*FALLO!*
+Dialogues	Dialogue Text/0x01000004000115DD	"FOTTUTI F****I!" strilla. "IMPARATE A SPARARE."
+Dialogues	Dialogue Text/0x010000040001185F	"Lo sapevo che questi tizi erano f****i." La sua voce è piena di approvazione.
+Dialogues	Dialogue Text/0x0100000400011908	"Sì, siamo f****i, qualche problema?!"
+Dialogues	Dialogue Text/0x0100002F000125DC	Lascia perdere. Non ti serve…
+Dialogues	Dialogue Text/0x01000045000059AD	"I f****i non ne hanno mai abbastanza di quel cazzo..."
+Dialogues	Dialogue Text/0x0100004500005AC3	Hmm... Cuno ha l'aria di uno che gira parecchio. *Conosce* Martinaise. E probabilmente anche i suoi frigoriferi...
+Dialogues	Dialogue Text/0x0100000600019EB7	"Mettiamo il cadavere in un sacco e lo portiamo nel vano di custodia della mia Kineema. Posso trasportarlo io stesso a Processing, ma *starò* via per il resto della giornata."
+Dialogues	Dialogue Text/0x0100004C00001332	"Ai f****i piace prenderlo nel cazzo."
+Dialogues	Dialogue Text/0x010000640000A032	"Ci sta dando dei f****i, Cuno! Dice che scopiamo tra di noi."
+Dialogues	Dialogue Text/0x0100008200004CD3	"Cuno non ci può credere, cazzo!" È come se si fosse appena reso conto di avere dei superpoteri. "*Nessuno* può fermare il Cuno?!"
+Dialogues	Dialogue Text/0x0100008200004F43	"Il maiale sta cercando di non piangere. Cuno non ci può credere, cazzo!" È come se si fosse appena reso conto di avere dei superpoteri. "*Nessuno* può fermare il Cuno?!"
+Dialogues	Dialogue Text/0x0100008200004F49	"Il maiale si sta mordendo le nocche. Cuno non ci può credere, cazzo!" È come se si fosse appena reso conto di avere dei superpoteri. "*Nessuno* può fermare il Cuno?!"
+Dialogues	Dialogue Text/0x01000082000091A3	"Probabilmente è roba troppo da sfigati per *te*, ma magari conosci qualcuno a cui piacerebbe..." (Porgi il libro *L'Uomo di Hjelmdall*.)
+Dialogues	Dialogue Text/0x010000640000943F	"Per lo storpio del cazzo? Meno male che hai chiesto al Cunmeister." Annuisce, cercando di sembrare più grande. "Cuno conosce un frigorifero perfetto per congelare i f****i."
+Dialogues	Dialogue Text/0x01000082000079A1	"Smettila di trasformarti in un maiale, Cuno! Stanno cercando di farti prendere il vizio della spiata!" Emette un sibilo, ancora più cattivo di prima. "State lontani dal mio Cuno, f****i!"
+Dialogues	Dialogue Text/0x0100008200008B69	A dispetto della recita, in realtà sta dicendo la verità. O almeno lo 0,00001% della verità. Ha *un po'* di speed. È solo che non te la dà.
+Dialogues	Dialogue Text/0x01000082000092E9	"È probabile che tu *diventi* proprio così."
+Dialogues	Dialogue Text/0x0100000F0000F0C1	"Suppongo che ci sia un modo per arrivare a quelle frequenze con un po' di *circuit bending*, ma per farlo dovresti essere uno di quegli *smanettoni tecnologici*."
+Dialogues	Dialogue Text/0x0100000F000090CD	*SBADIGLIOOOO!* Riesci a immaginare qualcosa di più noioso di un branco di quattrocchi che si menano il pisello a vicenda?
+Dialogues	Dialogue Text/0x0100000F0000AE64	"Perché la chiami 'mammina'?"
+Dialogues	Alternate2/0x0100005300003421	(Indica il materiale artistico.) "Immagino che questi barattoli di tempera appartengano a Cindy?"
+Dialogues	Dialogue Text/0x0100004B0000142A	Non sai come sia successo. Ma i depositi della tua conoscenza sono vasti e lì dentro *c'è* qualcosa di cruciale.
+Dialogues	Dialogue Text/0x0100000F0000FED0	"Ora che il tuo progetto è finito, puoi aiutarmi a contattare la nave da guerra della Coalizione Archer?"
+Dialogues	Dialogue Text/0x010000580001FE39	"Sono così stanca, Harry. Sono così stanca di tutto questo..." Sospira. "Non lo vedi che *sono* già intrappolata nell'ambra con te? Siamo bloccati qui. Non ce la faccio più. L'aerodromo è il futuro. È risate e leggerezza... Devo andare."
+Dialogues	Alternate1/0x0100005300003619	Il vecchio re e il suo cavallo sono stati ricoperti di manifesti con slogan radicali come 'NÉ RE, NÉ PADRONI' e 'ANCORA, E POI UN'ALTRA VOLTA ANCORA!'
+Dialogues	Dialogue Text/0x0100000F0000E06F	"Certi giorni mi sento *in trappola*, intrappolato in un gioco malato che non posso assolutamente vincere, e non voglio più giocarci, Kim!"
+Dialogues	Dialogue Text/0x0100005300003796	"Non esattamente. Nessuno può conoscere il futuro. Ma con le proiezioni di contingenza è possibile prevedere quale aspetto *potrebbero ragionevolmente* avere le realtà future."
+Dialogues	Dialogue Text/0x0100000F00014DBB	Un mosaico di multe per divieto di sosta ricopre il cavallo e il cavaliere di bronzo. Ognuna reca lo stesso messaggio dall'agente al trasgressore: 'Il permesso di sosta di questo veicolo è scaduto. Si prega di pagare le multe e circolare.'
+Dialogues	Dialogue Text/0x0100005100006A43	È ora di affrontare te stesso, mano y mano. La prossima volta che ti troverai da solo davanti a uno specchio. È *lì* che tutto questo finirà...
+Dialogues	Dialogue Text/0x010000580001F166	"*C'è* un elemento competitivo nel sesso, sono d'accordo."
+Dialogues	Dialogue Text/0x010000580001F553	"PUPA..." Fa una pausa per lasciare che la condiscendenza faccia effetto. "IO APPARTENGO ALLA *S.C.S.* LA PRODUZIONE INVOLONTARIA DI PROLE, CHIMERICA O REGOLARE, *NON* È UN PROBLEMA PER ME."
+Dialogues	Dialogue Text/0x0100005100002793	"Co...? Oh, capisco." Fa un passo indietro e annuisce, con la mascella serrata. "Sei un comico, dopotutto. Un tipo spiritoso. *Imprevedibile*."
+Dialogues	Dialogue Text/0x01000051000027D0	"Deve perdonare il vecchio e perfido René, agente!" interviene l'altro. "Non può smettere di essere se stesso più di quanto uno scorpione possa smettere di essere uno sco..."
+Dialogues	Dialogue Text/0x0100005100002919	Un grugnito di assenso. "*Cerco* di tenermi aggiornato con le mie fonti. Roba indipendente. Non si può credere a metà di quello che si sente là fuori..."
+Dialogues	Dialogue Text/0x0100005100002BC5	In realtà non esiste alcuna 'guerra culturale', ma *esiste* una lotta per i privilegi di accoppiamento (è sempre esistita) e quest'uomo è in netta inferiorità e del tutto mal equipaggiato per questo 'conflitto'.
+Dialogues	Dialogue Text/0x01000053000055F2	"Ehi, vaffanculo, va bene? Dovremmo essere *noi* quelli in cima, non... sai..." Fa un cenno verso i cancelli.
+Dialogues	Dialogue Text/0x010000580001DE87	"Ti ricordi quando Maria Kapaleva scatenò un putiferio sfilando sul tappeto rosso con quelle pantofole... quelle con le tette ballonzolanti attaccate sopra?"
+Dialogues	Dialogue Text/0x0100000F00015FE4	Sacchetti di plastica carichi di scatolette e verdure deformi dondolano dai pugni di una giovane madre che attraversa una rotatoria. Resta a bocca aperta quando alza lo sguardo verso la struttura centrale. 'Vieni qui, Luc. Qui, subito, per favore', dice al suo bimbo curioso. I sacchetti le battono sui polpacci lasciando lividi regolari mentre lo trascina via in fretta.
+Dialogues	Dialogue Text/0x0100000F00016055	"'Orribile' è una parola grossa, Tequila. Se è così, dovrai spiegarmi come ho fatto a mancare il bersaglio di *così tanto*. Cos'è che non ti piace?"
+Dialogues	Dialogue Text/0x0100000F000161EF	"Porca puttana, Tequila. Non farmi questi scherzi. Apprezzo che mi si tenga sul chi vive, ma *cavolo*!" Scuote la testa per ricomporsi.
+Dialogues	Dialogue Text/0x0100004B0000110F	"'Il singolo di debutto del grande DJ Flacio è arrivato! Allacciate le cinture, perché questa è la spazzatura più veloce che sentirete mai.'"
+Dialogues	Dialogue Text/0x0100000F0000EE60	"Suppongo che ci sia un modo per arrivare a quelle frequenze con un po' di *circuit bending*, ma per farlo dovresti essere uno di quegli *smanettoni tecnologici*."
+Dialogues	Dialogue Text/0x0100005100006149	"Già, come *avete* fatto voi ad arrivare così avanti?" (Girati verso il tenente.)
+Dialogues	Dialogue Text/0x0100000F00007063	Ci siamo! 'Destati, prode lavoratore! Non è tempo di dormire/ Lotta finché sotto non vi sian più schiavi, né padroni a comandare.'
+Dialogues	Dialogue Text/0x0100000F00013484	Presta ascolto a queste sagge parole. Sei *tu* che comandi. 'Scusa' è una supplica da mendicante, riservata a chi sta sotto di te.
+Dialogues	Dialogue Text/0x0100005100001E5C	Vuoi rinunciare alla redenzione? Alla *Revanche?* A Revachol?! Ti credevo un uomo del re, fratëllo.
+Dialogues	Dialogue Text/smxkq87_ku71y79b	Gli investigatori privati non fanno che intralciare il lavoro della polizia e mettere in pericolo i civili. Mi tiro fuori. [Scarta pensiero.]
+Dialogues	Dialogue Text/7ofx03d7owdavls7	Oh no, è una di quelle cose da 'mostra, non raccontare', vero?
+Dialogues	Dialogue Text/8ns3msinlwi32k4k	Oh no, è una di quelle cose da 'mostra, non raccontare', vero?
+Dialogues	Dialogue Text/2vq8pg4_ca5p24y2	"Il cosa, scusa?" Il tenente studia il tuo viso.
+Dialogues	Dialogue Text/r1xw_w7ajmr2_3h4	Te l'avevo detto che dovevamo esercitarci! E se fosse stata una situazione di combattimento? Adesso non staremmo più parlando. Riprova!
+Dialogues	Dialogue Text/whb1sp6k38vg6dwq	Qualunque cosa pur di non affrontare ancora l'impiccato disco...
+Dialogues	Dialogue Text/_byonf8a49rvqibx	"Sì, è una buona idea. Facciamolo domattina. Sai, quando non staremo dormendo."
+Dialogues	Dialogue Text/5vu1ipw80x5027df	Appena finita questa conversazione, *tu* ti metti la giacca Fuck-the-World. Poi vedremo da lì...
+Dialogues	Dialogue Text/i9zofaab92q51glb	"È preoccupante. Soprattutto considerando le sue opinioni politiche. Il detective Du Bois è, come forse saprà, un socio-economista mazoviano. Vuole liquidare la classe dominante. Il che, ripeto, per un agente di polizia... è un po' strano."
+Dialogues	Alternate1/i9zofaab92q51glb	"È preoccupante. Soprattutto considerando le sue opinioni politiche. Il detective Du Bois è, come forse saprà, un socio-economista mazoviano. Si è persino unito a un gruppo di lettura clandestino altamente teorico. Il che, ripeto, per un agente di polizia... è insolito."
+Dialogues	Dialogue Text/4_ni73t7awfcknbr	"È semplicemente strano. Soprattutto alla luce delle sue opinioni politiche. Il detective Du Bois è, come forse saprà, un moralista convinto. Un uomo di centro. Non incline a sfoghi politici. Il che è lodevole. Ma anche... in contrasto con il suo comportamento."
+Dialogues	Alternate1/4_ni73t7awfcknbr	"È semplicemente strano. Soprattutto alla luce delle sue opinioni politiche. Il detective Du Bois è, come forse saprà, un moralista convinto. Di recente ha tentato di contattare una nave da guerra della Coalizione per attribuire 'la responsabilité', il che è lodevole. Ma anche... in contrasto con il suo stesso comportamento."
+Dialogues	Dialogue Text/2hcydyqcolhby69i	Non lo è. Non è che uno stratagemma, sire. Il peculiare senso dell'umorismo del tenente.

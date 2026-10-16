@@ -1,0 +1,18 @@
+# File generati da costruisci.ps1 (gli archivi pronti stanno nella sezione Release)
+build/
+work/
+tools/bin/
+pubblicazione/pacchetto/
+pubblicazione/*.zip
+
+# Patch 1.1 originale: si scarica da Nexus Mods (vedi README)
+patch_originale_v1.1/
+*.rar
+
+# Materiale per la pagina Nexus Mods, non utile nel repository
+pubblicazione/campi.txt
+pubblicazione/descrizione.txt
+pubblicazione/email_supporto.txt
+
+# Sostituito da README.md
+LEGGIMI.md

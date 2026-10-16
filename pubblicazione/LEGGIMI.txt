@@ -1,0 +1,52 @@
+DISCO ELYSIUM - THE FINAL CUT
+Traduzione italiana 2.0
+======================================================================
+
+INSTALLAZIONE
+  1. Estrai TUTTO l'archivio in una cartella qualsiasi (non avviare il programma
+     dall'interno dello zip: gli serve la cartella "dati" accanto).
+  2. Chiudi il gioco.
+  3. Avvia DiscoElysium_Traduzione_ITA.exe.
+  4. Il programma trova da solo la cartella del gioco (Steam, GOG, Epic).
+     Se non la trova, premi "Sfoglia..." e indica la cartella che contiene disco.exe.
+  5. Premi "Installa traduzione".
+  6. Avvia il gioco e scegli "Italiano" in Opzioni > Lingua
+     (prende il posto dello spagnolo).
+
+  Al primo avvio Windows SmartScreen puo' mostrare un avviso, perche' il file non e'
+  firmato digitalmente: premi "Ulteriori informazioni" e poi "Esegui comunque".
+
+  Se Windows non permette di scrivere nella cartella del gioco, chiudi il programma,
+  fai clic con il tasto destro sul file e scegli "Esegui come amministratore".
+
+DOPO UN AGGIORNAMENTO DEL GIOCO
+  Se i testi tornano in spagnolo (aggiornamento o verifica dei file di Steam),
+  riavvia il programma e premi di nuovo "Installa traduzione".
+
+RIMOZIONE
+  Avvia il programma e premi "Ripristina file originali".
+  I file del gioco tornano identici a prima dell'installazione.
+
+CONTENUTO DELL'ARCHIVIO
+  DiscoElysium_Traduzione_ITA.exe   il programma di installazione
+  dati\                             la traduzione: testi in chiaro (.tsv, si aprono con
+                                    il Blocco note) e immagini dei pulsanti
+  sorgenti\                         il codice completo del programma, per chi vuole
+                                    controllarlo o compilarlo da se'
+
+COSA VIENE MODIFICATO
+  Quattro file nella cartella del gioco (testi, etichette delle skill, immagini dei pulsanti).
+  Gli originali vengono salvati nella sottocartella _backup_traduzione_ITA.
+  I salvataggi non vengono toccati. Il programma non si collega a Internet.
+  Non serve BepInEx.
+
+REQUISITI
+  Disco Elysium - The Final Cut per Windows, Windows 10 o 11.
+
+CREDITI
+  Traduzione italiana originale: giovix93
+  Conversione senza BepInEx e pubblicazione originale: Gianxs
+    https://www.nexusmods.com/discoelysium/mods/26
+  Versione 2.0: completamento, correzioni, traduzione delle skill e programma di installazione.
+
+  Mod amatoriale e gratuita, non affiliata a ZA/UM.
