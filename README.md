@@ -134,6 +134,13 @@ Lo script produce in `pubblicazione/` l'archivio con l'exe e quello senza exe
 (`..._senza_exe.zip`, lo stesso pubblicato nelle Release come `..._cmd.zip`).
 I file intermedi finiscono in `work/` e `build/`, esclusi dal repository.
 
+## Licenza
+
+Il codice (installatore, strumenti e script) è distribuito con licenza [MIT](LICENSE).
+
+I testi della traduzione e le immagini derivano dalla mod originale e dal gioco: non rientrano nella
+licenza MIT e restano soggetti ai permessi indicati qui sotto.
+
 ## Crediti
 
 - Traduzione italiana originale: **giovix93**
