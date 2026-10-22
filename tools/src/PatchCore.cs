@@ -91,6 +91,9 @@ namespace DE
 
     public class PatchEngine
     {
+        // I percorsi interni (queste costanti e file.tsv) usano disco_Data. Unity però chiama la cartella dei dati
+        // come l'eseguibile: "disco_Data" su Steam e GOG, "Disco Elysium_Data" su Epic. RealRel li adatta.
+        public const string DataDirDefault = "disco_Data";
         public const string LockitRel = @"disco_Data\StreamingAssets\AssetBundles\Windows\lockits\spanish";
         public const string ResourcesRel = @"disco_Data\resources.assets";
         public const string BackupDirName = "_backup_traduzione_ITA";
@@ -99,14 +102,24 @@ namespace DE
 
         public Action<string> Log = delegate { };
 
-        public static bool IsGameDir(string dir)
+        // Nome della cartella dei dati del gioco (disco_Data, Disco Elysium_Data...), null se la cartella non contiene il gioco
+        public static string DataDirName(string gameDir)
         {
             try
             {
-                return !string.IsNullOrEmpty(dir) && File.Exists(Path.Combine(dir, LockitRel)) && File.Exists(Path.Combine(dir, ResourcesRel));
+                if (string.IsNullOrEmpty(gameDir) || !Directory.Exists(gameDir)) return null;
+                List<string> names = new List<string>(); names.Add(DataDirDefault);
+                foreach (string d in Directory.GetDirectories(gameDir, "*_Data")) names.Add(Path.GetFileName(d));
+                foreach (string n in names)
+                    if (File.Exists(Path.Combine(gameDir, RealRel(LockitRel, n))) && File.Exists(Path.Combine(gameDir, RealRel(ResourcesRel, n)))) return n;
             }
-            catch { return false; }
+            catch { }
+            return null;
         }
+
+        static string RealRel(string rel, string dataDir) { return dataDir + rel.Substring(DataDirDefault.Length); }
+
+        public static bool IsGameDir(string dir) { return DataDirName(dir) != null; }
 
         static string Sha(byte[] data)
         {
@@ -151,14 +164,14 @@ namespace DE
 
         // File da scrivere: i due modificati sul posto più quelli forniti interi. Un file fornito viene saltato
         // se nel gioco manca la sua cartella (versione del gioco che non ha quella funzione).
-        List<string> Targets(string gameDir, Payload p)
+        List<string> Targets(string gameDir, string dataDir, Payload p)
         {
             List<string> t = new List<string>(); t.Add(LockitRel); t.Add(ResourcesRel);
             foreach (string n in p.Order)
             {
                 if (!n.StartsWith(FilePrefix, StringComparison.Ordinal)) continue;
                 string rel = n.Substring(FilePrefix.Length);
-                if (Directory.Exists(Path.GetDirectoryName(Path.Combine(gameDir, rel)))) t.Add(rel);
+                if (Directory.Exists(Path.GetDirectoryName(Path.Combine(gameDir, RealRel(rel, dataDir))))) t.Add(rel);
                 else Log("  Saltato (cartella assente in questa versione del gioco): " + rel);
             }
             return t;
@@ -311,22 +324,26 @@ namespace DE
 
         public void Install(string gameDir, Payload p)
         {
-            if (!IsGameDir(gameDir)) throw new PatchException("La cartella indicata non contiene Disco Elysium - The Final Cut.");
+            string dataDir = DataDirName(gameDir);
+            if (dataDir == null) throw new PatchException("La cartella indicata non contiene Disco Elysium - The Final Cut.");
+            if (dataDir != DataDirDefault) Log("Cartella dei dati del gioco: " + dataDir);
             string backupDir = Path.Combine(gameDir, BackupDirName);
             Dictionary<string, string> state = ReadState(gameDir);
-            List<string> targets = Targets(gameDir, p);
+            List<string> targets = Targets(gameDir, dataDir, p);
 
             // Per ogni file: se quello attuale è stato scritto da noi si riparte dall'originale salvato,
             // altrimenti quello attuale È l'originale (prima installazione o gioco aggiornato).
+            // Dati e risultati sono indicizzati con il percorso interno; su disco e nello stato si usa quello reale.
             Dictionary<string, byte[]> originals = new Dictionary<string, byte[]>();
             Dictionary<string, bool> needBackup = new Dictionary<string, bool>();
             foreach (string rel in targets)
             {
-                string cur = Path.Combine(gameDir, rel), bak = Path.Combine(backupDir, rel);
+                string real = RealRel(rel, dataDir);
+                string cur = Path.Combine(gameDir, real), bak = Path.Combine(backupDir, real);
                 if (!File.Exists(cur)) { needBackup[rel] = false; continue; }
                 byte[] data = File.ReadAllBytes(cur);
                 string old;
-                bool ours = state.TryGetValue(rel, out old) && old == Sha(data);
+                bool ours = state.TryGetValue(real, out old) && old == Sha(data);
                 if (ours && File.Exists(bak)) { originals[rel] = File.ReadAllBytes(bak); needBackup[rel] = false; }
                 else { originals[rel] = data; needBackup[rel] = !ours; }
             }
@@ -346,7 +363,7 @@ namespace DE
             {
                 bool nb;
                 if (!needBackup.TryGetValue(rel, out nb) || !nb) continue;
-                string bak = Path.Combine(backupDir, rel);
+                string bak = Path.Combine(backupDir, RealRel(rel, dataDir));
                 Directory.CreateDirectory(Path.GetDirectoryName(bak));
                 File.WriteAllBytes(bak, originals[rel]);
             }
@@ -357,12 +374,13 @@ namespace DE
             newState["@data"] = DateTime.Now.ToString("yyyy-MM-dd HH:mm", CultureInfo.InvariantCulture);
             foreach (string rel in targets)
             {
-                string dst = Path.Combine(gameDir, rel), tmp = dst + ".ita_tmp";
+                string real = RealRel(rel, dataDir);
+                string dst = Path.Combine(gameDir, real), tmp = dst + ".ita_tmp";
                 Directory.CreateDirectory(Path.GetDirectoryName(dst));
                 File.WriteAllBytes(tmp, output[rel]);
                 if (File.Exists(dst)) { File.SetAttributes(dst, FileAttributes.Normal); File.Delete(dst); }
                 File.Move(tmp, dst);
-                newState[rel] = Sha(output[rel]);
+                newState[real] = Sha(output[rel]);
                 // lo stato viene salvato a ogni file: se qualcosa si interrompe, ciò che è già scritto resta ripristinabile
                 WriteState(gameDir, newState);
             }

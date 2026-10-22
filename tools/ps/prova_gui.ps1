@@ -1,6 +1,7 @@
 ﻿# Collaudo dell'interfaccia grafica del patcher su una COPIA dei file del gioco:
 # preme "Installa", chiude i messaggi, verifica, poi preme "Ripristina" e controlla che i file tornino identici.
-param([string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium')
+# -Dati 'Disco Elysium_Data' rinomina la cartella dei dati nella copia, come nella versione Epic.
+param([string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium', [string]$Dati = 'disco_Data')
 $ErrorActionPreference = 'Stop'
 $proj = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 $exe = Join-Path $proj 'build\DiscoElysium_Traduzione_ITA.exe'
@@ -9,11 +10,12 @@ $rels = 'disco_Data\resources.assets',
         'disco_Data\StreamingAssets\AssetBundles\Windows\lockits\spanish',
         'disco_Data\StreamingAssets\AssetBundles\Windows\images\spanish',
         'disco_Data\StreamingAssets\AssetBundles\Windows\images_dyslexic\spanish'
+function T($r) { Join-Path $test ($r -replace '^disco_Data', $Dati) }
 # gli originali: dal backup della patch se il gioco è già tradotto, altrimenti dal gioco stesso
 $src = Join-Path $GameDir '_backup_traduzione_ITA'
 if (-not (Test-Path $src)) { $src = $GameDir }
 if (Test-Path $test) { Remove-Item -Recurse -Force $test -Confirm:$false }
-foreach ($r in $rels) { $d = Join-Path $test $r; New-Item -ItemType Directory -Force (Split-Path $d) | Out-Null; Copy-Item (Join-Path $src $r) $d }
+foreach ($r in $rels) { $d = T $r; New-Item -ItemType Directory -Force (Split-Path $d) | Out-Null; Copy-Item (Join-Path $src $r) $d }
 
 Add-Type @'
 using System; using System.Text; using System.Runtime.InteropServices; using System.Collections.Generic;
@@ -75,7 +77,7 @@ function Close-Dialog($proc, $dlg) {
     while ((Get-Date) -lt $end) { if ([W]::Dialog([uint32]$proc.Id) -ne $dlg) { return }; Start-Sleep -Milliseconds 200 }
     throw "la finestra di messaggio non si chiude"
 }
-function Hash-Test { ($rels | ForEach-Object { (Get-FileHash (Join-Path $test $_)).Hash }) -join ',' }
+function Hash-Test { ($rels | ForEach-Object { (Get-FileHash (T $_)).Hash }) -join ',' }
 
 $orig = Hash-Test
 $p = Start-Process -FilePath $exe -ArgumentList '/cartella', "`"$test`"" -PassThru

@@ -20,8 +20,8 @@ using Microsoft.Win32;
 [assembly: AssemblyProduct("Disco Elysium - Traduzione italiana")]
 [assembly: AssemblyCompany("Traduzione amatoriale: giovix93, Gianxs e contributori")]
 [assembly: AssemblyCopyright("Mod gratuita, non affiliata a ZA/UM")]
-[assembly: AssemblyVersion("2.0.0.0")]
-[assembly: AssemblyFileVersion("2.0.0.0")]
+[assembly: AssemblyVersion("2.0.1.0")]
+[assembly: AssemblyFileVersion("2.0.1.0")]
 
 namespace DE
 {
@@ -602,7 +602,7 @@ namespace DE
                 foreach (string f in found) AppendLog("  " + f);
                 if (found.Count > 1) AppendLog("Più installazioni trovate: scegli quella giusta dalla freccia accanto al percorso.");
             }
-            else AppendLog("Gioco non trovato in automatico. Premi «Sfoglia...» e indica la cartella che contiene disco.exe.");
+            else AppendLog("Gioco non trovato in automatico. Premi «Sfoglia...» e indica la cartella che contiene disco.exe (su Epic: Disco Elysium.exe).");
             RefreshStatus();
             installBtn.Focus();
         }
@@ -611,12 +611,12 @@ namespace DE
         {
             using (FolderBrowserDialog d = new FolderBrowserDialog())
             {
-                d.Description = "Seleziona la cartella di Disco Elysium (quella che contiene disco.exe)";
+                d.Description = "Seleziona la cartella di Disco Elysium (quella che contiene disco.exe o Disco Elysium.exe)";
                 d.ShowNewFolderButton = false;
                 if (Directory.Exists(pathBox.Box.Text)) d.SelectedPath = pathBox.Box.Text;
                 if (d.ShowDialog(this) != DialogResult.OK) return;
                 string p = d.SelectedPath;
-                // tollera la selezione di una sottocartella (es. disco_Data)
+                // tollera la selezione di una sottocartella (es. disco_Data o Disco Elysium_Data)
                 for (int i = 0; i < 3 && p != null && !PatchEngine.IsGameDir(p); i++) p = Path.GetDirectoryName(p);
                 pathBox.Box.Text = p != null && PatchEngine.IsGameDir(p) ? p : d.SelectedPath;
             }
@@ -783,7 +783,8 @@ namespace DE
 
         public static bool GameRunning()
         {
-            try { return Process.GetProcessesByName("disco").Length > 0; } catch { return false; }
+            // disco.exe su Steam e GOG, "Disco Elysium.exe" su Epic
+            try { return Process.GetProcessesByName("disco").Length > 0 || Process.GetProcessesByName("Disco Elysium").Length > 0; } catch { return false; }
         }
 
         // Uso senza interfaccia: /installa | /rimuovi  [/cartella "percorso"]  [/log "file"]

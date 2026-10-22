@@ -4,7 +4,7 @@
 #   .\costruisci.ps1 -GameDir "X:\...\Disco Elysium" -Versione "2.1"
 param(
     [string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium',
-    [string]$Versione = '2.0'
+    [string]$Versione = '2.0.1'
 )
 $ErrorActionPreference = 'Stop'
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path

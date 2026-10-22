@@ -14,7 +14,7 @@ Non serve BepInEx.
 
 ## Download
 
-Scarica l'archivio `DiscoElysium_Traduzione_ITA_v2.0_cmd.zip` dalla pagina
+Scarica l'archivio `DiscoElysium_Traduzione_ITA_v2.0.1_cmd.zip` dalla pagina
 **[Releases](../../releases/latest)**.
 
 L'archivio non contiene programmi già compilati: `Installa.cmd` compila sul momento il codice C# della
@@ -27,7 +27,8 @@ Chiunque può quindi leggere cosa fa il programma prima di avviarlo.
 2. Chiudi il gioco.
 3. Fai doppio clic su **`Installa.cmd`**. Si apre per qualche secondo una finestra nera, poi quella del programma.
 4. Il programma trova da solo la cartella del gioco (Steam, GOG, Epic). Se non la trova, premi
-   *Sfoglia…* e indica la cartella che contiene `disco.exe`.
+   *Sfoglia…* e indica la cartella che contiene `disco.exe` (nella versione Epic si chiama
+   `Disco Elysium.exe`: non rinominarlo, dalla 2.0.1 l'installer lo riconosce).
 5. Premi **Installa traduzione**.
 6. Nel gioco: *Opzioni → Lingua →* **Italiano** (prende il posto di *Español*).
 
@@ -127,7 +128,7 @@ Prerequisiti:
   È la fonte del testo di partenza e delle immagini dei pulsanti.
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File costruisci.ps1 -GameDir "C:\percorso\Disco Elysium" -Versione 2.0
+powershell -ExecutionPolicy Bypass -File costruisci.ps1 -GameDir "C:\percorso\Disco Elysium" -Versione 2.0.1
 ```
 
 Lo script produce in `pubblicazione/` l'archivio con l'exe e quello senza exe

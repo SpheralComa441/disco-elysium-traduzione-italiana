@@ -1,6 +1,7 @@
 ﻿# Collaudo della variante senza .exe: estrae l'archivio in una cartella nuova (come farebbe un utente),
 # poi su una COPIA dei file originali del gioco prova Installa.cmd in modalita' silenziosa e l'interfaccia grafica.
-param([string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium', [string]$Versione = '2.0')
+# -Dati 'Disco Elysium_Data' rinomina la cartella dei dati nella copia, come nella versione Epic.
+param([string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium', [string]$Versione = '2.0.1', [string]$Dati = 'disco_Data')
 $ErrorActionPreference = 'Stop'
 $proj = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 $zip = Join-Path $proj "pubblicazione\DiscoElysium_Traduzione_ITA_v${Versione}_senza_exe.zip"
@@ -11,6 +12,7 @@ $rels = 'disco_Data\resources.assets',
         'disco_Data\StreamingAssets\AssetBundles\Windows\lockits\spanish',
         'disco_Data\StreamingAssets\AssetBundles\Windows\images\spanish',
         'disco_Data\StreamingAssets\AssetBundles\Windows\images_dyslexic\spanish'
+function T($r) { Join-Path $test ($r -replace '^disco_Data', $Dati) }
 $backup = Join-Path $GameDir '_backup_traduzione_ITA'
 $installed = Test-Path $backup
 $src = $GameDir; if ($installed) { $src = $backup }
@@ -19,8 +21,8 @@ foreach ($d in $pkg, $test) { if (Test-Path $d) { Remove-Item -Recurse -Force $d
 Expand-Archive -Path $zip -DestinationPath $pkg
 "contenuto estratto: " + ((Get-ChildItem $pkg | ForEach-Object { $_.Name }) -join ', ')
 "file .exe o .dll nell'archivio: " + @(Get-ChildItem -Recurse -File $pkg | Where-Object { $_.Extension -in '.exe', '.dll' }).Count
-foreach ($r in $rels) { $d = Join-Path $test $r; New-Item -ItemType Directory -Force (Split-Path $d) | Out-Null; Copy-Item (Join-Path $src $r) $d }
-function Hash-Test { ($rels | ForEach-Object { (Get-FileHash (Join-Path $test $_)).Hash }) -join ',' }
+foreach ($r in $rels) { $d = T $r; New-Item -ItemType Directory -Force (Split-Path $d) | Out-Null; Copy-Item (Join-Path $src $r) $d }
+function Hash-Test { ($rels | ForEach-Object { (Get-FileHash (T $_)).Hash }) -join ',' }
 $orig = Hash-Test
 $cmd = Join-Path $pkg 'Installa.cmd'
 
@@ -83,7 +85,7 @@ try {
     Get-Content $log -Encoding UTF8 | Select-Object -Skip 1
     if ($installed) {
         $all = $true
-        foreach ($r in $rels) { if ((Get-FileHash (Join-Path $test $r)).Hash -ne (Get-FileHash (Join-Path $GameDir $r)).Hash) { $all = $false; "  DIVERSO dal file tradotto nel gioco: $r" } }
+        foreach ($r in $rels) { if ((Get-FileHash (T $r)).Hash -ne (Get-FileHash (Join-Path $GameDir $r)).Hash) { $all = $false; "  DIVERSO dal file tradotto nel gioco: $r" } }
         "tutti i file identici a quelli tradotti nel gioco: $all"
     }
     $p = Start-Process -FilePath $cmd -ArgumentList '/rimuovi', '/cartella', "`"$test`"", '/log', "`"$log`"" -PassThru -WindowStyle Minimized; if (-not $p.WaitForExit(240000)) { $p.Kill(); throw "ripristino senza finestra: tempo scaduto" }
