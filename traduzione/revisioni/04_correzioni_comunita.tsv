@@ -50,10 +50,10 @@ Dialogues	Alternate1/0x0100005800005277	"Ci sono molti *suoni* strani in un bar 
 Dialogues	Alternate1/0x01000058000075F3	Sembra che ad un certo punto abbiano rinunciato a riparare le macchine da pinball.
 Dialogues	Alternate1/0x010000580000762F	Non sembra che quella macchina da pinball verrà mai riparata.
 Dialogues	Alternate1/0x0100005800007657	Questo una volta era un... laboratorio di pinball.
-Dialogues	Alternate1/0x0100005800009F2D	Quindi erano soprattutto le macchine da pinball a viaggiare su questo ascensore.
+Dialogues	Alternate1/0x0100005800009F2D	"Quindi erano soprattutto le macchine da pinball a viaggiare su questo ascensore."
 Dialogues	Alternate1/0x0100005800009F39	Una macchina da pinball potrebbe davvero entrare qui dentro?
 Dialogues	Alternate1/0x0100005800009F6F	Più o meno. Se inclinato con precisione. Per essere un piccolo ascensore questo è sorprendentemente bello. L'antica lampadina dorata tremola nel buio.
-Dialogues	Alternate1/0x010000580000B33C	Al piano di sopra nella stanza segreta sul retro - proprio accanto alla camera da letto di Klaasje. L'ho trovata quando ho trovato le macchine da pinball.
+Dialogues	Alternate1/0x010000580000B33C	"Al piano di sopra nella stanza segreta sul retro - proprio accanto alla camera da letto di Klaasje. L'ho trovata quando ho trovato le macchine da pinball."
 Dialogues	Alternate1/0x0100005A0000AD96	"So che Noid ha le sue sinusoidi, ma qual è il problema con Testa d'Uovo?"
 Dialogues	Alternate1/0x0100005A0000F208	"Ok, ma torneremo più tardi se troveremo qualcosa di *sospetto*."\n
 Dialogues	Alternate1/0x0100006A00000190	"Signor Diodore, credo che ci sia stata un po' di confusione. Il suo nome è, infatti, *non* Savvy." Ti guarda male. "Ricominciamo da capo. Sono il tenente Kim Kitsuragi della MCR e questo è il mio compagno..."
@@ -114,7 +114,7 @@ Dialogues	Alternate1/0x01000082000134BE	"Avevi promesso che avrebbe avuto un sen
 Dialogues	Alternate1/0x010000820001C7EF	"Sì, alcune persone hanno la testa sulle spalle - a differenza di te. Cosa c'è di sbagliato in questo?"
 Dialogues	Alternate1/0x01000089000036F9	Il ragazzo ti guarda mentre ti colpisci in testa -- di nuovo. La seconda volta in questo interrogatorio.
 Dialogues	Alternate1/0x0100008F00003C9D	"Allora come *cazzo* l'abbiamo visto?" Si gratta la testa. "O... aspetta! Più tempo rimane lì. Come se avesse bisogno di tempo per fare effetto e se ci passi del tempo..."
-Dialogues	Alternate1/0x0100008F0000400C	Sapevi che l'East Delta Pinball una volta era il Whirling?
+Dialogues	Alternate1/0x0100008F0000400C	"Sapevi che l'East Delta Pinball una volta era il Whirling?"
 Dialogues	Alternate1/0x0100009700003783	"Sto bene, davvero." (Cerca di coprire il sangue che fuoriesce con la mano). 
 Dialogues	Alternate1/l306ex4quhyzg7ex	"È preoccupante. Soprattutto alla luce delle sue opinioni politiche. Il detective Du Bois è -- come forse saprà -- un fascista. Ha passato *ore* cercando di trovare un modo per 'invertire il tempo' con altri individui di estrema destra. E, naturalmente, c'è la roba razziale che -- per un agente di polizia --" Scuote la testa. "Non va bene."
 Dialogues	Alternate1/yv4e0avfmmplosi6	"È strano. Soprattutto alla luce delle sue opinioni politiche. Il detective Du Bois è -- come forse saprà -- uno 'squalo'. Lui..." il tenente si pizzica la radice del naso, "di recente ha commissionato un monumento al suo stesso 'sgobbare per la grana' nel mezzo della rotonda, che è solamente..." Scuote la testa.
@@ -213,7 +213,7 @@ Dialogues	Dialogue Text/0x0100000400013E8F	"Sì, il mio tipo di poliziotto è in
 Dialogues	Dialogue Text/0x01000004000142A7	"Oh sì," si schiocca le labbra. "Tagliando quelle sue droghe in righette con un coltello, masturbandosi..."
 Dialogues	Dialogue Text/0x01000004000142B4	"Anche così, sì," annuisce. "Si inarcava come un arco contro il vetro..."
 Dialogues	Dialogue Text/0x01000004000142C6	"Ho girato *tutta* Martinaise -- ogni angolo e fessura."
-Dialogues	Dialogue Text/0x0100000400014678	L'ascensore è sul *muro esterno* dell'edificio. È un vecchio montavivande -- usato per spostare le macchine da pinball su e giù dall'officina.
+Dialogues	Dialogue Text/0x0100000400014678	"L'ascensore è sul *muro esterno* dell'edificio. È un vecchio montavivande -- usato per spostare le macchine da pinball su e giù dall'officina."
 Dialogues	Dialogue Text/0x010000040001467F	Il ragazzone prende un lungo e ponderato sorso di birra. "E? Che c’entra lei?"
 Dialogues	Dialogue Text/0x01000004000148B7	"Non posso lasciare che un ragazzino porti un sospettato di omicidio in centrale."
 Dialogues	Dialogue Text/0x01000004000148C3	"Sì, in effetti, farei una brutta figura."
@@ -606,11 +606,11 @@ Dialogues	Dialogue Text/0x010000060000DDE6	"Sì, beh..." Sbuffa. "Fanculo anche 
 Dialogues	Dialogue Text/0x010000060000DE09	Solo due duri che annuiscono stoicamente.
 Dialogues	Dialogue Text/0x010000060000E1D0	"Pinball. Un laboratorio di pinball."
 Dialogues	Dialogue Text/0x010000060000E1EC	"Sì. Ha ha. Cosa c'è *davvero* lì dietro?"
-Dialogues	Dialogue Text/0x010000060000E201	Hah! Lo sapevo. Mi sono sempre chiesto da dove venissero quelle macchine vicino alla porta -- *e* mi hanno detto che c'era anche una specie di macchina da pinball...
+Dialogues	Dialogue Text/0x010000060000E201	"Hah! Lo sapevo. Mi sono sempre chiesto da dove venissero quelle macchine vicino alla porta -- *e* mi hanno detto che c'era anche una specie di macchina da pinball..."
 Dialogues	Dialogue Text/0x010000060000E238	Sembra che ci tenga al posto. Non sarà felicissimo di sapere che fa parte dell'Area Commerciale Maledetta.
 Dialogues	Dialogue Text/0x010000060000E265	Quindi è a conoscenza dell'Area Commerciale Maledetta. *E* il suo indirizzo. Ha pensato a questo.
 Dialogues	Dialogue Text/0x010000060000E2F9	"Beh... peccato che sia tutto maledetto allora." (Concludi.)
-Dialogues	Dialogue Text/0x010000060000E301	La fortuna non c'entra niente. Guarda dove si trova la stanza nascosta. "Devo pensare a dove posizionerò quelle macchine da pinball -- ho la sensazione che mi aiuteranno."
+Dialogues	Dialogue Text/0x010000060000E301	"La fortuna non c'entra niente." Guarda dove si trova la stanza nascosta. "Devo pensare a dove posizionerò quelle macchine da pinball -- ho la sensazione che mi aiuteranno."
 Dialogues	Dialogue Text/0x010000060000E308	Contro la Maledizione, è implicito.
 Dialogues	Dialogue Text/0x010000060000E511	Sull'isolotto? Non c'è quasi vento sotto la pioggia che cade tranquillamente sulle canne. I giunchi ondeggiano a pelo d’acqua, le lunghe foglie secche si sfregano l'una contro l'altra. Le morbide gocce di pioggia...
 Dialogues	Dialogue Text/0x010000060000E517	Sull'isolotto? Non c'è quasi nessun vento, solo la neve che cade tranquillamente sulle canne. I giunchi ondeggiano a pelo d’acqua, le lunghe foglie secche si sfregano l'una contro l'altra.
@@ -716,7 +716,7 @@ Dialogues	Dialogue Text/0x0100000600016975	"Non credo di poterlo stabilire con c
 Dialogues	Dialogue Text/0x01000006000170FA	"Sono d'accordo," aggiunge il tenente, "il pinball è il peggiore."
 Dialogues	Dialogue Text/0x0100000600017104	"Il mio consiglio..." Alza il dito. "Non basare i tuoi affari su una moda -- ipnotismo, floriografia, triktrak, specialmente *pinball*..."
 Dialogues	Dialogue Text/0x0100000600017113	"Questo significa che il Whirling fa parte dell' *Area Commerciale Maledetta*. Garte ne sarà *estasiato*..."
-Dialogues	Dialogue Text/0x01000006000171CB	Trama capitalista. Alza gli occhi al cielo. "La macchina da pinball che abbiamo nell'angolo ora è rotta -- voglio diversificare le opzioni di intrattenimento."
+Dialogues	Dialogue Text/0x01000006000171CB	"Trama capitalista." Alza gli occhi al cielo. "La macchina da pinball che abbiamo nell'angolo ora è rotta -- voglio diversificare le opzioni di intrattenimento."
 Dialogues	Dialogue Text/0x0100000600017BB1	Vedi? Sta facendo l'evasivo. Incalzalo, fagli vedere chi comanda.
 Dialogues	Dialogue Text/0x0100000600017C6B	"Ma no, non ne avevo idea. E sono ancora arrabbiato con lui ad essere onesto. Non è da lui. Ha le sue stranezze, ma la disonestà -- o la slealtà -- non sono tra queste."
 Dialogues	Dialogue Text/0x0100000600018A1F	Hai guadagnato un Pensiero! Quando questo dialogo è finito, vai al tuo GABINETTO DEL PENSIERO e INTERNALIZZALO per ottenere bonus ed effetti speciali.
@@ -897,8 +897,8 @@ Dialogues	Dialogue Text/0x0100000F000160C7	"Di cosa stai parlando? *Spennarti*? 
 Dialogues	Dialogue Text/0x0100000F000160EE	"Certo che sì! Non so ancora cosa ci sarà dopo, ma so che farai centro."
 Dialogues	Dialogue Text/0x010000110000132E	Aspetta. Cosa sa quest'uomo sulla dipendenza da pyrholidon?
 Dialogues	Dialogue Text/0x0100001100001786	"Non ho controllato. Il pinball non è rilevante per l'indagine."
-Dialogues	Dialogue Text/0x010000110000178E	No, mi stavo... solo chiedendo. Sembra che stia facendo un calcolo nella sua testa. "Se hai trovato delle macchine da pinball lì..."
-Dialogues	Dialogue Text/0x0100001100001795	Mi stavo... solo chiedendo. Sembra che stia facendo un calcolo nella sua testa. "Se trovassi delle macchine da pinball lì..."
+Dialogues	Dialogue Text/0x010000110000178E	"No, mi stavo... solo chiedendo." Sembra che stia facendo un calcolo nella sua testa. "Se hai trovato delle macchine da pinball lì..."
+Dialogues	Dialogue Text/0x0100001100001795	"Mi stavo... solo chiedendo." Sembra che stia facendo un calcolo nella sua testa. "Se trovassi delle macchine da pinball lì..."
 Dialogues	Dialogue Text/0x010000110000179C	Si stava *chiedendo* quanto avrebbe potuto guadagnare con una di quelle macchine da pinball.
 Dialogues	Dialogue Text/0x0100001400002BA3	"Perché sei così sospettoso di tutto?"
 Dialogues	Dialogue Text/0x0100001400002ECB	"Sì, avere cibo è un mezzo per un fine. Ma la sinistra non parla mai del fine, solo dei mezzi. Anche i capitalisti sono dei babbei, sempre insonni per le preoccupazioni."
@@ -952,7 +952,7 @@ Dialogues	Dialogue Text/0x0100002B000059DE	"No, mi dispiace," mette le mani nell
 Dialogues	Dialogue Text/0x0100002B000059E4	"Quindi i tuoi *soldi* sono *spariti*?"
 Dialogues	Dialogue Text/0x0100002B0005C669	"Hai ragione, sono troppo assennato per quelli."
 Dialogues	Dialogue Text/0x0100002B0005E853	Non va bene. Tutto quello che riesci a trovare sono dei pantaloni di lana trattati. Capisci che sono troppo stretti intorno alle cosce e troppo larghi intorno alla vita.
-Dialogues	Dialogue Text/0x0100002B0007CCC9	East Delta Pinball (ingresso dall'edificio B).
+Dialogues	Dialogue Text/0x0100002B0007CCC9	"East Delta Pinball (ingresso dall'edificio B)."
 Dialogues	Dialogue Text/0x0100002F000007B6	"Mi stai *mentendo*? Fai il tirchio con le sigarette?"
 Dialogues	Dialogue Text/0x0100002F0000443D	Lei alza le spalle, apparentemente sconsolata. "Ok, sono disposta ad ascoltare. Ci siamo messi sulla strada... c'è poco altro da fare."
 Dialogues	Dialogue Text/0x0100002F00008558	Cavolo, vivi un po'. Almeno prova le cose. Sono solo stivali. Un paio di stivali fighi ed eleganti.
@@ -1330,29 +1330,29 @@ Dialogues	Dialogue Text/0x010000580000606C	È orgoglioso di te per esserti rimes
 Dialogues	Dialogue Text/0x0100005800006E48	"Maledetto pinball."
 Dialogues	Dialogue Text/0x01000058000075BA	Quindi è qui che portavano le macchine da pinball difettose per ripararle... molto tempo fa. Ora è tutto coperto di polvere...
 Dialogues	Dialogue Text/0x01000058000075E3	Questo sembra essere una specie di laboratorio. Per riparare le macchine da pinball -- tanto tempo fa. Ora è tutto coperto di polvere...
-Dialogues	Dialogue Text/0x01000058000075F3	Sembra che ad un certo punto abbiano rinunciato a riparare le macchine da pinball.
+Dialogues	Dialogue Text/0x01000058000075F3	"Sembra che ad un certo punto abbiano rinunciato a riparare le macchine da pinball."
 Dialogues	Dialogue Text/0x010000580000760E	"Ad un certo punto -- venti anni fa? Quindici forse. Prima che il pinball andasse fuori moda."
-Dialogues	Dialogue Text/0x010000580000762F	Non sembra che quella macchina da pinball verrà mai riparata.
+Dialogues	Dialogue Text/0x010000580000762F	"Non sembra che quella macchina da pinball verrà mai riparata."
 Dialogues	Dialogue Text/0x0100005800007657	"Questo una volta era un... laboratorio di pinball."
 Dialogues	Dialogue Text/0x0100005800007726	Non è colpa mia se questa sala da pinball è fallita.
 Dialogues	Dialogue Text/0x010000580000772D	No, ma come ti fa sentire frugare nella sua spazzatura?
 Dialogues	Dialogue Text/0x0100005800007F03	"O... forse è meglio dire che ci è stato *permesso di formarci*. È un punto di discussione se i cittadini di Revachol o il Governo di Coalizione abbiano fondato la MCR."
 Dialogues	Dialogue Text/0x01000058000087F8	"Devo avvertirti -- potrei aver scoperto che il Whirling fa parte della Area Commerciale Maledetta."
 Dialogues	Dialogue Text/0x0100005800008899	"Stai pensando di trasformare questo posto in una sala da pinball?"
-Dialogues	Dialogue Text/0x010000580000889F	Se stai pensando di vendere quelle macchine da pinball, voglio una grossa fetta. Roba da C-Suite. (Battiti il petto) "Sono un perturbatore."
+Dialogues	Dialogue Text/0x010000580000889F	"Se stai pensando di vendere quelle macchine da pinball, voglio una grossa fetta. Roba da C-Suite." (Battiti il petto) "Sono un perturbatore."
 Dialogues	Dialogue Text/0x0100005800008911	"Il Whirling è adiacente a loro. E c'è anche il laboratorio di pinball. Il Whirling non è sempre stato un ostello..."
 Dialogues	Dialogue Text/0x0100005800008B77	"Sì, la mia stanza d'ostello mi chiama."
 Dialogues	Dialogue Text/0x0100005800009EBA	Questa è la porta del laboratorio di pinball che hai lasciato sbarrata all'interno.
 Dialogues	Dialogue Text/0x0100005800009EF9	"Sembra di sì, anche se è piuttosto... pittoresco per un montacarichi." Tocca la lampadina tremolante -- è dorata nel buio.
 Dialogues	Dialogue Text/0x0100005800009EFF	"Sembra un piccolo montacarichi per il trasporto di macchinari. Per questo -- è piuttosto pittoresco." Tocca la lampadina tremolante -- è dorata nel buio.
 Dialogues	Dialogue Text/0x0100005800009F0B	Questo ascensore deve essere stato utilizzato per trasportare le macchine da pinball da e verso l'officina al piano superiore.
-Dialogues	Dialogue Text/0x0100005800009F2D	Questo ascensore deve essere stato necessario per trasportare le macchine da pinball su e giù.
+Dialogues	Dialogue Text/0x0100005800009F2D	"Questo ascensore deve essere stato necessario per trasportare le macchine da pinball su e giù."
 Dialogues	Dialogue Text/0x0100005800009F39	Potrebbe essere servito per spostare le macchine da pinball su e giù?
 Dialogues	Dialogue Text/0x010000580000A076	"Il Whirling è elencato nel citofono all'esterno. Come una delle attività nell'edificio B -- dell' *Area Commerciale Maledetta*."
 Dialogues	Dialogue Text/0x010000580000A098	"Ovviamente non è successo." Fa un gesto ampio con il braccio. "Guarda le piastrelle pre-rivoluzionarie. Questo è un edificio vecchio e orgoglioso. Che importa se prima c'era una piccola sala da pinball qui?"
 Dialogues	Dialogue Text/0x010000580000A0A4	"Questo *sembra* parte dell'Area Commerciale Maledetta?" Fa un gesto ampio. "Queste piastrelle pre-rivoluzionarie? Questi soffitti alti? Le belle stanze? Beh, *la maggior parte* delle stanze..."
 Dialogues	Dialogue Text/0x010000580000A0BB	"È un *segno* del fatto che il Whirling-in-Rags non fa parte dell'Area Commerciale Maledetta. Semmai -- stiamo *rivitalizzando* questo quartiere."
-Dialogues	Dialogue Text/0x010000580000A1F9	Qualunque cosa. Tenta un cipiglio, ma è troppo assorto nei suoi pensieri per finirlo. "C'era qualcos'altro? Perché ho bisogno di *pensare* a come far entrare quelle macchine da pinball qui dentro..."
+Dialogues	Dialogue Text/0x010000580000A1F9	"Qualunque cosa." Tenta un cipiglio, ma è troppo assorto nei suoi pensieri per finirlo. "C'era qualcos'altro? Perché ho bisogno di *pensare* a come far entrare quelle macchine da pinball qui dentro..."
 Dialogues	Dialogue Text/0x010000580000A206	"Anche se fa parte di quella dannata Area Commerciale Maledetta..."
 Dialogues	Dialogue Text/0x010000580000B4D9	Peggio per te. Addio, muro inondato di luce alla fine del mondo.
 Dialogues	Dialogue Text/0x010000580000B4E0	Peggio per te. Addio, muro innevato alla fine del mondo.
@@ -1363,7 +1363,7 @@ Dialogues	Dialogue Text/0x010000580000EA75	"Guarda, non sono a conoscenza di nes
 Dialogues	Dialogue Text/0x010000580000EE1C	"Vedo che è un'arma ad avancarica. Hai un'altra... pistola da qualche parte?"
 Dialogues	Dialogue Text/0x010000580000EF30	"Gioca... a pinball molto?"
 Dialogues	Dialogue Text/0x010000580000EF4F	"No, non da quando avevo 14 anni e frequentavo l'unica tavola calda di Dardanne. Non ho più fatto giochi a basso rischio e senza ricompensa da quando mi sono trasferita in città."
-Dialogues	Dialogue Text/0x010000580000EF57	Ci sono alcune... misteriose macchine da pinball in alcune stanze piuttosto... misteriose nel Whirling...
+Dialogues	Dialogue Text/0x010000580000EF57	"Ci sono alcune... misteriose macchine da pinball in alcune stanze piuttosto... misteriose nel Whirling..."
 Dialogues	Dialogue Text/0x010000580000EF6A	"Non capisco le tue brillanti insinuazioni, detective."
 Dialogues	Dialogue Text/0x010000580000F05A	"È molto potente. L'ho usato per sintonizzarmi sulle frequenze della MCR. È così che ho capito che dovevo prepararmi al tuo arrivo."
 Dialogues	Dialogue Text/0x010000580000F060	"Chi non lo fa? Oh, probabilmente intendi il tetto di Klaasje. Certo, sono stata lì. Ha questa grande antenna..."
@@ -2365,7 +2365,7 @@ Dialogues	Dialogue Text/0x010000780001088D	E poi quando sono tutti vuoti, vai av
 Dialogues	Dialogue Text/0x0100007800010913	"C'era un argano fuori, sul tetto. Come quello di un piccolo *ascensore*."
 Dialogues	Dialogue Text/0x0100007800010B0F	"Che ne dici di accendere uno di questi gioiellini e fare una partita a pinball?"
 Dialogues	Dialogue Text/0x0100007800010B16	"Una specie di..." Si guarda intorno, pensando. "Stupido tema del pinball -- probabilmente legato a Messina durante l'età doloriana. I temi *storici* sono i peggiori."
-Dialogues	Dialogue Text/0x0100007800010B3C	Non puoi *accenderli*, sono rotti. Solo quella macchina nella sala principale funziona. Il Pinball Reale. Guarda altrove.
+Dialogues	Dialogue Text/0x0100007800010B3C	"Non puoi *accenderli*, sono rotti. Solo quella macchina nella sala principale funziona. Il Pinball Reale." Guarda altrove.
 Dialogues	Dialogue Text/0x0100007800010B49	Che nome stupido... Pinball Reale. Se non fossero rotte, prenderebbe a calci una di queste macchine in questo momento.
 Dialogues	Dialogue Text/0x0100007800010B50	"Sembra che non ti piaccia il pinball, Kim."
 Dialogues	Dialogue Text/0x0100007800010B5A	"No, lo adoro -- adoro il pinball. Chi non ama il pinball? Andiamo avanti."
@@ -2379,15 +2379,15 @@ Dialogues	Dialogue Text/0x0100007800010BB9	"Ok." Pensa per un momento. "Non mi p
 Dialogues	Dialogue Text/0x0100007800010BCA	"Quindi non siete tutti, tipo, assi del pinball? Perché potrei giurare di sapere che lo siete."
 Dialogues	Dialogue Text/0x0100007800010BDF	"Ok." Lui pensa per un momento. "Non mi piace il pinball perché ho dovuto imparare a giocarci per un lavoro sotto copertura in una sala da pinball. Ed è un gioco sfigato, noioso e poco impegnativo - ecco. Possiamo andare avanti ora."
 Dialogues	Dialogue Text/0x0100007800010BE6	Hai ancora la sensazione che si stia trattenendo sui trucchi del pinball seolita, ma va bene. Esplora allora.
-Dialogues	Dialogue Text/0x0100007800010BFD	No. *Non sono* -- andiamo avanti. C'è di più in questo posto che le macchine da pinball.
+Dialogues	Dialogue Text/0x0100007800010BFD	"No. *Non sono* -- andiamo avanti. C'è di più in questo posto che le macchine da pinball."
 Dialogues	Dialogue Text/0x0100007800010C37	Certo, certo. Solo qualcosa che è venuto a galla. Vai avanti, fai del vero lavoro di polizia. Questo non è un mistero da pinball.
 Dialogues	Dialogue Text/0x0100007800010C43	"Bene. Sono Kim 'Pinball' Kitsuragi." Si rimette gli occhiali. "Alias Il Kimball. Ti sei ricordato -- congratulazioni."
 Dialogues	Dialogue Text/0x0100007800010C4B	"Non sembra che ti piaccia molto il pinball."
 Dialogues	Dialogue Text/0x0100007800010C64	"Nessun essere umano dovrebbe. È un gioco che non richiede alcuna abilità, solo un'affinità infantile per le luci lampeggianti. E per le saghe *fantasy*, di fantascienza e di romanzo storico."
-Dialogues	Dialogue Text/0x0100007800010C6B	È *noioso*.
-Dialogues	Dialogue Text/0x0100007800010C72	Allora perché ti chiamano Pinball?
-Dialogues	Dialogue Text/0x0100007800010C79	Non mi *chiamano* Pinball. Era un soprannome usato per prendermi in giro -- molto tempo fa. *Prima* di diventare un detective della omicidi. E che diventassi tenente.
-Dialogues	Dialogue Text/0x0100007800010C7F	Ora ti chiamerò Pinball.
+Dialogues	Dialogue Text/0x0100007800010C6B	"È *noioso*."
+Dialogues	Dialogue Text/0x0100007800010C72	"Allora perché ti chiamano Pinball?"
+Dialogues	Dialogue Text/0x0100007800010C79	"Non mi *chiamano* Pinball. Era un soprannome usato per prendermi in giro -- molto tempo fa. *Prima* di diventare un detective della omicidi. E che diventassi tenente."
+Dialogues	Dialogue Text/0x0100007800010C7F	"Ora ti chiamerò Pinball."
 Dialogues	Dialogue Text/0x0100007800010CA9	Si rimette gli occhiali. "Bene. Sono stato un agente della polizia minorile -- per più di 15 anni. È così che ho iniziato nella MCR. Una volta ho dovuto infiltrarmi in un giro di pinball. Come capita, quando lavori nella polizia minorile."
 Dialogues	Dialogue Text/0x0100007800010CB7	"Hai lavorato nella polizia minorile per 15 anni?"
 Dialogues	Dialogue Text/0x0100007800010CBE	"Quel tempo è finito ora." Guarda il pinball e inspira. "Ero già un uomo di 38 anni. Era sconveniente. Così come giocare a pinball."
@@ -2396,7 +2396,7 @@ Dialogues	Dialogue Text/0x0100007800010CD5	"Meraviglioso. Ricorda *solo* di aver
 Dialogues	Dialogue Text/0x0100007800010CE9	"Incredibilmente," annuisce. "Per farlo avevo bisogno di diventare un... *campione di pinball*. Mi sono allenato per nove mesi. Il lavoro ebbe successo e fui spostato dal dipartimento minorile -- alla omicidi."
 Dialogues	Dialogue Text/0x0100007800010CF8	"Non andava bene. Avevo bisogno di diventare un... *campione di pinball*." Rabbrividisce. "Mi sono allenato per 9 mesi. Il lavoro ebbe successo e fui spostato dal dipartimento minorile -- alla omicidi."
 Dialogues	Dialogue Text/0x0100007800010D10	Ecco perché non vuole parlare con Cuno. Disturbo da trauma e stress per aver lavorato nella polizia minorile.
-Dialogues	Dialogue Text/0x0100007800010D64	Sembra di sì. Immagino che Martinaise North 22 fosse una sala giochi di pinball prima di diventare un ostello. Ci sono delle macchine rimaste... Batte il piede.
+Dialogues	Dialogue Text/0x0100007800010D64	"Sembra di sì. Immagino che Martinaise North 22 fosse una sala giochi di pinball prima di diventare un ostello. Ci sono delle macchine rimaste..." Batte il piede.
 Dialogues	Dialogue Text/0x0100007800010E58	Impronte noiose. Voglio trarre conclusioni sensazionalistiche.
 Dialogues	Dialogue Text/0x0100007800011049	È un’ombra neurale gettata nel mondo da te, che divora la realtà. Un grande territorio innaturale. Il suo avvento coincide con l'arrivo della mente umana.
 Dialogues	Dialogue Text/0x0100007800011068	Sospettiamo che sarà qualcosa come l'olocausto dell’ossigeno che ha spazzato via la vita anaerobica 2,6 miliardi di anni fa - quando gli organismi hanno iniziato a respirare. Solo molto peggio.
@@ -2784,12 +2784,12 @@ Dialogues	Dialogue Text/0x010000820001C803	Lui *sa* che sta evitando l'implicazi
 Dialogues	Dialogue Text/0x010000820001C80E	"Sì, ha semplicemente la *testa sulle spalle*. Ecco come lo sapeva."
 Dialogues	Dialogue Text/0x010000820001C8DE	"Attraverso quello che sembra un laboratorio di pinball abbandonato."
 Dialogues	Dialogue Text/0x010000820001C8E4	"Cos’altro sei riuscito a capire: *quanto* erano recenti? Di che misura?"
-Dialogues	Dialogue Text/0x010000820001C9A8	Sala giochi East Delta Pinball. Il vecchio tossisce. "*Strano* posto -- è andato in bancarotta."
+Dialogues	Dialogue Text/0x010000820001C9A8	"Sala giochi East Delta Pinball." Il vecchio tossisce. "*Strano* posto -- è andato in bancarotta."
 Dialogues	Dialogue Text/0x010000820001CAEA	Strano... come? Indossi il cappotto da pinball.
 Dialogues	Dialogue Text/0x010000820001CD43	"Sei *d'accordo* sul fatto che lo sparo provenisse dal tetto, giusto?"
 Dialogues	Dialogue Text/0x010000820001D06D	"Sì, quindi cosa -- è stata qui -- c'è una chiave qui -- quindi l'ha ucciso? Stai tirando a indovinare e tu lo sai benissimo."
 Dialogues	Dialogue Text/0x010000820001D0B8	Hmmm... A questo tizio Ruby non *piace*. Potrebbe rivelarsi utile.
-Dialogues	Dialogue Text/0x010000820001D0BE	C'erano delle macchine da pinball nell'officina. Ancora funzionanti.
+Dialogues	Dialogue Text/0x010000820001D0BE	"C'erano delle macchine da pinball nell'officina. Ancora funzionanti."
 Dialogues	Dialogue Text/0x010000820001D0C4	(Mostra il proiettile) "Questo è il proiettile che l'ha ucciso -- 4,46 mm. La Belle-Magrave usa lo stesso calibro."
 Dialogues	Dialogue Text/0x010000820001D201	"Dannazione, poliziotto... mi stai prendendo in giro? Sai che non era un maledetto assassino del pinball!"
 Dialogues	Dialogue Text/0x010000820001D209	"Adesso si ucciderà... di nuovo." L'uomo tatuato ti guarda con disprezzo.
@@ -2803,7 +2803,7 @@ Dialogues	Dialogue Text/0x010000820001D848	"Sì, lo vedo." Mette giù la sua bir
 Dialogues	Dialogue Text/0x010000820001D84E	"Non *lo so*." Fa un sorriso particolare. "Non so dove sia andata. Si è alzata e se n'è andata. Era anche molto spaventata. Non mi ha detto dove -- per quanto *insistessi*. Vuoi sapere perché?"
 Dialogues	Dialogue Text/0x010000820001D991	"Sarà *dovuto*." Tende la mano.
 Dialogues	Dialogue Text/0x010000820001DA2B	Stringigli la mano.
-Dialogues	Dialogue Text/0x010000820001EC14	L'ascensore è *fuori* dall'edificio. È un vecchio montavivande -- usato per spostare le macchine da pinball su e giù dal laboratorio.
+Dialogues	Dialogue Text/0x010000820001EC14	"L'ascensore è *fuori* dall'edificio. È un vecchio montavivande -- usato per spostare le macchine da pinball su e giù dal laboratorio."
 Dialogues	Dialogue Text/0x0100008900000392	"Ti ho detto di non mettere il rock di merda."
 Dialogues	Dialogue Text/0x010000890000039E	"Whoa... un fucile enorme." Cuno guarda l'arma.
 Dialogues	Dialogue Text/0x0100008900000402	"Ok, puoi tenerlo -- ma tieni il fucile abbassato mentre parliamo."
