@@ -20,8 +20,8 @@ using Microsoft.Win32;
 [assembly: AssemblyProduct("Disco Elysium - Traduzione italiana")]
 [assembly: AssemblyCompany("Traduzione amatoriale: giovix93, Gianxs e contributori")]
 [assembly: AssemblyCopyright("Mod gratuita, non affiliata a ZA/UM")]
-[assembly: AssemblyVersion("2.0.1.0")]
-[assembly: AssemblyFileVersion("2.0.1.0")]
+[assembly: AssemblyVersion("2.1.0.0")]
+[assembly: AssemblyFileVersion("2.1.0.0")]
 
 namespace DE
 {
@@ -561,7 +561,7 @@ namespace DE
                 statusColor == Theme.Muted ? Theme.Text : statusColor, TextFormatFlags.VerticalCenter | TextFormatFlags.Left | TextFormatFlags.NoPrefix | TextFormatFlags.EndEllipsis | TextFormatFlags.NoPadding);
 
             TextRenderer.DrawText(g,
-                "Traduzione originale di giovix93 · conversione di Gianxs · versione 2 completata e revisionata.\n" +
+                "Traduzione originale di giovix93 · conversione di Gianxs · versione 2 completata e revisionata, con le correzioni di EdoCap2710.\n" +
                 "Progetto amatoriale e gratuito, non affiliato a ZA/UM.",
                 Theme.Ui(8f, false), footerRect, Theme.Faint, TextFormatFlags.WordBreak | TextFormatFlags.NoPrefix | TextFormatFlags.NoPadding);
         }

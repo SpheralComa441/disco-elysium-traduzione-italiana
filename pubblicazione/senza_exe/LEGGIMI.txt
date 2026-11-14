@@ -1,5 +1,5 @@
 DISCO ELYSIUM - THE FINAL CUT
-Traduzione italiana 2.0.1
+Traduzione italiana 2.1
 ======================================================================
 
 Questo archivio non contiene programmi gia' compilati (.exe): il programma di installazione
@@ -53,5 +53,6 @@ CREDITI
   Conversione senza BepInEx e pubblicazione originale: Gianxs
     https://www.nexusmods.com/discoelysium/mods/26
   Versione 2.0: completamento, correzioni, traduzione delle skill e programma di installazione.
+  Versione 2.1: revisione di 3.032 battute di EdoCap2710.
 
   Mod amatoriale e gratuita, non affiliata a ZA/UM.
