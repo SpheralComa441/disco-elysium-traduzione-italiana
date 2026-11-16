@@ -1,7 +1,7 @@
 ﻿# Collaudo della variante senza .exe: estrae l'archivio in una cartella nuova (come farebbe un utente),
 # poi su una COPIA dei file originali del gioco prova Installa.cmd in modalita' silenziosa e l'interfaccia grafica.
 # -Dati 'Disco Elysium_Data' rinomina la cartella dei dati nella copia, come nella versione Epic.
-param([string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium', [string]$Versione = '2.2', [string]$Dati = 'disco_Data')
+param([string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium', [string]$Versione = '2.2.1', [string]$Dati = 'disco_Data')
 $ErrorActionPreference = 'Stop'
 $proj = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 $zip = Join-Path $proj "pubblicazione\DiscoElysium_Traduzione_ITA_v${Versione}_senza_exe.zip"

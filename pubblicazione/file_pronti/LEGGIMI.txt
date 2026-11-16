@@ -1,0 +1,66 @@
+DISCO ELYSIUM - THE FINAL CUT
+Traduzione italiana {VERSIONE} - file pronti per la versione Steam
+======================================================================
+
+Questo archivio contiene i quattro file del gioco gia' tradotti, da copiare a mano.
+Serve a chi non puo' usare il programma di installazione: Linux e Steam Deck, dove il gioco
+gira con Proton. Funziona anche con Steam su Windows, ma li' e' meglio l'installatore.
+
+ATTENZIONE
+  I file sono stati prodotti dall'installatore sulla versione Steam del gioco
+  (build {BUILD}) e valgono solo per quella. Con GOG, Epic o Game Pass, o dopo un
+  aggiornamento del gioco, possono non corrispondere: in quel caso il gioco potrebbe
+  non partire. Prima di copiarli conviene fare il controllo qui sotto.
+
+CONTROLLO DELLA VERSIONE (consigliato)
+  Apri un terminale nella cartella del gioco (vedi sotto come trovarla) ed esegui:
+    sha256sum -c "/percorso/di/questa/cartella/originali.sha256"
+  Se tutte e quattro le righe finiscono con OK, i tuoi file sono quelli su cui e' stata
+  costruita la traduzione. Se anche una sola riga non finisce con OK, la versione e' diversa:
+  non copiare i file.
+  Se la traduzione era gia' installata il controllo fallisce: ripristina prima gli originali
+  (vedi RIMOZIONE).
+
+INSTALLAZIONE
+  1. Chiudi il gioco.
+  2. In Steam: clic destro su Disco Elysium > Gestisci > Sfoglia i file locali.
+     Si apre la cartella del gioco, quella che contiene la cartella disco_Data. Di solito:
+       Linux       ~/.local/share/Steam/steamapps/common/Disco Elysium
+       Steam Deck  /home/deck/.local/share/Steam/steamapps/common/Disco Elysium
+                   (gioco su scheda SD: /run/media/<nome della scheda>/steamapps/common/Disco Elysium)
+       Windows     C:\Program Files (x86)\Steam\steamapps\common\Disco Elysium
+  3. Copia la cartella disco_Data di questo archivio dentro la cartella del gioco e accetta
+     di sostituire i file: vengono sostituiti solo quattro file, gli altri restano com'erano.
+     Da terminale, dalla cartella di questo archivio:
+       cp -r disco_Data "/percorso/della/cartella/del/gioco/"
+  4. Avvia il gioco e scegli "Italiano" in Opzioni > Lingua (prende il posto dello spagnolo).
+
+  Su Steam Deck i passi 2 e 3 si fanno in Modalita' desktop.
+
+RIMOZIONE
+  In Steam: clic destro su Disco Elysium > Proprieta' > File installati >
+  Verifica l'integrita' dei file di gioco. Steam riscarica i quattro file originali.
+
+DOPO UN AGGIORNAMENTO DEL GIOCO
+  Se i testi tornano in spagnolo, l'aggiornamento ha sostituito i file. Rifai il controllo
+  della versione prima di ricopiarli: se non passa, aspetta una versione aggiornata di
+  questo pacchetto.
+
+CONTENUTO DELL'ARCHIVIO
+  disco_Data/resources.assets                                   etichette delle skill, nome della lingua
+  disco_Data/StreamingAssets/AssetBundles/Windows/lockits/spanish            testi
+  disco_Data/StreamingAssets/AssetBundles/Windows/images/spanish             immagini dei pulsanti
+  disco_Data/StreamingAssets/AssetBundles/Windows/images_dyslexic/spanish    immagini per il font dislessia
+  originali.sha256   impronte dei file originali della build {BUILD}
+  tradotti.sha256    impronte dei file di questo archivio
+
+CREDITI
+  Traduzione italiana originale: giovix93
+  Conversione senza BepInEx e pubblicazione originale: Gianxs
+    https://www.nexusmods.com/discoelysium/mods/26
+  Versione 2.0: completamento, correzioni, traduzione delle skill e programma di installazione.
+  Versione 2.1: revisione di 3.032 battute di EdoCap2710.
+  Versione 2.2: revisione integrale di kdpkke (13.945 correzioni).
+  Codice e testi: https://github.com/SpheralComa441/disco-elysium-traduzione-italiana
+
+  Mod amatoriale e gratuita, non affiliata a ZA/UM. Serve una copia originale del gioco.

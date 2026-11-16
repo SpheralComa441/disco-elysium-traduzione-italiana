@@ -1,4 +1,4 @@
-# Disco Elysium – The Final Cut · Traduzione italiana 2.2
+# Disco Elysium – The Final Cut · Traduzione italiana 2.2.1
 
 Traduzione italiana completa di **Disco Elysium – The Final Cut** (Windows), con installatore automatico
 che trova il gioco, salva i file originali e permette di ripristinarli in qualsiasi momento.
@@ -14,8 +14,9 @@ Non serve BepInEx.
 
 ## Download
 
-Scarica l'archivio `DiscoElysium_Traduzione_ITA_v2.2_cmd.zip` dalla pagina
-**[Releases](../../releases/latest)**.
+Scarica l'archivio `DiscoElysium_Traduzione_ITA_v2.2.1_cmd.zip` dalla pagina
+**[Releases](../../releases/latest)**. Su Linux e Steam Deck serve invece
+`DiscoElysium_Traduzione_ITA_v2.2.1_file_pronti_Steam.zip` (vedi [Linux e Steam Deck](#linux-e-steam-deck)).
 
 L'archivio non contiene programmi già compilati: `Installa.cmd` compila sul momento il codice C# della
 cartella `sorgenti` con il compilatore incluso in Windows e apre la finestra di installazione.
@@ -26,7 +27,7 @@ Chiunque può quindi leggere cosa fa il programma prima di avviarlo.
 1. Estrai **tutto** l'archivio in una cartella qualsiasi.
 2. Chiudi il gioco.
 3. Fai doppio clic su **`Installa.cmd`**. Si apre per qualche secondo una finestra nera, poi quella del programma.
-4. Il programma trova da solo la cartella del gioco (Steam, GOG, Epic). Se non la trova, premi
+4. Il programma trova da solo la cartella del gioco (Steam, GOG, Epic, Game Pass). Se non la trova, premi
    *Sfoglia…* e indica la cartella che contiene `disco.exe` (nella versione Epic si chiama
    `Disco Elysium.exe`: non rinominarlo, dalla 2.0.1 l'installer lo riconosce).
 5. Premi **Installa traduzione**.
@@ -39,7 +40,7 @@ Chiunque può quindi leggere cosa fa il programma prima di avviarlo.
 **Dopo un aggiornamento del gioco** o una *verifica integrità dei file* di Steam i testi possono tornare in
 spagnolo: basta riavviare `Installa.cmd` e premere di nuovo *Installa traduzione*.
 
-**Da una versione precedente:** avvia `Installa.cmd` della nuova versione e premi *Aggiorna alla versione 2.2*.
+**Da una versione precedente:** avvia `Installa.cmd` della nuova versione e premi *Aggiorna alla versione 2.2.1*.
 Non serve rimuovere prima quella vecchia.
 
 **Rimozione:** avvia `Installa.cmd` e premi *Ripristina file originali*. I file del gioco tornano identici a prima.
@@ -60,6 +61,27 @@ Installa.cmd /rimuovi  [/cartella "percorso del gioco"]
 ### Requisiti
 
 Disco Elysium – The Final Cut per Windows, Windows 10 o 11.
+
+### Linux e Steam Deck
+
+Su Linux il gioco gira con Proton e usa gli stessi file della versione Windows di Steam, ma l'installatore
+funziona solo su Windows. Per questo c'è l'archivio `..._file_pronti_Steam.zip`: i quattro file già tradotti
+dall'installatore sulla versione Steam del gioco, da copiare nella cartella del gioco, più le impronte
+SHA-256 per controllare prima, con `sha256sum -c originali.sha256`, che la propria versione sia la stessa.
+Le istruzioni sono nel `LEGGIMI.txt` dell'archivio. Per rimuovere la traduzione basta la *verifica integrità
+dei file* di Steam.
+
+I file valgono solo per la build di Steam indicata nel `LEGGIMI.txt`: con GOG, Epic o Game Pass, o dopo un
+aggiornamento del gioco, possono non corrispondere. L'archivio viene prodotto da `costruisci.ps1`.
+
+## Novità della versione 2.2.1
+
+- Corretto un errore dell'installatore che con la versione **Game Pass** si fermava con "Riferimento a un
+  oggetto non impostato su un'istanza di oggetto": salvando `resources.assets` con due oggetti modificati, il
+  riallineamento poteva sovrascrivere la tabella degli oggetti. Su Steam, GOG ed Epic i file prodotti non
+  cambiano. Grazie all'utente di Nexus che l'ha trovato e corretto.
+- La cartella di Game Pass (`XboxGames\Disco Elysium - The Final Cut\Content`) viene trovata da sola.
+- Nuovo archivio di file pronti per la versione Steam, per Linux e Steam Deck.
 
 ## Novità della versione 2.2
 
@@ -109,7 +131,7 @@ Nella 2.0: 1.108 stringhe corrette o nuove su 78.909 (480 di interfaccia, 628 di
 - Le correzioni della 2.1 e della 2.2 sono state controllate in automatico e a campione, non ancora tutte in gioco.
 - In modalità font dislessia i pulsanti illustrati sono in italiano ma con il carattere normale.
 - Il font secondario *CoreSansES* non ha la lettera "ò": dove è usato, il gioco la prende da un font di riserva.
-- Solo Windows.
+- L'installatore funziona solo su Windows; su Linux e Steam Deck ci sono i file pronti per la versione Steam.
 
 Segnalazioni di errori e proposte di correzione sono benvenute nella sezione **Issues**:
 indica la frase sbagliata (o la sua chiave, vedi sotto) e la correzione proposta.
@@ -134,6 +156,7 @@ Per molte correzioni conviene una **pull request** con un file in `traduzione/re
 | `tools/patcher/Patcher.cs` | Finestra del programma e ricerca della cartella del gioco. |
 | `tools/ps/*.ps1` | Collaudi automatici su una copia dei file del gioco (installa, confronta, ripristina). |
 | `pubblicazione/senza_exe/` | `Installa.cmd`, `Installa.ps1` e `LEGGIMI.txt` dell'archivio distribuito. |
+| `pubblicazione/file_pronti/` | Modello del `LEGGIMI.txt` dell'archivio di file pronti per la versione Steam. |
 | `costruisci.ps1` | Ricostruisce tutto: strumenti, testo finale, controlli, cartella `dati`, archivi. |
 
 ### Aggiungere una correzione
@@ -157,11 +180,13 @@ Prerequisiti:
   È la fonte del testo di partenza e delle immagini dei pulsanti.
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File costruisci.ps1 -GameDir "C:\percorso\Disco Elysium" -Versione 2.2
+powershell -ExecutionPolicy Bypass -File costruisci.ps1 -GameDir "C:\percorso\Disco Elysium" -Versione 2.2.1
 ```
 
-Lo script produce in `pubblicazione/` l'archivio con l'exe e quello senza exe
-(`..._senza_exe.zip`, lo stesso pubblicato nelle Release come `..._cmd.zip`).
+Lo script produce in `pubblicazione/` l'archivio con l'exe, quello senza exe
+(`..._senza_exe.zip`, lo stesso pubblicato nelle Release come `..._cmd.zip`) e quello di file pronti per la
+versione Steam (`..._file_pronti_Steam.zip`), tradotti dall'installatore su una copia degli originali del gioco
+indicato con `-GameDir`.
 I file intermedi finiscono in `work/` e `build/`, esclusi dal repository.
 
 ## Licenza

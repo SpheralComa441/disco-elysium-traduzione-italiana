@@ -1,5 +1,5 @@
 DISCO ELYSIUM - THE FINAL CUT
-Traduzione italiana 2.2
+Traduzione italiana 2.2.1
 ======================================================================
 
 INSTALLAZIONE
@@ -7,7 +7,7 @@ INSTALLAZIONE
      dall'interno dello zip: gli serve la cartella "dati" accanto).
   2. Chiudi il gioco.
   3. Avvia DiscoElysium_Traduzione_ITA.exe.
-  4. Il programma trova da solo la cartella del gioco (Steam, GOG, Epic).
+  4. Il programma trova da solo la cartella del gioco (Steam, GOG, Epic, Game Pass).
      Se non la trova, premi "Sfoglia..." e indica la cartella che contiene disco.exe
      (nella versione Epic si chiama "Disco Elysium.exe": non rinominarlo).
   5. Premi "Installa traduzione".

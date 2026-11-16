@@ -4,7 +4,7 @@
 #   .\costruisci.ps1 -GameDir "X:\...\Disco Elysium" -Versione "2.1"
 param(
     [string]$GameDir = 'D:\SteamLibrary\steamapps\common\Disco Elysium',
-    [string]$Versione = '2.2'
+    [string]$Versione = '2.2.1'
 )
 $ErrorActionPreference = 'Stop'
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
@@ -80,5 +80,38 @@ if (Test-Path $zip2) { Remove-Item $zip2 -Confirm:$false }
 Compress-Archive -Path (Join-Path $stage '*') -DestinationPath $zip2 -CompressionLevel Optimal
 Remove-Item -Recurse -Force $stage -Confirm:$false
 Write-Host ("archivio: {0} ({1:N1} MB)" -f $zip2, ((Get-Item $zip2).Length / 1MB))
+
+# Variante "file pronti" per la versione Steam (Linux e Steam Deck con Proton, ma anche Windows): i quattro file
+# tradotti dal patcher stesso su una copia degli originali, con le impronte per controllare la versione del gioco.
+Passo 'File pronti per la versione Steam'
+$build = 'sconosciuta'
+$acf = Join-Path (Split-Path -Parent (Split-Path -Parent $GameDir)) 'appmanifest_632470.acf'
+if (Test-Path $acf) { $m = [regex]::Match((Get-Content $acf -Raw), '"buildid"\s+"(\d+)"'); if ($m.Success) { $build = $m.Groups[1].Value } }
+$rels = 'disco_Data\resources.assets', 'disco_Data\StreamingAssets\AssetBundles\Windows\lockits\spanish',
+        'disco_Data\StreamingAssets\AssetBundles\Windows\images\spanish', 'disco_Data\StreamingAssets\AssetBundles\Windows\images_dyslexic\spanish'
+$utf8 = New-Object System.Text.UTF8Encoding $false
+function Impronte { ($rels | ForEach-Object { (Get-FileHash (Join-Path $stage $_)).Hash.ToLower() + '  ' + $_.Replace('\', '/') }) -join "`n" }
+New-Item -ItemType Directory -Force $stage | Out-Null
+foreach ($r in $rels) { $d = Join-Path $stage $r; New-Item -ItemType Directory -Force (Split-Path $d) | Out-Null; Copy-Item (Join-Path $orig $r) $d }
+[IO.File]::WriteAllText((Join-Path $stage 'originali.sha256'), (Impronte) + "`n", $utf8)
+$p = Start-Process (Join-Path $root 'build\DiscoElysium_Traduzione_ITA.exe') -ArgumentList '/installa', '/cartella', "`"$stage`"" -Wait -PassThru
+if ($p.ExitCode -ne 0) { throw "file pronti: traduzione della copia degli originali non riuscita" }
+Remove-Item -Recurse -Force (Join-Path $stage '_backup_traduzione_ITA') -Confirm:$false
+[IO.File]::WriteAllText((Join-Path $stage 'tradotti.sha256'), (Impronte) + "`n", $utf8)
+$leggimi = [IO.File]::ReadAllText((Join-Path $pub 'file_pronti\LEGGIMI.txt'), $utf8).Replace('{VERSIONE}', $Versione).Replace('{BUILD}', $build)
+[IO.File]::WriteAllText((Join-Path $stage 'LEGGIMI.txt'), $leggimi, $utf8)
+$zip3 = Join-Path $pub "DiscoElysium_Traduzione_ITA_v${Versione}_file_pronti_Steam.zip"
+if (Test-Path $zip3) { Remove-Item $zip3 -Confirm:$false }
+# nomi con "/": Compress-Archive di Windows PowerShell usa "\", che alcuni programmi su Linux non trattano come cartelle
+Add-Type -AssemblyName System.IO.Compression, System.IO.Compression.FileSystem
+$za = [IO.Compression.ZipFile]::Open($zip3, 'Create')
+try {
+    foreach ($f in Get-ChildItem $stage -Recurse -File) {
+        [void][IO.Compression.ZipFileExtensions]::CreateEntryFromFile($za, $f.FullName, $f.FullName.Substring($stage.Length + 1).Replace('\', '/'), 'Optimal')
+    }
+}
+finally { $za.Dispose() }
+Remove-Item -Recurse -Force $stage -Confirm:$false
+Write-Host ("archivio: {0} ({1:N1} MB, build Steam {2})" -f $zip3, ((Get-Item $zip3).Length / 1MB), $build)
 Write-Host ""
 Write-Host "Fatto." -ForegroundColor Green

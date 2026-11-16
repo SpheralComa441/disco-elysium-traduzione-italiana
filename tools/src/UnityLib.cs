@@ -681,9 +681,11 @@ namespace DE
                 if (p % 4 != 0) p += 4 - p % 4;
                 if (o.NewData != null)
                 {
+                    // il cursore può essere rimasto dentro la tabella (voce dell'oggetto precedente): si riparte dal fondo
+                    ms.Position = ms.Length;
                     while (ms.Length % 16 != 0) ms.WriteByte(0);
                     long start = ms.Length - f.DataOffset;
-                    ms.Position = ms.Length; ms.Write(o.NewData, 0, o.NewData.Length);
+                    ms.Write(o.NewData, 0, o.NewData.Length);
                     BinWriter e = new BinWriter(big); e.I64(start); e.U32((uint)o.NewData.Length);
                     byte[] eb = e.ToArray();
                     ms.Position = p + 8; ms.Write(eb, 0, eb.Length);

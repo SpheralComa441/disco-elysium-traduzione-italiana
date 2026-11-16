@@ -20,8 +20,8 @@ using Microsoft.Win32;
 [assembly: AssemblyProduct("Disco Elysium - Traduzione italiana")]
 [assembly: AssemblyCompany("Traduzione amatoriale: giovix93, Gianxs e contributori")]
 [assembly: AssemblyCopyright("Mod gratuita, non affiliata a ZA/UM")]
-[assembly: AssemblyVersion("2.2.0.0")]
-[assembly: AssemblyFileVersion("2.2.0.0")]
+[assembly: AssemblyVersion("2.2.1.0")]
+[assembly: AssemblyFileVersion("2.2.1.0")]
 
 namespace DE
 {
@@ -140,7 +140,8 @@ namespace DE
                 @"SteamLibrary\steamapps\common\Disco Elysium", @"Steam\steamapps\common\Disco Elysium",
                 @"Program Files (x86)\Steam\steamapps\common\Disco Elysium", @"Program Files\Steam\steamapps\common\Disco Elysium",
                 @"GOG Games\Disco Elysium", @"GOG Games\Disco Elysium - The Final Cut", @"Program Files (x86)\GOG Galaxy\Games\Disco Elysium",
-                @"Program Files\Epic Games\DiscoElysium", @"Epic Games\DiscoElysium", @"Games\Disco Elysium", @"Giochi\Disco Elysium" };
+                @"Program Files\Epic Games\DiscoElysium", @"Epic Games\DiscoElysium", @"XboxGames\Disco Elysium - The Final Cut\Content",
+                @"Games\Disco Elysium", @"Giochi\Disco Elysium" };
             foreach (DriveInfo d in DriveInfo.GetDrives())
             {
                 try
