@@ -615,7 +615,7 @@ Dialogues	Dialogue Text/0x0100008900000AEE	Teletrasportati sul tetto.
 Dialogues	tooltip3/0x0100008900000AEE	Bonus della Visione a Distanza!
 Dialogues	Dialogue Text/0x01000016000099A3	Ok. Ma il tetto sta comunque crollando e lassù il vento è brutale. Passare dalla scala al tetto sarà *difficile*. Forse potresti... *non* salire la scala? Invece...
 Dialogues	Dialogue Text/0x01000016000099AA	Senza contare che il tetto sta crollando e lassù il vento è brutale. Passare dalla scala al tetto sarà *difficile*. Forse potresti... *non* salire la scala? Invece...
-Dialogues	Dialogue Text/0x01000016000099BF	PROIEZIONE ASTRALE! Mantieni una *mente aperta*. 
+Dialogues	Dialogue Text/0x01000016000099BF	PROIEZIONE ASTRALE! Mantieni una *mente aperta*.
 Dialogues	Dialogue Text/0x0100001600009A1D	Ti guarda con gli occhi spalancati per la finta sorpresa. "Non ci riesci? Per favore, non provare a *scalare* l'edificio, entreremo in un altro modo."
 Dialogues	Dialogue Text/0x0100001600009A34	"Apparecchio per il teletrasporto? Non ricordo di aver parlato di apparecchi per il teletrasporto. Per favore, non provare a *scalare* l'edificio, entreremo in un altro modo."
 Dialogues	Dialogue Text/0x0100001600009A53	Non gongolare. Rimani lì come un maestro samarano.
@@ -4618,7 +4618,7 @@ Dialogues	Dialogue Text/0x010000580000ED51	"Cosa pensavi? Che avrei fatto la spi
 Dialogues	Dialogue Text/0x010000580000ED0A	"Un Nachtwey 80 ad avancarica. A due canne... non proprio quello che stavi cercando, immagino."
 Dialogues	Dialogue Text/0x010000580000F250	"Ma volevi essere più che una semplice *amica*."
 Dialogues	Dialogue Text/0x010000580000F269	"Oh, quindi è lì che volevi arrivare." Lei scuote la testa. "Ti sembro *davvero* una persona che farebbe una cosa così stupida come commettere un omicidio per gelosia?"
-Dialogues	Dialogue Text/0x010000580000EF63	"Wow, pisciare, flipper e ora sbirciare. Non sto seguendo le tue insinuazioni, detective."
+Dialogues	Dialogue Text/0x010000580000EF63	"Wow, pisciare, pinball e ora sbirciare. Non sto seguendo le tue insinuazioni, detective."
 Dialogues	Dialogue Text/0x010000580000F226	(Fai una smorfia.) "Ci sono altre prove su cui voglio farti delle domande." (Concludi.)
 Dialogues	Dialogue Text/0x010000580000FEA1	"Amico, sono stata con i ragazzi tutta la notte. Spero che almeno si siano presi la briga di farvi capire *questo*."
 Dialogues	Dialogue Text/0x010000580000FEAA	"Hanno detto che te ne sei andata per fare una... lunghissima pisciata. Quindici minuti."
@@ -4627,7 +4627,7 @@ Dialogues	Dialogue Text/0x010000580000FF0D	"La nostra indagine..." (trasalisci p
 Dialogues	Dialogue Text/0x010000580000FF15	"Wow, ora sono curiosa. Per favore, spiega."
 Dialogues	Dialogue Text/0x010000580000EF8E	"Sì, e probabilmente qualche fantasma del tempo del Sovrano. Non sono molto interessata ai misteri soprannaturali."
 Dialogues	Dialogue Text/0x010000580000F002	"La roba vecchia non mi interessa solo perché è vecchia."
-Dialogues	Dialogue Text/0x010000580000EF30	"Giochi... spesso a flipper?"
+Dialogues	Dialogue Text/0x010000580000EF30	"Giochi... spesso a pinball?"
 Dialogues	Dialogue Text/0x010000580000FF4E	"Guarda, c'è una... via segreta dal primo piano del Whirling al tetto."
 Dialogues	Alternate3/0x010000580000FF4E	"Lascia perdere il... pinball allora. C'è una... via segreta dal bar del Whirling... al tetto."
 Dialogues	Dialogue Text/0x010000580000F01B	"E l’argomento qual era? Scalinate? Scale a pioli?"
@@ -5548,7 +5548,7 @@ Dialogues	Dialogue Text/0x0100008F00001E32	Una grande forza da nord-est aprì il
 Dialogues	Dialogue Text/0x0100008F0000227F	"Ehi Kim. Sai chi ha *bombardato* la nostra città?"
 Dialogues	Dialogue Text/0x010000060001BB45	La nave da guerra della Coalizione Archer può sparare cinquanta proiettili al minuto, su venti archi co-allineati. Raggiungeranno la città in 58 secondi.
 Dialogues	Dialogue Text/0x0100000900001C87	"È una libreria, signore! Vendiamo libri, cartoline e alcuni giochi da tavolo." Lei indica la vetrina. "Si chiama *Gialli, Romanzi rosa e Biografie di personaggi famosi*."
-Dialogues	Dialogue Text/0x0100000900001C94	"Mi chiamo Annette, signore. Mia madre, il suo nome è Plaisance, è la proprietaria del negozio. È dentro, sta badando alla cassa... o facendo l'inventario." La ragazza guarda la finestra, poi improvvisamente sussulta, i suoi occhi si spalancano, come se ricordasse qualcosa:"
+Dialogues	Dialogue Text/0x0100000900001C94	"Mi chiamo Annette, signore. Mia madre, il suo nome è Plaisance, è la proprietaria del negozio. È dentro, sta badando alla cassa... o facendo l'inventario." La ragazza guarda la finestra, poi improvvisamente sussulta, i suoi occhi si spalancano, come se ricordasse qualcosa:
 Dialogues	Dialogue Text/0x0100000900001CA2	"I gialli parlano di omicidi o furti o cose del genere. E il lavoro di un poliziotto o di un detective privato che cerca di risolvere un crimine e catturare i criminali."
 Dialogues	Dialogue Text/0x0100000900001D4B	Non sa come interpretare quelle parole. Ma se le ricorderà.
 Dialogues	Dialogue Text/0x0100000900001E13	"Cosa sono i romanzi rosa?"
@@ -8490,7 +8490,7 @@ Dialogues	Dialogue Text/0x010000820001CA7B	"Beh sì... cosa ti aspetti? Non era 
 Dialogues	Alternate1/0x010000820001CA90	"Klaasje ha detto che le ha fatto delle avances e lei le ha respinte. L'ha anche minacciata di *troncare* la sua relazione con il defunto."\n
 Dialogues	Dialogue Text/0x010000820001CAD2	"Recente." (Annuisci) "Una settimana o due."
 Dialogues	Dialogue Text/0x010000820001CAD8	"E va bene così. Alcuni sono più strani di altri, puoi ancora essere un Hardie." Dà un'occhiata a Glen. "Ma se porti la tua merda personale nella nostra squadra..."
-Dialogues	Dialogue Text/0x010000820001CAEA	Strano... come? Indossi il cappotto del costruttore di flipper.
+Dialogues	Dialogue Text/0x010000820001CAEA	Strano... come? Indossi il cappotto del costruttore di pinball.
 Dialogues	Dialogue Text/0x010000820001CB12	"Non lo so, Glenny." L’uomo dalla faccia da topo si sporge sul tavolo. "Ruby è un po' riservata, vero? Non è che ti abbia detto ogni piccola cosa..."
 Dialogues	Dialogue Text/0x010000820001CB1E	"No-no," ti guarda con gli occhi socchiusi. "Entriamo *nell'argomento* -- cosa ha detto?"
 Dialogues	Dialogue Text/0x010000820001CB2A	Bene. Siamo dentro. Per parte della finestra temporale nessuno sa dove fosse Ruby. Questo era cruciale. Ora collochiamola su quel tetto.
@@ -8522,18 +8522,18 @@ Dialogues	Alternate1/0x010000820001D025	Il tenente si china più vicino a Eugene
 Dialogues	Dialogue Text/0x010000820001D04B	"Con fermezza?" Scuote la testa. "Direi piuttosto *merda su un bastone*. Tutto quello che hai stabilito è un *possibile* percorso verso il tetto -- che non hai trovato."
 Dialogues	Dialogue Text/0x010000820001D0A6	"*Officina, riserva*, in realtà. Era nella *tua* saletta. Ruby è stata qui, giusto?"
 Dialogues	Dialogue Text/0x010000820001D0AC	"Era nella *tua* saletta. Immagino che Ruby sia stata qui?"
-Dialogues	Dialogue Text/0x010000820001D0BE	"C'erano dei flipper nell'officina. Ancora funzionanti."
+Dialogues	Dialogue Text/0x010000820001D0BE	"C'erano delle macchine da pinball nell'officina. Ancora funzionanti."
 Dialogues	Dialogue Text/0x010000820001D0D0	"Sì, quella stronza è proprio camiciata. Pure da 4 mm..."
 Dialogues	Dialogue Text/0x010000820001D0F1	Lui strizza gli occhi. "*Sei stato* scrupoloso. Te lo concedo."
 Dialogues	Dialogue Text/0x010000820001D10F	Lui annuisce. "È anche un dannato fucile a retrocarica -- trovane uno che funzioni e avrai un'arma di livello militare -- che spara munizioni incamiciate." Scuote la testa.
-Dialogues	Dialogue Text/0x010000820001D115	"Niente. Pensavo solo che potessimo portarne giù qualcuno. Mettere dei flipper nuovi qui dentro."
+Dialogues	Dialogue Text/0x010000820001D115	"Niente. Pensavo solo che potessimo portarne giù qualcuna. Mettere qualche macchina nuova qui dentro."
 Dialogues	Dialogue Text/0x010000820001D13C	"E poi rimetterla *a posto*? Perché?" Indica la chiave. "È dannatamente interessante che tu l'abbia trovata lì... ma non si adatta a Ruby. E tu lo sai."
 Dialogues	Dialogue Text/0x010000820001D14B	"Ti dico una cosa: mi è piaciuto come quel maledetto *argano* è tornato a galla. È stato ingegnoso."
 Dialogues	Alternate1/0x010000820001D170	"*Collegate* -- con il *argano*, Eugene! Avrebbe potuto salire -- sparargli -- scendere -- in meno di cinque minuti."
 Dialogues	Dialogue Text/0x010000820001D176	"Sì, avrebbe *potuto* farlo. È un’ipotesi *moooolto* azzardata." Lui scuote la testa, ma lo sguardo nei suoi occhi mostra interesse.
 Dialogues	Dialogue Text/0x010000820001D1C8	"Sta cercando di corteggiarci con la scienza poliziesca. Stronzate di scienze forensi. Ho sentito questo mambo jambo."
-Dialogues	Dialogue Text/0x010000820001D201	"Dannazione, poliziotto... mi stai prendendo in giro? Sai che non era un maledetto Assassino dei Flipper!"
-Dialogues	Dialogue Text/0x010000820001D21A	"E se fossero in qualche modo collegati all'omicidio -- un *Assassino dei Flipper*?"
+Dialogues	Dialogue Text/0x010000820001D201	"Dannazione, poliziotto... mi stai prendendo in giro? Sai che non era un maledetto Assassino del Pinball!"
+Dialogues	Dialogue Text/0x010000820001D21A	"E se fossero in qualche modo collegati all'omicidio -- un *Assassino del Pinball*?"
 Dialogues	Dialogue Text/0x010000820001D268	Basta non contraddirti. Se non suona come 'È STATA RUBY', forse tienilo per te?
 Dialogues	Dialogue Text/0x010000820001D276	"Anche questo inutilizzabile?"
 Dialogues	Dialogue Text/0x010000820001D28C	"Non forse. Lo *stavate facendo*." Indica il tenente. "Tutti e due. L’ho fatto anch’io, ammucchiare ogni indizio che trovo su un’unica teoria. Non funziona così."
@@ -8579,7 +8579,7 @@ Dialogues	Dialogue Text/0x010000820001DAFB	"Sì, c'era qualcos'altro. Non ha vol
 Dialogues	Dialogue Text/0x010000820001DB01	"Perché no? Succhiavi quella pistola come se qualcuno ti avesse aperto un culo nuovo di zecca."
 Dialogues	Dialogue Text/0x010000820001DB37	*Chi* è che la sta cercando? Sono tutti qui.
 Dialogues	Dialogue Text/0x010000820001DB3D	E ancora non ne è sicuro. La gente non ha paura dei bravi poliziotti come Ruby aveva paura di te, pensa, poi torna dai suoi uomini.
-Dialogues	Dialogue Text/0x010000820001EC14	"L'ascensore è *fuori* dall'edificio. È un vecchio montavivande -- usato per spostare i flipper su e giù dal laboratorio."
+Dialogues	Dialogue Text/0x010000820001EC14	"L'ascensore è *fuori* dall'edificio. È un vecchio montavivande -- usato per spostare le macchine da pinball su e giù dal laboratorio."
 Dialogues	Dialogue Text/0x0100008F00003948	(Sussurra.) "Kim, hai avuto abbastanza tempo per elaborare una teoria. Che cos'hai?"
 Dialogues	Dialogue Text/0x0100008F0000397E	No, voglio fare tutto da solo!
 Dialogues	Dialogue Text/0x0100008F00003A01	A rapporto! Una ricerca *accurata* in questa saletta del Sindacato può aiutare a portare alla luce qualcosa di *incriminante*! Dai la colpa a lei -- è stata qui, giusto?
@@ -8588,7 +8588,7 @@ Dialogues	Dialogue Text/0x01000004000145D9	"Comunque, c'è sicuramente qualcosa 
 Dialogues	Dialogue Text/0x010000040001463E	"Anche se non possiamo esserne certi proprio *ora*, lo *scopriremo*."
 Dialogues	Dialogue Text/0x0100000400014644	"Certo, poliziotti, certo..." si gira verso Eugene. "Dobbiamo dare un'occhiata a quel passaggio segreto, ragazzi."
 Dialogues	Dialogue Text/0x010000040001465E	"Certo, poliziotto, certo..." si gira verso Eugene. "Dobbiamo dare un'occhiata a quel passaggio segreto, ragazzi."
-Dialogues	Dialogue Text/0x0100000400014678	"L'ascensore è sul *muro esterno* dell'edificio. È un vecchio montavivande -- usato per spostare i flipper su e giù dall'officina."
+Dialogues	Dialogue Text/0x0100000400014678	"L'ascensore è sul *muro esterno* dell'edificio. È un vecchio montavivande -- usato per spostare le macchine da pinball su e giù dall'officina."
 Dialogues	Dialogue Text/0x010000040001472B	"Fanculo, amico, non fotterei mai i miei ragazzi in questo modo." Grugnisce con indignazione. "Specialmente per una tipa..."
 Dialogues	Dialogue Text/0x0100002900001DFC	"Ha un’aria da maschiaccio. Capelli rossi, tinti. Sembra una camionista."
 Dialogues	Dialogue Text/0x0100000600015217	"Stavamo parlando di apparecchiature radio. Ha detto che sta trafficando con le frequenze Ulan e un coso del pallore. Non so altro."
