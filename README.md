@@ -1,4 +1,4 @@
-# Disco Elysium – The Final Cut · Traduzione italiana 2.1
+# Disco Elysium – The Final Cut · Traduzione italiana 2.2
 
 Traduzione italiana completa di **Disco Elysium – The Final Cut** (Windows), con installatore automatico
 che trova il gioco, salva i file originali e permette di ripristinarli in qualsiasi momento.
@@ -14,7 +14,7 @@ Non serve BepInEx.
 
 ## Download
 
-Scarica l'archivio `DiscoElysium_Traduzione_ITA_v2.1_cmd.zip` dalla pagina
+Scarica l'archivio `DiscoElysium_Traduzione_ITA_v2.2_cmd.zip` dalla pagina
 **[Releases](../../releases/latest)**.
 
 L'archivio non contiene programmi già compilati: `Installa.cmd` compila sul momento il codice C# della
@@ -39,7 +39,7 @@ Chiunque può quindi leggere cosa fa il programma prima di avviarlo.
 **Dopo un aggiornamento del gioco** o una *verifica integrità dei file* di Steam i testi possono tornare in
 spagnolo: basta riavviare `Installa.cmd` e premere di nuovo *Installa traduzione*.
 
-**Da una versione precedente:** avvia `Installa.cmd` della nuova versione e premi *Aggiorna alla versione 2.1*.
+**Da una versione precedente:** avvia `Installa.cmd` della nuova versione e premi *Aggiorna alla versione 2.2*.
 Non serve rimuovere prima quella vecchia.
 
 **Rimozione:** avvia `Installa.cmd` e premi *Ripristina file originali*. I file del gioco tornano identici a prima.
@@ -61,6 +61,18 @@ Installa.cmd /rimuovi  [/cartella "percorso del gioco"]
 
 Disco Elysium – The Final Cut per Windows, Windows 10 o 11.
 
+## Novità della versione 2.2
+
+- **Revisione integrale di [kdpkke](https://github.com/kdpkke)**: tutte le 78.909 voci esaminate,
+  13.945 correzioni (12.245 nei dialoghi, 1.700 tra interfaccia, descrizioni, oggetti, compiti e pensieri).
+  Errori di significato, calchi dall'inglese, registro dei personaggi, pronomi e accordi, terminologia e
+  giochi di parole. Le correzioni stanno in `traduzione/revisioni/05_revisione_integrale.tsv`.
+- **Terminologia uniformata**: le prove di abilità ora si chiamano *Prova Bianca* e *Prova Rossa*; nomi di
+  personaggi, luoghi e oggetti coerenti in tutto il gioco (*Artigiana di dadi speciali*, *Poliziopedia*…).
+- Rifinite 280 correzioni della 2.1 (accordi, articoli, scorrevolezza).
+
+In totale ora 17.745 stringhe corrette o nuove su 78.909 (2.191 di interfaccia, 15.554 di dialogo).
+
 ## Novità della versione 2.1
 
 - **3.032 battute corrette da [EdoCap2710](https://github.com/EdoCap2710)** (2.962 dialoghi, 70 tra descrizioni,
@@ -71,14 +83,14 @@ Disco Elysium – The Final Cut per Windows, Windows 10 o 11.
 - Nomi uniformati in tutto il gioco: *Area Commerciale Maledetta* e *pinball*, che richiama il soprannome di Kim.
 - Dalla 2.0.1: l'installatore funziona anche con la versione Epic Games.
 
-In totale ora 4.128 stringhe corrette o nuove su 78.909 (546 di interfaccia, 3.582 di dialogo).
+Nella 2.1: 4.128 stringhe corrette o nuove su 78.909 (546 di interfaccia, 3.582 di dialogo).
 
 ## Novità della versione 2.0 rispetto alla 1.1
 
 - **Skill tradotte nella scheda personaggio.** Le etichette non stanno nei bundle di lingua ma in
   `resources.assets` (`CharsheetSkillLabelsSpanish`), che la vecchia patch non toccava.
 - La lingua nel menu compare come **Italiano**.
-- **Testi mancanti aggiunti**: circa 300 battute dei contenuti introdotti dopo il 2022 (flipper di
+- **Testi mancanti aggiunti**: circa 300 battute dei contenuti introdotti dopo il 2022 (pinball di
   Cornelius Gurdi, giacca "Pissf\*\*\*\*t", body leopardato, nuotatore dei ghiacci…) erano rimaste in spagnolo,
   come una cinquantina di descrizioni dei libri di Dick Mullen; mancavano le voci di menu *Collage* e *Font per dislessia*.
 - **Formattazione riparata**: 159 battute con il corsivo non chiuso, 139 con virgolette spaiate,
@@ -92,16 +104,16 @@ Nella 2.0: 1.108 stringhe corrette o nuove su 78.909 (480 di interfaccia, 628 di
 
 ## Limiti noti
 
-- Il resto dei dialoghi (circa 70.000 battute) è quello della 1.1, in buona parte traduzione automatica
-  rivista: restano errori di senso e di registro.
-- Le correzioni della 2.1 sono state controllate in automatico e a campione, non ancora tutte in gioco.
+- Circa 58.000 battute dei dialoghi sono ancora quelle della 1.1: la revisione della 2.2 le ha esaminate e
+  lasciate invariate, ma possono restare errori di senso e di registro.
+- Le correzioni della 2.1 e della 2.2 sono state controllate in automatico e a campione, non ancora tutte in gioco.
 - In modalità font dislessia i pulsanti illustrati sono in italiano ma con il carattere normale.
 - Il font secondario *CoreSansES* non ha la lettera "ò": dove è usato, il gioco la prende da un font di riserva.
 - Solo Windows.
 
 Segnalazioni di errori e proposte di correzione sono benvenute nella sezione **Issues**:
 indica la frase sbagliata (o la sua chiave, vedi sotto) e la correzione proposta.
-Per molte correzioni conviene una **pull request** con un file in `traduzione/revisioni/`, come è stato fatto per la 2.1.
+Per molte correzioni conviene una **pull request** con un file in `traduzione/revisioni/`, come è stato fatto per la 2.1 e la 2.2.
 
 ---
 
@@ -145,7 +157,7 @@ Prerequisiti:
   È la fonte del testo di partenza e delle immagini dei pulsanti.
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File costruisci.ps1 -GameDir "C:\percorso\Disco Elysium" -Versione 2.1
+powershell -ExecutionPolicy Bypass -File costruisci.ps1 -GameDir "C:\percorso\Disco Elysium" -Versione 2.2
 ```
 
 Lo script produce in `pubblicazione/` l'archivio con l'exe e quello senza exe
@@ -167,12 +179,13 @@ licenza MIT e restano soggetti ai permessi indicati qui sotto.
 - Versione 2.0: completamento, correzioni, traduzione delle skill e programma di installazione.
 - Versione 2.1: revisione di 3.032 battute di **[EdoCap2710](https://github.com/EdoCap2710)**,
   con il confronto integrale del finale.
+- Versione 2.2: revisione integrale di **[kdpkke](https://github.com/kdpkke)**, 13.945 correzioni.
 
 I permessi della pagina originale consentono di modificare i file e pubblicare miglioramenti,
 e di riusarne le risorse purché non in mod a pagamento.
 
-Parte dei testi rivisti (comprese le correzioni della 2.1) e il programma di installazione sono stati
-realizzati con l'aiuto di strumenti di AI.
+Parte dei testi rivisti (comprese le correzioni della 2.1 e della 2.2) e il programma di installazione sono
+stati realizzati con l'aiuto di strumenti di AI.
 
 Mod amatoriale e gratuita, non affiliata a ZA/UM. *Disco Elysium* è un marchio dei rispettivi proprietari;
 per usare la traduzione serve una copia legittima del gioco.
